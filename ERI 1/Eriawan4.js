@@ -19,7 +19,7 @@ var refresh = 90;
 
 
 
-dvar namagroup1 = 'ShioKelinci4d';
+var namagroup1 = 'ShioKelinci4d';
 var Comment1 = '#shiokelinci4d*NANA19*28*46'; 
 
 var namagroup2 = 'PREDIKSI SYAIR';
