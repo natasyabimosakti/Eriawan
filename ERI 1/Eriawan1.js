@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.1
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
