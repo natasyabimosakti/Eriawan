@@ -4,7 +4,7 @@
 // @version      3.61
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
+// @downloadURL 
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
