@@ -21,7 +21,53 @@ var refresh = 50;
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
+var namagroup1 = 'SHIOKELINCI';
+var Comment1 = '#shiokelinci4d*RISE989*79*46'; 
 
+var namagroup2 = 'PREDIKTOR';
+var Comment2 = '#IYATOTO RUBIC767 11*17*53'; 
+
+var namagroup3 = 'TiktakTogel';
+var Comment3 = '#Tiktaktogel / RAPID393 / 78 , 35 , 92'; 
+
+var namagroup4 = 'GAIB4D';
+var Comment4 = 'GAIB4D=READY727=20*91*89'; 
+
+var namagroup5 = 'KEITOGEL';
+var Comment5 = '#keitogel = (REAL969) = 11*17*53'; 
+
+var namagroup6 = 'KIOSTOTO';
+var Comment6 = 'KIOSTOTO=REALIS147=54*09*26'; 
+
+var namagroup7 = 'KHUSUS';
+var Comment7 = '#ASEPTOGEL RAKBAR355 54*09*26'; 
+
+var namagroup8 = 'ANGKER';
+var Comment8 = 'ANGKER4D=RUZAK676=66*95*29'; 
+
+var namagroup9 = 'GILA4D';
+var Comment9 = 'GILA4D=ROTTAN131=66*95*29'; 
+
+var namagroup10 = 'JNE';
+var Comment10 = '#JNETOTO(RUNNING765)*78*35*92'; 
+
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
+var Comment11 = '#TA*RAKNYAM777*66*95*29*'; 
+
+var namagroup12 = 'BOCORAN PREDIKSI SDY';
+var Comment12 = '#TOGELKUY REOTKAB475 20*91*89'; 
+
+var namagroup13 = 'TOYIBSLOT';
+var Comment13 = '#TOYIBSLOT ( RUMM009 ) : 19*75*02'; 
+
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 19*75*02 ( RORO363 )'; 
+
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (ROLOKAB111)  99*73*98'; 
+
+var namagroup16 = '';
+var Comment16 = '';
 
 
 
