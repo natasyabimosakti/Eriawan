@@ -20,7 +20,53 @@ var refresh = 50;
 /*======================================================================3copy tampermonkey==========================================================*/
 
 
+var namagroup1 = 'SHIOKELINCI';
+var Comment1 = '#shiokelinci4d*KAMCI23*25*31'; 
 
+var namagroup2 = 'PREDIKTOR';
+var Comment2 = '#IYATOTO KMDA78 26*04*32'; 
+
+var namagroup3 = 'TiktakTogel';
+var Comment3 = '#Tiktaktogel / KAMBIL90 / 74 , 10 , 34'; 
+
+var namagroup4 = 'GAIB4D';
+var Comment4 = 'GAIB4D=KASTUR18=52*35*19'; 
+
+var namagroup5 = 'KEITOGEL';
+var Comment5 = '#keitogel = (KATEPE73) = 26*04*32'; 
+
+var namagroup6 = 'KIOSTOTO';
+var Comment6 = 'KIOSTOTO=KERMIN19=61*77*55'; 
+
+var namagroup7 = 'KHUSUS';
+var Comment7 = '#ASEPTOGEL KERAMBIL72 61*77*55'; 
+
+var namagroup8 = 'ANGKER';
+var Comment8 = 'ANGKER4D=KERUNI19=99*60*92'; 
+
+var namagroup9 = 'GILA4D';
+var Comment9 = 'GILA4D=KERIPIK89=99*60*92'; 
+
+var namagroup10 = 'JNE';
+var Comment10 = '#JNETOTO(KRIMBAT72)*74*10*34'; 
+
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
+var Comment11 = '#TA*KRISAN19*99*60*92*'; 
+
+var namagroup12 = 'BOCORAN PREDIKSI SDY';
+var Comment12 = '#TOGELKUY KERAPI19 52*35*19'; 
+
+var namagroup13 = 'TOYIBSLOT';
+var Comment13 = '#TOYIBSLOT ( KERONTA88 ) : 20*18*75'; 
+
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 20*18*75 ( KERAPU77 )'; 
+
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (KERIUK89)  63*51*29'; 
+
+var namagroup16 = '';
+var Comment16 = '';
 
 
 
