@@ -21,54 +21,54 @@ var refresh = 50;
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*KAMCI23*25*31'; 
+var Comment1 = '#shiokelinci4d*OPPA31*22*71'; 
 
 var namagroup2 = 'PREDIKTOR';
-var Comment2 = '#IYATOTO KMDA78 26*04*32'; 
+var Comment2 = '#IYATOTO OYONG22 48*16*44'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / KAMBIL90 / 74 , 10 , 34'; 
+var Comment3 = '#Tiktaktogel / ONGKI18 / 64 , 34 , 24'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=KASTUR18=52*35*19'; 
+var Comment4 = 'GAIB4D=OBATT69=77*81*33'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (KATEPE73) = 26*04*32'; 
+var Comment5 = '#keitogel = (OGAHAH44) = 48*16*44'; 
 
 var namagroup6 = 'KIOSTOTO';
-var Comment6 = 'KIOSTOTO=KERMIN19=61*77*55'; 
+var Comment6 = 'KIOSTOTO=OSENGB20=14*76*70'; 
 
 var namagroup7 = 'KHUSUS';
-var Comment7 = '#ASEPTOGEL KERAMBIL72 61*77*55'; 
+var Comment7 = '#ASEPTOGEL ONGKIR370 14*76*70'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=KERUNI19=99*60*92'; 
+var Comment8 = 'ANGKER4D=OBORR55=52*38*32'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=KERIPIK89=99*60*92'; 
+var Comment9 = 'GILA4D=ONTAR77=52*38*32'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(KRIMBAT72)*74*10*34'; 
+var Comment10 = '#JNETOTO(ODONG90)*64*34*24'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*KRISAN19*99*60*92*'; 
+var Comment11 = '#TA*ONIONN33*52*38*32*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY KERAPI19 52*35*19'; 
+var Comment12 = '#TOGELKUY OING284 77*81*33'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( KERONTA88 ) : 20*18*75'; 
+var Comment13 = '#TOYIBSLOT ( OPUNG666 ) : 30*13*87'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 20*18*75 ( KERAPU77 )'; 
+var Comment14 = '#DENTOTO 30*13*87 ( OMBUS45 )'; 
 
 var namagroup15 = 'SNIPER NUSANTARA';
-var Comment15 = '#VESPATOGEL (KERIUK89)  63*51*29'; 
+var Comment15 = '#VESPATOGEL (OLONG00)  42*08*25'; 
 
 var namagroup16 = '';
 var Comment16 = '';
+
 
 
 
