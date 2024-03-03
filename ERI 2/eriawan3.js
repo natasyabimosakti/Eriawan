@@ -1,12 +1,11 @@
+
 // ==UserScript==
-// @name         ERI 3
+// @name         ERI 1l3
 // @namespace    http://tampermonkey.net/
 // @version      3.61
 // @description  try to take over the world!
-// @updateURL   
-https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
-// @downloadURL  
-https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
+// @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
+// @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -15,7 +14,6 @@ https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3
 // @grant       GM.getValue
 // @grant       window.close
 // ==/UserScript==
-
 
 var refresh = 50;
 
