@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.63
+// @version      3.64
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
@@ -23,16 +23,16 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*OPPA31*22*71'; 
 
 var namagroup2 = 'PREDIKTOR';
-var Comment2 = '#IYATOTO OYONG22 48*16*44'; 
+var Comment2 = '#IYATOTO OYONG22 48*16*34'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / ONGKI18 / 64 , 34 , 24'; 
+var Comment3 = '#Tiktaktogel / ONGKI18 / 64 , 44 , 24'; 
 
 var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=OBATT69=77*81*33'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (OGAHAH44) = 48*16*44'; 
+var Comment5 = '#keitogel = (OGAHAH44) = 48*16*34'; 
 
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=OSENGB20=14*76*70'; 
@@ -47,7 +47,7 @@ var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=ONTAR77=52*38*32'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(ODONG90)*64*34*24'; 
+var Comment10 = '#JNETOTO(ODONG90)*64*44*24'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ONIONN33*52*38*32*'; 
