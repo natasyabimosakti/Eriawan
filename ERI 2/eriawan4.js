@@ -23,7 +23,7 @@ var refresh = 50;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*PANCENSU432*93*55'; 
 
-var namagroup2 = 'PREDIKTOR';
+var namagroup2 = 'PREDIKSI HOKONG';
 var Comment2 = '#IYATOTO PAKBULL576 57*72*80'; 
 
 var namagroup3 = 'TiktakTogel';
