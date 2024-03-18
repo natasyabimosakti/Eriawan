@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (REAL969) = 11*17*53';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=REALIS147=54*09*26'; 
 
-var namagroup7 = 'KHUSUS';
+var namagroup7 = 'ASEPTOGEL';
 var Comment7 = '#ASEPTOGEL RAKBAR355 54*09*26'; 
 
 var namagroup8 = 'ANGKER';
