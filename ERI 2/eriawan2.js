@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         ERI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.67
+// @version      3.68
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan2.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan2.js
@@ -41,7 +41,7 @@ var Comment6 = 'KIOSTOTO=QWANDU66=84*97*51';
 var namagroup7 = 'ASEPTOGEL';
 var Comment7 = '#ASEPTOGEL QRISS08 84*97*51'; 
 
-var namagroup8 = 'ANGKER';
+var namagroup8 = 'ANGKER4D';
 var Comment8 = 'ANGKER4D=QWERTYY28=67*49*28'; 
 
 var namagroup9 = 'GIL∆4D';
