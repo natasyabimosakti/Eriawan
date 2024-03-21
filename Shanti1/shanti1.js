@@ -15,7 +15,53 @@
 // ==/UserScript==
 var refresh = 50;
 
+var namagroup1 = 'MENTARI89';
+var Comment1 = '#TOTOMENTARI89 ( KINNO818 ) : 62*71*32'; 
 
+var namagroup2 = 'MERCONTOTO';
+var Comment2 = '#MERCONTO KIRUNN212 72*75*61'; 
+
+var namagroup3 = 'KEMBARTOGEL';
+var Comment3 = '#PERCAYA4D(KAMFER717) : 47*46'; 
+
+var namagroup4 = 'BUPATI';
+var Comment4 = '#BUPATITOGEL (KARDUS313) = 12*80*79'; 
+
+var namagroup5 = 'PREDIKSI ANGKA';
+var Comment5 = '#FPTOTO (KILLO919) : 67*81*64'; 
+
+var namagroup6 = 'SITUS SLOT GACOR';
+var Comment6 = '#FUN77TOTO (KURMA616) : 43*66*01'; 
+
+var namagroup7 = 'Hoho';
+var Comment7 = 'KANWIL515 : 06*97*33 #HOHOTOGEL'; 
+
+var namagroup8 = 'KITAJITU';
+var Comment8 = '#KITAJITU / KOTOR414 / 30*09*35 / #Betting'; 
+
+var namagroup9 = 'BAZARTOTO';
+var Comment9 = '#BAZARTOTO KURBAN818 30*09*35'; 
+
+var namagroup10 = 'SLOTOG3L';
+var Comment10 = 'KASIH212 : 06*97*33'; 
+
+var namagroup11 = 'HITOGEL';
+var Comment11 = '#HITOGEL KAWUL313 47*46*42'; 
+
+var namagroup12 = 'BESTOTO';
+var Comment12 = 'KUSAM717 : 67*81*64 #BESTOTO88'; 
+
+var namagroup13 = 'GOHTOGEL';
+var Comment13 = 'GOHTOGEL=KEMPES010=12*80*79'; 
+
+var namagroup14 = 'MAYAPADA';
+var Comment14 = 'BETT*SingasariTOTO(BO)*KAKAP515*43*66*01'; 
+
+var namagroup15 = 'XX1';
+var Comment15 = '#XX1TOTO (KIPER919) 72*75*61 BETTING'; 
+
+var namagroup16 = '';
+var Comment16 = '';
 
 
 
