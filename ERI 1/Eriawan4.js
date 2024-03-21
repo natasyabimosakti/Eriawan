@@ -125,11 +125,6 @@ var Comment32 = 'TESTBENTO';
 
 
 
-
-
-
-
-
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
 
