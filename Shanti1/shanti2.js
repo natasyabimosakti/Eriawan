@@ -15,7 +15,53 @@
 // ==/UserScript==
 var refresh = 50;
 
+var namagroup1 = 'MENTARI89';
+var Comment1 = '#TOTOMENTARI89 ( JERUJI111 ) : 74*13*14'; 
 
+var namagroup2 = 'MERCONTOTO';
+var Comment2 = '#MERCONTO JAMBRUT222 48*07*27'; 
+
+var namagroup3 = 'KEMBARTOGEL';
+var Comment3 = '#PERCAYA4D(JARWO333) : 89*25'; 
+
+var namagroup4 = 'BUPATI';
+var Comment4 = '#BUPATITOGEL (JUJUR444) = 90*26*65'; 
+
+var namagroup5 = 'PREDIKSI ANGKA';
+var Comment5 = '#FPTOTO (JIWA555) : 87*73*28'; 
+
+var namagroup6 = 'SITUS SLOT GACOR';
+var Comment6 = '#FUN77TOTO (JUALAN666) : 02*41*22'; 
+
+var namagroup7 = 'Hoho';
+var Comment7 = 'JAJAN777 : 60*51*77 #HOHOTOGEL'; 
+
+var namagroup8 = 'KITAJITU';
+var Comment8 = '#KITAJITU / JURANG888 / 69*36*78 / #Betting'; 
+
+var namagroup9 = 'BAZARTOTO';
+var Comment9 = '#BAZARTOTO JEPANG999 69*36*78'; 
+
+var namagroup10 = 'SLOTOG3L';
+var Comment10 = 'JAMU111 : 60*51*77'; 
+
+var namagroup11 = 'HITOGEL';
+var Comment11 = '#HITOGEL JRAKAH333 15*89*25'; 
+
+var namagroup12 = 'BESTOTO';
+var Comment12 = 'JETAS555 : 87*73*28 #BESTOTO88'; 
+
+var namagroup13 = 'GOHTOGEL';
+var Comment13 = 'GOHTOGEL=JIJIK777=90*26*65'; 
+
+var namagroup14 = 'MAYAPADA';
+var Comment14 = 'BETT*SingasariTOTO(BO)*JEJER999*02*41*22'; 
+
+var namagroup15 = 'XX1';
+var Comment15 = '#XX1TOTO (JONGKOK222) 48*07*27 BETTING'; 
+
+var namagroup16 = '';
+var Comment16 = '';
 
 
 
