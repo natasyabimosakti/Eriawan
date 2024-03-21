@@ -16,7 +16,53 @@
 var refresh = 50;
 
 
+var namagroup1 = 'MENTARI89';
+var Comment1 = '#TOTOMENTARI89 ( HASIL858 ) : 00*99*37'; 
 
+var namagroup2 = 'MERCONTOTO';
+var Comment2 = '#MERCONTO HUJAN749 50*38*94'; 
+
+var namagroup3 = 'KEMBARTOGEL';
+var Comment3 = '#PERCAYA4D(HIYAS680) : 93*70'; 
+
+var namagroup4 = 'BUPATI';
+var Comment4 = '#BUPATITOGEL (HORE357) = 88*20*68'; 
+
+var namagroup5 = 'PREDIKSI ANGKA';
+var Comment5 = '#FPTOTO (HOTONG423) : 08*56*24'; 
+
+var namagroup6 = 'SITUS SLOT GACOR';
+var Comment6 = '#FUN77TOTO (HOMBRENG898) : 91*54*05'; 
+
+var namagroup7 = 'Hoho';
+var Comment7 = 'HUSUR009 : 49*11*92 #HOHOTOGEL'; 
+
+var namagroup8 = 'KITAJITU';
+var Comment8 = '#KITAJITU / HAIBER757 / 83*04*44 / #Betting'; 
+
+var namagroup9 = 'BAZARTOTO';
+var Comment9 = '#BAZARTOTO HANTAR999 83*04*44'; 
+
+var namagroup10 = 'SLOTOG3L';
+var Comment10 = 'HIWER313 : 49*11*92'; 
+
+var namagroup11 = 'HITOGEL';
+var Comment11 = '#HITOGEL HAUNG555 85*93*70'; 
+
+var namagroup12 = 'BESTOTO';
+var Comment12 = 'HOTANG444 : 08*56*24 #BESTOTO88'; 
+
+var namagroup13 = 'GOHTOGEL';
+var Comment13 = 'GOHTOGEL=HEHEHE000=88*20*68'; 
+
+var namagroup14 = 'MAYAPADA';
+var Comment14 = 'BETT*SingasariTOTO(BO)*HINA738*91*54*05'; 
+
+var namagroup15 = 'XX1';
+var Comment15 = '#XX1TOTO (HOPENG596) 50*38*94 BETTING'; 
+
+var namagroup16 = '';
+var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
