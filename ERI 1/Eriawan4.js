@@ -1,10 +1,11 @@
+
 // ==UserScript==
 // @name         ERI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.75
+// @version      3.76
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
+// @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
+// @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -14,7 +15,6 @@
 // @grant       window.close
 // ==/UserScript==
 
-
 var refresh = 50;
 
 /*======================================================================3copy tampermonkey==========================================================*/
@@ -23,7 +23,7 @@ var refresh = 50;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*NANA19*28*65'; 
 
-var namagroup2 = 'ANGKA';
+var namagroup2 = 'ANGKA JP';
 var Comment2 = '#IYATOTO NAINDRA18 46*33*21'; 
 
 var namagroup3 = 'TiktakTogel';
@@ -38,10 +38,10 @@ var Comment5 = '#keitogel = (NARINA10) = 46*33*21';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=NASITA19=11*78*56'; 
 
-var namagroup7 = 'ASEPTOGEL';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL NAMIRA10 11*78*56'; 
 
-var namagroup8 = 'ANGKER4D';
+var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=NAMBIA30=23*59*12'; 
 
 var namagroup9 = 'GIL∆4D';
@@ -67,7 +67,6 @@ var Comment15 = '#VESPATOGEL (NARITA74)  40*48*58';
 
 var namagroup16 = '';
 var Comment16 = '';
-
 
 
 
@@ -119,6 +118,9 @@ var Comment31 = 'TESTBENTO';
 
 var namagroup32 = 'TESTBENTO';
 var Comment32 = 'TESTBENTO';
+
+
+
 
 
 
