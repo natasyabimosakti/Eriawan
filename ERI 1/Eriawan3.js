@@ -32,7 +32,7 @@ var Comment3 = '#Tiktaktogel / MALUKU12 / 87 , 57 , 05';
 var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=MALAY12=03*27*91'; 
 
-var namagroup5 = 'KEITOGEL';
+var namagroup5 = 'LOMBA KEITOGEL';
 var Comment5 = '#keitogel = (MANIA30) = 73*94*06'; 
 
 var namagroup6 = 'KIOSTOTO';
