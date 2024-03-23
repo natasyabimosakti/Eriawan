@@ -31,7 +31,7 @@ var Comment3 = '#Tiktaktogel / KAMBIL90 / 74 , 10 , 34';
 var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=KASTUR18=52*35*19'; 
 
-var namagroup5 = 'KEITOGEL';
+var namagroup5 = 'LOMBA KEITOGEL';
 var Comment5 = '#keitogel = (KATEPE73) = 26*04*32'; 
 
 var namagroup6 = 'KIOSTOTO';
