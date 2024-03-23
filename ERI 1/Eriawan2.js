@@ -32,7 +32,7 @@ var Comment3 = '#Tiktaktogel / LANDI72 / 16 , 97 , 08';
 var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=LARASTI19=44*37*15'; 
 
-var namagroup5 = 'KEITOGEL';
+var namagroup5 = 'LOMBA KEITOGEL';
 var Comment5 = '#keitogel = (LARIKA19) = 02*22*83'; 
 
 var namagroup6 = 'KIOSTOTO';
