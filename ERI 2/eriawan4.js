@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         ERI 4
 // @namespace    http://tampermonkey.net/
@@ -53,7 +52,7 @@ var Comment10 = '#JNETOTO(PAYAH999)*62*37*15';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*PUNK888*07*65*50*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
+var namagroup12 = 'MASTER';
 var Comment12 = '#TOGELKUY PUSH565 60*59*40'; 
 
 var namagroup13 = 'TOYIBSLOT';
@@ -62,7 +61,7 @@ var Comment13 = '#TOYIBSLOT ( PUCHER333 ) : 90*23*12';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 90*23*12 ( PIANG212 )'; 
 
-var namagroup15 = 'DEWA';
+var namagroup15 = 'HATRICK';
 var Comment15 = '#VESPATOGEL (PIQUE020)  41*94*43'; 
 
 var namagroup16 = '';
