@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
@@ -16,22 +16,22 @@
 var refresh = 50;
 
 
-var namagroup1 = 'MENTARI89';
-var Comment1 = '#TOTOMENTARI89 ( IWAK561 ) : 17*40*16'; 
+var namagroup1 = 'WDKAK';
+var Comment1 = '#WDKAK ( IWAK561 ) : 17*40*16'; 
 
-var namagroup2 = 'MERCONTOTO';
-var Comment2 = '#MERCONTO INDAH862 98*58*39'; 
+var namagroup2 = 'MERCON';
+var Comment2 = 'MERCONTOTO INDAH862 98*58*39'; 
 
-var namagroup3 = 'KEMBARTOGEL';
-var Comment3 = '#PERCAYA4D(ISENG342) : 63*53'; 
+var namagroup3 = 'KEMBART0G3L';
+var Comment3 = '#KEMBARTOGEL (ISENG342) : 63*53'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (IKATAN852) = 10*82*21'; 
 
-var namagroup5 = 'PREDIKSI ANGKA';
-var Comment5 = '#FPTOTO (IONIK680) : 19*45*55'; 
+var namagroup5 = 'OTU';
+var Comment5 = '#OTUSLOT*IONIK680*19*45*55*BETTING'; 
 
-var namagroup6 = 'SITUS SLOT GACOR';
+var namagroup6 = 'FUN';
 var Comment6 = '#FUN77TOTO (IERIS249) : 29*86*18'; 
 
 var namagroup7 = 'Hoho';
@@ -43,7 +43,7 @@ var Comment8 = '#KITAJITU / IMBAS351 / 34*23*96 / #Betting';
 var namagroup9 = 'BAZARTOTO';
 var Comment9 = '#BAZARTOTO IDENYA001 34*23*96'; 
 
-var namagroup10 = 'SLOTOG3L';
+var namagroup10 = 'SLOTOGEL';
 var Comment10 = 'IQAN002 : 59*03*84'; 
 
 var namagroup11 = 'HITOGEL';
@@ -52,18 +52,17 @@ var Comment11 = '#HITOGEL IRAWATI003 57*63*53';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'ITEM258 : 19*45*55 #BESTOTO88'; 
 
-var namagroup13 = 'GOHTOGEL';
+var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=IVEN928=10*82*21'; 
 
 var namagroup14 = 'MAYAPADA';
 var Comment14 = 'BETT*SingasariTOTO(BO)*IHASIK481*29*86*18'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (IBUKU777) 98*58*39 BETTING'; 
+var Comment15 = '#XX1TOTO (IBUKU777)  98*58*39 BETTING'; 
 
 var namagroup16 = '';
 var Comment16 = '';
-
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
