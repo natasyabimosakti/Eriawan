@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.03
+// @version      3.05
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 
-var refresh = 60;
+var refresh = 50;
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
@@ -851,3 +851,4 @@ function clicksend() {
     clicksendcoment.dispatchEvent (clickEvent);
     GM.setValue("CLICKCOMMENT", 1);
     /*Tekan TOMBOL SEND*/
+}
