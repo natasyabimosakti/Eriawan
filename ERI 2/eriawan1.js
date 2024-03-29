@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.01
+// @version      3.02
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
@@ -53,7 +53,7 @@ var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ONIONN33*52*38*32*'; 
 
 var namagroup12 = 'MASTER';
-var Comment12 = '#TOGELKUY OING284 77*81*33'; 
+var Comment12 = 'TOGELKUY OING284 77*81*33'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( OPUNG666 ) : 30*13*87'; 
