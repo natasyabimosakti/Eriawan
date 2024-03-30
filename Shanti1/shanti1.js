@@ -15,7 +15,7 @@
 // ==/UserScript==
 var refresh = 50;
 
-"var namagroup1 = 'WDKAK';
+var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( KERANG919 ) : 62*71*32'; 
 
 var namagroup2 = 'MERCON';
@@ -61,7 +61,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (KIPER919)  72*75*61 BETTING'; 
 
 var namagroup16 = 'TUNGGALJITU';
-var Comment16 = '(KERANG919) 62*71*32 TUNGGALJITU';"
+var Comment16 = '(KERANG919) 62*71*32 TUNGGALJITU';
 
 
 
@@ -122,8 +122,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M"];
-
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩"];
 
 var Backlist1 = "GOJEK";
 var Backlist2 = "REKAP";
