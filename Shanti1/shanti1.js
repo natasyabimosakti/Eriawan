@@ -39,14 +39,14 @@ var Comment7 = 'KANWIL515 : 06*97*33 #HOHOTOGEL';
 var namagroup8 = 'KITAJITU';
 var Comment8 = '#KITAJITU / KOTOR414 / 30*09*35 / #Betting'; 
 
-var namagroup9 = 'BAZARTOTO';
-var Comment9 = '#BAZARTOTO KURBAN818 30*09*35'; 
+var namagroup9 = 'SHI0T0GEL';
+var Comment9 = '#Shiotogel4d (KURBAN818) 30*09*35'; 
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = 'KASIH212 : 06*97*33'; 
 
-var namagroup11 = 'HITOGEL';
-var Comment11 = '#HITOGEL KAWUL313 47*46*42'; 
+var namagroup11 = 'KEBAYA';
+var Comment11 = '#(KEBAYA4D) = (KAWUL313) 47*46*42'; 
 
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'KUSAM717 : 67*81*64 #BESTOTO88'; 
@@ -60,10 +60,8 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*KAKAP515*43*66*01';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (KIPER919)  72*75*61 BETTING'; 
 
-var namagroup16 = 'TUNGGALJITU';
+var namagroup16 = 'TUNGGAL';
 var Comment16 = '(KERANG919) 62*71*32 TUNGGALJITU';
-
-
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
