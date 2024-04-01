@@ -15,7 +15,7 @@
 // ==/UserScript==
 var refresh = 50;
 
-"var namagroup1 = 'WDKAK';
+var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( JERUJI111 ) : 74*13*14'; 
 
 var namagroup2 = 'MERCON';
@@ -61,7 +61,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (JONGKOK222)  48*07*27 BETTING'; 
 
 var namagroup16 = 'TUNGGAL';
-var Comment16 = '(JAIM444) 74*13*14 TUNGGALJITU';"
+var Comment16 = '(JAIM444) 74*13*14 TUNGGALJITU';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
