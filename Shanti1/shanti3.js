@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.02
+// @version      3.03
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
@@ -14,7 +14,6 @@
 // @grant       window.close
 // ==/UserScript==
 var refresh = 50;
-
 
 var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( IWAK561 ) : 17*40*16'; 
@@ -40,14 +39,14 @@ var Comment7 = 'IKLAN702 : 59*03*84 #HOHOTOGEL';
 var namagroup8 = 'KITAJITU';
 var Comment8 = '#KITAJITU / IMBAS351 / 34*23*96 / #Betting'; 
 
-var namagroup9 = 'BAZARTOTO';
-var Comment9 = '#BAZARTOTO IDENYA001 34*23*96'; 
+var namagroup9 = 'SHI0T0GEL';
+var Comment9 = '#Shiotogel4d (IDENYA001) 34*23*96'; 
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = 'IQAN002 : 59*03*84'; 
 
-var namagroup11 = 'HITOGEL';
-var Comment11 = '#HITOGEL IRAWATI003 57*63*53'; 
+var namagroup11 = 'KEBAYA';
+var Comment11 = '#(KEBAYA4D) = (IRAWATI003) 57*63*53'; 
 
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'ITEM258 : 19*45*55 #BESTOTO88'; 
@@ -61,7 +60,7 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*IHASIK481*29*86*18';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (IBUKU777)  98*58*39 BETTING'; 
 
-var namagroup16 = 'TUNGGALJITU';
+var namagroup16 = 'TUNGGAL';
 var Comment16 = '(ITULHO969) 17*40*16 TUNGGALJITU';
 
 /*======================================================================3D===============================================================*/
