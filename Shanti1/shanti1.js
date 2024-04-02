@@ -22,7 +22,7 @@ var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO KERANG919 72*75*61'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'KAMFER717 : 47*46'; 
+var Comment3 = 'KAMFER717 : 47*46*42'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (KARDUS313) = 12*80*79'; 
