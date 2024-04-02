@@ -21,8 +21,8 @@ var Comment1 = '#WDKAK ( IWAK561 ) : 17*40*16';
 var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO INDAH862 98*58*39'; 
 
-var namagroup3 = 'KEMBART0G3L';
-var Comment3 = '#KEMBARTOGEL (ISENG342) : 63*53'; 
+var namagroup3 = 'IND0SL0TER';
+var Comment3 = 'ISENG342 : 63*53*31'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (IKATAN852) = 10*82*21'; 
