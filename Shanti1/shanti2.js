@@ -22,7 +22,7 @@ var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO JAMBRUT222 48*07*27'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'JARWO333 : 89*25'; 
+var Comment3 = 'JARWO333 : 89*25*76'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (JUJUR444) = 90*26*65'; 
