@@ -61,7 +61,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (JONGKOK222)  48*07*27 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*JAIM444*74*13*14*BETTING'
+var Comment16 = 'TERASTOTO*JAIM444*74*13*14*BETTING';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
