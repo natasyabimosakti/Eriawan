@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.04
+// @version      3.05
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
@@ -132,7 +132,7 @@ var keyword = ["ROOM","R00M","R0M","R0OM","RO0M", "𝗥𝗢𝗢𝗠", "LOMBA","�
 var Backlist1 = "PREDIKSI";
 var Backlist2 = "REKAP";
 var Backlist3 = "HASIL";
-var Backlist4 = "ROOM LOMBA FREEBET";
+var Backlist4 = "FREEBET";
 var Backlist5 = "AI";
 var Backlist6 = "RESULT";
 
