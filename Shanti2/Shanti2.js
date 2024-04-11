@@ -22,8 +22,7 @@ var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO QQCHERY88 65*26*24'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'QIBAAT50 : 
-44*'; 
+var Comment3 = 'QIBAAT50 : 44*03*46'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (QIQIK38) = 63*34*87'; 
