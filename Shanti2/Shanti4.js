@@ -58,7 +58,7 @@ var namagroup14 = 'MAYAPADA';
 var Comment14 = 'BETT*SingasariTOTO(BO)*PIANG212*62*09*56'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (PIQUE020)  41*67*14 BETTING'; 
+var Comment15 = '#XX1TOTO (PIQUE020) 41*67*14 BETTING'; 
 
 var namagroup16 = 'TERAS';
 var Comment16 = 'TERASTOTO*PETRUK99*36*32*39*BETTING';
