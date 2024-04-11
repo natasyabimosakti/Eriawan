@@ -15,14 +15,14 @@
 // ==/UserScript==
 var refresh = 50;
 
-var namagroup1 = 'WDKAK';
+"var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( PANCENSU432 ) : 36*32*39'; 
 
 var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO PAKBULL576 41*67*14'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'POKEK909 : 62*09'; 
+var Comment3 = 'POKEK909 : 62*09*56'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (POMPOM809) = 51*48*16'; 
@@ -34,7 +34,7 @@ var namagroup6 = 'Mantap Jitu';
 var Comment6 = '#DIVA4D (PERAK689) = 83*12*80'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'PAKAI333 : 54*33* #HOHOTOGEL'; 
+var Comment7 = 'PAKAI333 : 54*33*13#HOHOTOGEL'; 
 
 var namagroup8 = 'KITAJITU';
 var Comment8 = '#KITAJITU / PUANCEN444 / 54*33*13 / #Betting'; 
