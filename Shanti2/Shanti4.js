@@ -34,7 +34,7 @@ var namagroup6 = 'Mantap Jitu';
 var Comment6 = '#DIVA4D (PERAK689) = 83*12*80'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'PAKAI333 : 54*33*13#HOHOTOGEL'; 
+var Comment7 = 'PAKAI333 : 54*33*13 #HOHOTOGEL'; 
 
 var namagroup8 = 'KITAJITU';
 var Comment8 = '#KITAJITU / PUANCEN444 / 54*33*13 / #Betting'; 
