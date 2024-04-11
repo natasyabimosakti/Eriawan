@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SHANTI 1
+// @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -16,53 +16,52 @@
 var refresh = 50;
 
 var namagroup1 = 'WDKAK';
-var Comment1 = '#WDKAK ( QUANTUM73 ) : 59*50*30'; 
+var Comment1 = '#WDKAK ( RISE989 ) : 71*95*06'; 
 
 var namagroup2 = 'MERCON';
-var Comment2 = 'MERCONTOTO QQCHERY88 65*26*24'; 
+var Comment2 = 'MERCONTOTO RUBIC767 73*82*86'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'QIBAAT50 : 
-44*'; 
+var Comment3 = 'RAPID393 : 28*52'; 
 
 var namagroup4 = 'BUPATI';
-var Comment4 = '#BUPATITOGEL (QIQIK38) = 63*34*87'; 
+var Comment4 = '#BUPATITOGEL (READY727) = 76*45*27'; 
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*QUIINE91*72*05*85*BETTING'; 
+var Comment5 = '#OTUSLOT*REAL969*61*35*98*BETTING'; 
 
 var namagroup6 = 'Mantap Jitu';
-var Comment6 = '#DIVA4D (QWANDU66) = 77*43*93'; 
+var Comment6 = '#DIVA4D (REALIS147) = 18*75*17'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'QRISS08 : 31*53*22 #HOHOTOGEL'; 
+var Comment7 = 'RAKBAR355 : 42*91*29 #HOHOTOGEL'; 
 
 var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / QWERTYY28 / 31*53*22 / #Betting'; 
+var Comment8 = '#KITAJITU / RUZAK676 / 42*91*29 / #Betting'; 
 
 var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (QOPILU09) : 79*89*10'; 
+var Comment9 = '#(KIUTOTO) (ROTTAN131) : 49*60*23'; 
 
 var namagroup10 = 'SL0TOG3L';
-var Comment10 = '#SLOTOGEL (QESBAH72) : 77*43*93'; 
+var Comment10 = '#SLOTOGEL (RUNNING765) : 18*75*17'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '#(KEBAYA4D) = (QANWIR77) 79*89*10'; 
+var Comment11 = '#(KEBAYA4D) = (RAKNYAM777) 49*60*23'; 
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'QURBAN05 : 72*05*85 #BESTOTO88'; 
+var Comment12 = 'REOTKAB475 : 61*35*98 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87'; 
+var Comment13 = 'GOHTOGEL=RUMM009=76*45*27'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*QERJA99*44*03*46'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*RORO363*28*52*04'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (QONCCER88)  65*26*24 BETTING'; 
+var Comment15 = '#XX1TOTO (ROLOKAB111)  73*82*86 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*QUANTUM33*59*50*30*BETTING';
+var Comment16 = 'TERASTOTO*RAMPOK84*71*95*06*BETTING';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
 var Comment17 = 'TESTBENTO';
