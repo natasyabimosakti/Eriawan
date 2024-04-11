@@ -16,52 +16,53 @@
 var refresh = 50;
 
 var namagroup1 = 'WDKAK';
-var Comment1 = '#WDKAK ( OPPA31 ) : 66*08*20'; 
+var Comment1 = '#WDKAK ( QUANTUM73 ) : 59*50*30'; 
 
 var namagroup2 = 'MERCON';
-var Comment2 = 'MERCONTOTO OYONG22 21*84*64'; 
+var Comment2 = 'MERCONTOTO QQCHERY88 65*26*24'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'ONGKI18 : 94*96'; 
+var Comment3 = 'QIBAAT50 : 
+44*'; 
 
 var namagroup4 = 'BUPATI';
-var Comment4 = '#BUPATITOGEL (OBATT69) = 40*57*01'; 
+var Comment4 = '#BUPATITOGEL (QIQIK38) = 63*34*87'; 
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*OGAHAH44*74*68*19*BETTING'; 
+var Comment5 = '#OTUSLOT*QUIINE91*72*05*85*BETTING'; 
 
 var namagroup6 = 'Mantap Jitu';
-var Comment6 = '#DIVA4D (OSENGB20) = 90*97*78'; 
+var Comment6 = '#DIVA4D (QWANDU66) = 77*43*93'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'ONGKIR370 : 37*25*47 #HOHOTOGEL'; 
+var Comment7 = 'QRISS08 : 31*53*22 #HOHOTOGEL'; 
 
 var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / OBORR55 / 37*25*47 / #Betting'; 
+var Comment8 = '#KITAJITU / QWERTYY28 / 31*53*22 / #Betting'; 
 
 var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (ONTAR77) : 02*58*15'; 
+var Comment9 = '#(KIUTOTO) (QOPILU09) : 79*89*10'; 
 
 var namagroup10 = 'SL0TOG3L';
-var Comment10 = '#SLOTOGEL (ODONG90) : 90*97*78'; 
+var Comment10 = '#SLOTOGEL (QESBAH72) : 77*43*93'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '#(KEBAYA4D) = (ONIONN33) 02*58*15'; 
+var Comment11 = '#(KEBAYA4D) = (QANWIR77) 79*89*10'; 
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'OING284 : 74*68*19 #BESTOTO88'; 
+var Comment12 = 'QURBAN05 : 72*05*85 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=OPUNG666=40*57*01'; 
+var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*OMBUS45*94*96*99'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*QERJA99*44*03*46'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (OLONG00)  21*84*64 BETTING'; 
+var Comment15 = '#XX1TOTO (QONCCER88)  65*26*24 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*OMBAK22*66*08*20*BETTING';
+var Comment16 = 'TERASTOTO*QUANTUM33*59*50*30*BETTING';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
 var Comment17 = 'TESTBENTO';
