@@ -15,7 +15,7 @@
 // ==/UserScript==
 var refresh = 50;
 
-"var namagroup1 = 'WDKAK';
+var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( PANCENSU432 ) : 36*32*39'; 
 
 var namagroup2 = 'MERCON';
