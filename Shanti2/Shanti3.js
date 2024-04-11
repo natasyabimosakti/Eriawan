@@ -22,7 +22,7 @@ var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO RUBIC767 73*82*86'; 
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'RAPID393 : 28*52'; 
+var Comment3 = 'RAPID393 : 28*52*04'; 
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (READY727) = 76*45*27'; 
