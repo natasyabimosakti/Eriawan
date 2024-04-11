@@ -58,7 +58,7 @@ var namagroup14 = 'MAYAPADA';
 var Comment14 = 'BETT*SingasariTOTO(BO)*QERJA99*44*03*46'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (QONCCER88)  65*26*24 BETTING'; 
+var Comment15 = '#XX1TOTO (QONCCER88) 65*26*24 BETTING'; 
 
 var namagroup16 = 'TERAS';
 var Comment16 = 'TERASTOTO*QUANTUM33*59*50*30*BETTING';
