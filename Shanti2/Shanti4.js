@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      1.01
+// @version      1.02
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
@@ -119,7 +119,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM","R00M","R0M","R0OM","RO0M", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","SENIN","SELASA","RABU","KAMIS","JUMAT","JUMAAT","SABTU","MINGGU","LIMBA","ROM"];
+var keyword = ["ROOM","R00M","R0M","R0OM","RO0M", "𝗥𝗢𝗢𝗠", "SIDNEY","SINGAPORE","HONGKONG","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","SENIN","SELASA","RABU","KAMIS","JUMAT","JUMAAT","SABTU","MINGGU","LIMBA","ROM"];
 
 
 var Backlist1 = "GOJEK";
