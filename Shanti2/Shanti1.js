@@ -31,7 +31,7 @@ var namagroup5 = 'OTU';
 var Comment5 = '#OTUSLOT*OGAHAH44*74*68*19*BETTING'; 
 
 var namagroup6 = 'USDTOTO';
-var Comment6 = '#USDTOTO ( OSENGB20 ) = 90*97*78'; 
+var Comment6 = '#USDTOTO ( OSENGB20 ) : 90*97*78'; 
 
 var namagroup7 = 'Hoho';
 var Comment7 = 'ONGKIR370 : 37*25*47 #HOHOTOGEL'; 
