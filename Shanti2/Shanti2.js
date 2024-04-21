@@ -31,7 +31,7 @@ var namagroup5 = 'OTU';
 var Comment5 = '#OTUSLOT*QUIINE91*72*05*85*BETTING'; 
 
 var namagroup6 = 'USDTOTO';
-var Comment6 = '#USDTOTO ( QWANDU66 ) 77*43*93'; 
+var Comment6 = '#USDTOTO ( QWANDU66 ) : 77*43*93'; 
 
 var namagroup7 = 'Hoho';
 var Comment7 = 'QRISS08 : 31*53*22 #HOHOTOGEL'; 
