@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 3
 // @namespace    http://tampermonkey.net/
-// @version      4.00
+// @version      4.01
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan3.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan3.js
