@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.13
+// @version      3.14
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
@@ -17,7 +17,6 @@
 var refresh = 50;
 
 /*======================================================================3copy tampermonkey==========================================================*/
-
 
 
 var namagroup1 = 'SHIOKELINCI';
