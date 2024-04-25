@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.14
+// @version      3.15
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan3.js
@@ -27,7 +27,7 @@ var Comment1 = '#shiokelinci4d*RISE989*79*46';
 var namagroup2 = 'IYA';
 var Comment2 = 'IYATOTO RUBIC767 11*17*53'; 
 
-var namagroup3 = 'Tiktak';
+var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = '#Tiktaktogel / RAPID393 / 78 , 75 , 92'; 
 
 var namagroup4 = 'GA1B4D';
