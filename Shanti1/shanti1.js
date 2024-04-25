@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti1.js
@@ -125,7 +125,7 @@ var keyword = ["ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMB
 var Backlist1 = "LIST";
 var Backlist2 = "REKAP";
 var Backlist3 = "HASIL";
-var Backlist4 = "ROOM LOMBA FREEBET";
+var Backlist4 = "MANA";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
 
