@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.21
+// @version      3.22
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti1.js
@@ -19,7 +19,7 @@ var namagroup1 = 'TAFSIR';
 var Comment1 = 'TAG4D (KERANG919) 62*71*32'; 
 
 var namagroup2 = 'MERCON';
-var Comment2 = 'MERCONTOTO KERANG919 72*75*61'; 
+var Comment2 = 'K86TOTO ( KEYPAS284 ) : 72*75*61'; 
 
 var namagroup3 = 'INDOSL0TER';
 var Comment3 = 'KAMFER717 : 47*46*42 #indosloter'; 
