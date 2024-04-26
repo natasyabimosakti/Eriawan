@@ -18,7 +18,7 @@ var refresh = 50;
 var namagroup1 = 'TAFSIR';
 var Comment1 = 'TAG4D (KERANG919) 62*71*32'; 
 
-var namagroup2 = 'MERCON';
+var namagroup2 = 'K86T0T0';
 var Comment2 = 'K86TOTO ( KEYPAS284 ) : 72*75*61'; 
 
 var namagroup3 = 'INDOSL0TER';
