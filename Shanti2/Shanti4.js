@@ -48,7 +48,7 @@ var Comment10 = '#SLOTOGEL (PAYAH999) : 83*12*80';
 var namagroup11 = 'KEBAYA';
 var Comment11 = '#(KEBAYA4D) = (PUNK888) 69*07*81'; 
 
-var namagroup12 = 'BESTOTO';
+var namagroup12 = 'BESTOTO88';
 var Comment12 = 'PUSH565 : 70*92*38 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
