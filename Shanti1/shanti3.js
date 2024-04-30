@@ -46,7 +46,7 @@ var namagroup10 = 'SL0T0G3L';
 var Comment10 = '#SLOTOGEL (IRLEDD05) : 29*86*18'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '#(KEBAYA4D) = (IHMASUK99) 59*03*84'; 
+var Comment11 = '#(KEBAYA4D) = (IHMASUK59) 59*03*84'; 
 
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'IOTAN55 : 59*03*84 #BESTOTO88'; 
