@@ -42,7 +42,7 @@ var Comment8 = '#KITAJITU / KOTOR414 / 30*09*35 / #Betting';
 var namagroup9 = 'KIUTOTO';
 var Comment9 = '#(KIUTOTO) (KURBAN818) : 30*09*35'; 
 
-var namagroup10 = 'SL0TOG3L';
+var namagroup10 = 'SL0T0G3L';
 var Comment10 = '#SLOTOGEL (KASIH212) : 06*97*33';
 
 var namagroup11 = 'KEBAYA';
