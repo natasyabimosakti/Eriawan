@@ -48,7 +48,7 @@ var Comment10 = '#SLOTOGEL (RUNNING765) : 18*75*17';
 var namagroup11 = 'KEBAYA';
 var Comment11 = '#(KEBAYA4D) = (RAKNYAM777) 49*60*23'; 
 
-var namagroup12 = 'BESTOTO';
+var namagroup12 = 'BESTOTO88';
 var Comment12 = 'REOTKAB475 : 61*35*98 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
