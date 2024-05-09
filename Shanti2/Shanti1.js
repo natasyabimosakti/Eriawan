@@ -16,7 +16,7 @@
 var refresh = 50;
 
 var namagroup1 = 'TAFSIR';
-var Comment1 = 'TAG4D:(OPPA31) 66*08*20'; 
+var Comment1 = 'TAG4D : (OPPA31) 66*08*20'; 
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( OYON22 ) : 21*84*64'; 
