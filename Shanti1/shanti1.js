@@ -34,10 +34,10 @@ var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (KURMA616) = 43*66*01'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'KANWIL515 : 06*97*35 #HOHOTOGEL'; 
+var Comment7 = 'KANWIL515 : 30*09*35 #HOHOTOGEL'; 
 
 var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / KOTOR414 / 30*09*33 / #Betting'; 
+var Comment8 = '#KITAJITU / KOTOR414 / 06*97*33 / #Betting'; 
 
 var namagroup9 = 'KIUTOTO';
 var Comment9 = '#(KIUTOTO) (KURBAN818) : 30*09*35'; 
