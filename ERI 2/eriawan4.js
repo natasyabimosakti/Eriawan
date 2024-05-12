@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.14
+// @version      3.15
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan4.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan4.js
@@ -63,7 +63,7 @@ var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (PIQUE020)  41*94*43'; 
 
 var namagroup16 = '';
-var Comment16 = '';"
+var Comment16 = '';
 
 
 
