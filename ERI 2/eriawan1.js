@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      4.05
+// @version      4.06
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
@@ -23,7 +23,7 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*OPPA31*22*71'; 
 
 var namagroup2 = 'IYA';
-var Comment2 = 'IYATOTO OYONG22 48*16*34'; 
+var Comment2 = '#IYATOTO OYONG22 48*16*34'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = '#Tiktaktogel / ONGKI18 / 64 , 44 , 24'; 
@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (OGAHAH44) = 48*16*34';
 var namagroup6 = 'KIOST0T0';
 var Comment6 = 'KIOSTOTO=OSENGB20=14*76*70'; 
 
-var namagroup7 = 'ASEPTOGEL';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL ONGKIR370 14*76*70'; 
 
 var namagroup8 = 'ANGKER4D';
@@ -52,7 +52,7 @@ var Comment10 = '#JNETOTO(ODONG90)*64*44*24';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ONIONN33*52*38*32*'; 
 
-var namagroup12 = 'MASTER';
+var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY OING284 77*81*33'; 
 
 var namagroup13 = 'TOYIBSLOT';
@@ -66,7 +66,6 @@ var Comment15 = 'VESPATOGEL (OLONG00)  83*08*25';
 
 var namagroup16 = '';
 var Comment16 = '';
-
 
 
 
