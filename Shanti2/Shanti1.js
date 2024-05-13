@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      1.19
+// @version      1.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
@@ -21,8 +21,8 @@ var Comment1 = 'TAG4D : (OPPA31) 66*08*20';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( OYON22 ) : 21*84*64'; 
 
-var namagroup3 = 'INDOSL0TER';
-var Comment3 = 'ONGKI18 : 94*96*99 #indosloter'; 
+var namagroup3 = 'RNR303';
+var Comment3 = '‌#RNR303(ONGKI18) : 94*96*99'; 
 
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( OBATT69 ) : 40*57*01'; 
@@ -36,8 +36,8 @@ var Comment6 = 'Shiotogel4d (ONGKI18) 90*97*78';
 var namagroup7 = 'Hoho';
 var Comment7 = 'ONGKIR370 : 37*25*47 #HOHOTOGEL'; 
 
-var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / OBORR55 / 37*25*47 / #Betting'; 
+var namagroup8 = 'TOK99T0T0';
+var Comment8 = 'Tok99Toto ( OBORR55 ) : 37*25*47'; 
 
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (ONTAR77) : 02*58*15'; 
@@ -119,7 +119,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM","Room","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩"];
+var keyword = ["ROOM","𝗥𝗢𝗢𝗠","Room","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","█"];
 
 
 var Backlist1 = "LIST";
