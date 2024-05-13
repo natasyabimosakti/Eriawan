@@ -65,7 +65,7 @@ var Comment16 = 'TERASTOTO*IIXKU52*63*53*BETTING';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'ABDITOGEL';
-var Comment17 = '#ABDITOGEL(IONIQ45):31*57#';
+var Comment17 = '#ABDITOGEL(IONIQ45):31*57';
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
