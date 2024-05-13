@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.31
+// @version      3.32
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti1.js
@@ -21,26 +21,26 @@ var Comment1 = 'TAG4D : (KERANG919) 62*71*32';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( KEYPAS284 ) : 72*75*61'; 
 
-var namagroup3 = 'INDOSL0TER';
-var Comment3 = 'KAMFER717 : 47*46*42 #indosloter'; 
+var namagroup3 = 'RNR303';
+var Comment3 = '‌#RNR303(KAMFER717) : 47*46*42'; 
 
 var namagroup4 = 'SEJITU';
-var Comment4 = '#SEJITU ( KARDUS313 ) : 12*80*79'; 
+var Comment4 = '#SEJITU ( KARDUS313 ) : 12*80*79';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*KERANG919*67*81*64*BETTING'; 
+var Comment5 = '#OTUSLOT*KERANG919*67*81*64*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (KURMA616) = 43*66*01'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'KANWIL515 : 30*09*35 #HOHOTOGEL'; 
+var Comment7 = 'KANWIL515 : 30*09*35 #HOHOTOGEL';
 
-var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / KOTOR414 / 06*97*33 / #Betting'; 
+var namagroup8 = 'TOK99T0T0';
+var Comment8 = 'Tok99Toto ( KOTOR414 ) : 06*97*33';
 
 var namagroup9 = 'KIUTOTO';
-var Comment9 = '#(KIUTOTO) (KURBAN818) : 30*09*35'; 
+var Comment9 = '#(KIUTOTO) (KURBAN818) : 30*09*35';
 
 var namagroup10 = 'SL0T0G3L';
 var Comment10 = '#SLOTOGEL (KASIH212) : 06*97*33';
@@ -119,7 +119,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["Room","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM"];
+var keyword = ["Room","ROOM","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM"];
 
 
 var Backlist1 = "LIST";
