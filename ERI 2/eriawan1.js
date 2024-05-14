@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (OGAHAH44) = 48*16*34';
 var namagroup6 = 'KIOST0T0';
 var Comment6 = 'KIOSTOTO=OSENGB20=14*76*70';
 
-var namagroup7 = 'ASEPTOGEL:
+var namagroup7 = 'ASEPTOGEL';
 var Comment7 = '#ASEPTOGEL ONGKIR370 14*76*70'; 
 
 var namagroup8 = 'ANGKER4D';
