@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.32
+// @version      3.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti2.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 var refresh = 50;
 
-var namagroup1 = 'TAFSIR';
+var namagroup1 = 'BUKU';
 var Comment1 = 'TAG4D : (JERUJI111) 74*13*14';
 
 var namagroup2 = 'K86';
