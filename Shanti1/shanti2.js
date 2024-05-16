@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.33
+// @version      3.34
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti2.js
@@ -127,7 +127,10 @@ var Backlist3 = "HASIL";
 var Backlist4 = "MANA";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
-
+var Backlist7 = "MANA";
+var Backlist8 = "MILAN";
+var Backlist9 = "LIBERIA";
+var Backlist10 = "TUNISIA4D";
 
 var myInterval = setInterval(function(){
     var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
@@ -202,7 +205,7 @@ var myInterval = setInterval(function(){
                     if(document.getElementsByClassName('native-text')[ntva].textContent.length >= 5){
                         console.log("postingan =" + document.getElementsByClassName('native-text')[ntva].textContent);
                         cekcomment = document.getElementsByClassName('native-text')
-                        if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)){
+                                                if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)||cekcomment[ntva].textContent.includes(Backlist8)||cekcomment[ntva].textContent.includes(Backlist9)||cekcomment[ntva].textContent.includes(Backlist10)){
                             break;
                         }
                         for (var j in keyword){
