@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.40
+// @version      3.41
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
@@ -127,7 +127,7 @@ var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
 var Backlist7 = "MANA";
 var Backlist8 = "MILAN";
-var Backlist9 = "LIBERIA";
+var Backlist9 = "LIEBRIA";
 var Backlist10 = "TUNISIA4D";
 
 var myInterval = setInterval(function(){
