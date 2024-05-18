@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      1.20
+// @version      1.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
@@ -24,7 +24,7 @@ var Comment2 = 'K86TOTO ( RUBIC767 ) : 73*82*86';
 var namagroup3 = 'RNR303';
 var Comment3 = '‌#RNR303(RAPID393) : 28*52*04';
 
-var namagroup4 = 'SEJITU';
+var namagroup4 = 'SEJ1TU';
 var Comment4 = '#SEJITU ( READY727 ) : 76*45*27'; 
 
 var namagroup5 = 'OTU';
@@ -119,7 +119,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM","Room","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","█","BORG99","🟠"];
+var keyword = ["R00M L0MB4","ROOM","Room","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","█","BORG99","🟠"];
 
 
 var Backlist1 = "LIST";
