@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.20
+// @version      3.21
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
@@ -46,7 +46,7 @@ var Comment8 = 'ANGKER4D=KERUNI19=99*60*92';
 var namagroup9 = 'G1LA4D';
 var Comment9 = 'GILA4D=KERIPIK89=99*60*92'; 
 
-var namagroup10 = 'JNE';
+var namagroup10 = 'JNE OFFICIAL';
 var Comment10 = '#JNETOTO(KRIMBAT72)*74*10*34'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
@@ -124,7 +124,7 @@ var Comment32 = 'TESTBENTO';
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
 
-var keyword = ["ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","⬛","🏆"];
+var keyword = ["ROM","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","⬛","🏆"];
 
 
 
