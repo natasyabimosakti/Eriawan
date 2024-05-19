@@ -15,7 +15,7 @@
 // ==/UserScript==
 var refresh = 50;
 
-var namagroup1 = 'BUKU MIMPI';
+var namagroup1 = 'BUKU';
 var Comment1 = 'TAG4D : (ILOVE96) 17*40*16'; 
 
 var namagroup2 = 'K86';
@@ -203,7 +203,7 @@ var myInterval = setInterval(function(){
                     if(document.getElementsByClassName('native-text')[ntva].textContent.length >= 5){
                         console.log("postingan =" + document.getElementsByClassName('native-text')[ntva].textContent);
                         cekcomment = document.getElementsByClassName('native-text')
-                                               if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)||cekcomment[ntva].textContent.includes(Backlist8)||cekcomment[ntva].textContent.includes(Backlist9)||cekcomment[ntva].textContent.includes(Backlist10)){
+                                               if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)||cekcomment[ntva].textContent.includes(Backlist8)||cekcomment[ntva].textContent.includes(Backlist9)||cekcomment[ntva].textContent.includes(Backlist10)||cekcomment[ntva].textContent.includes(Backlist11)){
                             break;
                         }
                         for (var j in keyword){
