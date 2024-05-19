@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.44
+// @version      3.45
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
@@ -27,7 +27,7 @@ var Comment3 = '‌#RNR303(ICON888) : 98*58*39';
 var namagroup4 = 'SEJ1TU';
 var Comment4 = '#SEJITU ( IAMSURE84 ) : 98*58*39'; 
 
-var namagroup5 = 'OTU';
+var namagroup5 = 'OTUSLOT';
 var Comment5 = '#OTUSLOT*IS3NG87*10*82*21*BETTING'; 
 
 var namagroup6 = 'DIVA4D';
@@ -204,7 +204,7 @@ var myInterval = setInterval(function(){
                     if(document.getElementsByClassName('native-text')[ntva].textContent.length >= 5){
                         console.log("postingan =" + document.getElementsByClassName('native-text')[ntva].textContent);
                         cekcomment = document.getElementsByClassName('native-text')
-                                               if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)||cekcomment[ntva].textContent.includes(Backlist8)||cekcomment[ntva].textContent.includes(Backlist9)||cekcomment[ntva].textContent.includes(Backlist10)||cekcomment[ntva].textContent.includes(Backlist11)){
+                                              if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)||cekcomment[ntva].textContent.includes(Backlist8)||cekcomment[ntva].textContent.includes(Backlist9)||cekcomment[ntva].textContent.includes(Backlist10)||cekcomment[ntva].textContent.includes(Backlist11)){
                             break;
                         }
                         for (var j in keyword){
