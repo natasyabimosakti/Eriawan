@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      1.23
+// @version      1.24
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
@@ -49,7 +49,7 @@ var namagroup11 = 'KEBAYA4D';
 var Comment11 = '(KEBAYA4D) = (PUNK888) 69*07*81'; 
 
 var namagroup12 = 'BESTOTO88';
-var Comment12 = 'PUSH565 : 70*92*38 #BESTOTO88'; 
+var Comment12 = 'PUSH565 : 70*92*11 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=PUCHER333=51*48*16'; 
@@ -63,8 +63,8 @@ var Comment15 = '#XX1TOTO (PIQUE020) 41*67*14 BETTING';
 var namagroup16 = 'TERAS';
 var Comment16 = 'TERASTOTO*PETRUK99*36*32*BETTING';
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'TESTBENTO';
-var Comment17 = 'TESTBENTO';
+var namagroup17 = 'TRY';
+var Comment17 = 'CITA4D*PONTA670*11*38*39';
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -128,6 +128,7 @@ var Backlist3 = "HASIL";
 var Backlist4 = "ROOM LOMBA FREEBET";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
+var Backlist7 = "MANA";
 
 
 var myInterval = setInterval(function(){
@@ -203,7 +204,7 @@ var myInterval = setInterval(function(){
                     if(document.getElementsByClassName('native-text')[ntva].textContent.length >= 5){
                         console.log("postingan =" + document.getElementsByClassName('native-text')[ntva].textContent);
                         cekcomment = document.getElementsByClassName('native-text')
-                        if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)){
+                        if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)){
                             break;
                         }
                         for (var j in keyword){
