@@ -45,7 +45,7 @@ var Comment9 = '#(KIUTOTO) (HANTAR999) : 83*04*44';
 var namagroup10 = 'SL0T0G3L';
 var Comment10 = '#SLOTOGEL (HIWER313) : 49*11*92'; 
 
-var namagroup11 = 'KEBAYA';
+var namagroup11 = 'KEBAYA4D';
 var Comment11 = '(KEBAYA4D) = (HAUNG555) 85*93*70'; 
 
 var namagroup12 = 'BESTOTO88';
