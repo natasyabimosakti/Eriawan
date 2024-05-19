@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      1.22
+// @version      1.23
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
