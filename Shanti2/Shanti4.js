@@ -27,7 +27,7 @@ var Comment3 = '‌#RNR303(POKEK909) : 62*09*56';
 var namagroup4 = 'SEJ1TU';
 var Comment4 = '#SEJITU ( POMPOM809 ) : 51*48*16'; 
 
-var namagroup5 = 'OTU';
+var namagroup5 = 'OTUSLOT';
 var Comment5 = '#OTUSLOT*POSYAN676*70*92*38*BETTING'; 
 
 var namagroup6 = 'PUSAT';
@@ -45,7 +45,7 @@ var Comment9 = '#(KIUTOTO) (PUSING777) : 69*07*81';
 var namagroup10 = 'SL0T0G3L';
 var Comment10 = '#SLOTOGEL (PAYAH999) : 83*12*80'; 
 
-var namagroup11 = 'KEBAYA';
+var namagroup11 = 'KEBAYA4D';
 var Comment11 = '(KEBAYA4D) = (PUNK888) 69*07*81'; 
 
 var namagroup12 = 'BESTOTO88';
