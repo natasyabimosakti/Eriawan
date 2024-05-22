@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.25
+// @version      3.26
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
@@ -28,7 +28,7 @@ var Comment2 = 'IYATOTO KMDA78 26*04*32';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = '#Tiktaktogel / KAMBIL90 / 74 , 10 , 34'; 
 
-var namagroup4 = 'GA1B4D';
+var namagroup4 = 'GAIB';
 var Comment4 = 'GAIB4D=KASTUR18=52*35*19'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -43,7 +43,7 @@ var Comment7 = '#ASEPTOGEL KERAMBIL72 61*77*55';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=KERUNI19=99*60*92'; 
 
-var namagroup9 = 'G1LA4D';
+var namagroup9 = 'GILA';
 var Comment9 = 'GILA4D=KERIPIK89=99*60*92'; 
 
 var namagroup10 = 'JNE OFFICIAL';
@@ -124,7 +124,7 @@ var Comment32 = 'TESTBENTO';
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
 
-var keyword = ["DEAR","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","ROOM_L0MBA","ROM","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","⬛","🏆"];
+var keyword = ["👑","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","ROOM_L0MBA","ROM","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","⬛","🏆"];
 
 
 
