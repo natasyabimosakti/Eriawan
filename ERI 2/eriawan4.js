@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.20
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan4.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan4.js
@@ -26,7 +26,7 @@ var Comment2 = 'IYATOTO PAKBULL576 57*72*80';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = '#Tiktaktogel / POKEK909 / 62 , 37 , 15'; 
 
-var namagroup4 = 'GA1B4D';
+var namagroup4 = 'GAIB';
 var Comment4 = 'GAIB4D=POMPOM809=60*59*40'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -41,7 +41,7 @@ var Comment7 = '#ASEPTOGEL PAKAI333 21*88*69';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=PUANCEN444=07*65*50'; 
 
-var namagroup9 = 'G1LA4D';
+var namagroup9 = 'GILA';
 var Comment9 = 'GILA4D=PUSING777=07*65*50'; 
 
 var namagroup10 = 'JNE';
