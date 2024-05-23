@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
@@ -155,9 +155,9 @@ var id17 = await GM.getValue(17);
 
 var admin = ["alde","adm","ananda","aditia","audi","ayesha","bobby","bojes","bos","bambang","bastian","baru","Baru","cinta","celsia","chiezah","camb","dika","dewi","dentoto","flanella","flan","goes","grey","hefi","hoihai","icha","ikan","iyatoto","jne","kumbara","kembar","kembara","keitogel","kotna","lianda","lina","laura","mahendra","muhamad","muhammad","multi","mad","melati","mariana","nasution","nella","novi","nur","neman","oscar","puput","primus","priyan","Ria","ratu","roy","rio","rendy","san","SanDiego","salsabila","safar","sanchez","sanjaya","siska","sandiego","sinta","sonia","tink","tiktak","tatang","Vin","wok","whane","yohana","yoky"];
 
-var jam = ["1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit"];
-var jam2= ["Admin   1 menit","Admin   2 menit","Admin   3 menit","Admin   4 menit","Admin   5 menit","Admin   6 menit","Admin   7 menit","Admin   8 menit"];
-var jam3= ["Moderator   1 menit","Moderator   2 menit","Moderator   3 menit","Moderator   4 menit","Moderator   5 menit","Moderator   6 menit","Moderator   7 menit","Moderator   8 menit"];
+var jam = ["Baru","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit"];
+var jam2= ["Admin   Baru","Admin   1 menit","Admin   2 menit","Admin   3 menit","Admin   4 menit","Admin   5 menit","Admin   6 menit","Admin   7 menit","Admin   8 menit"];
+var jam3= ["Moderator   Baru","Moderator   1 menit","Moderator   2 menit","Moderator   3 menit","Moderator   4 menit","Moderator   5 menit","Moderator   6 menit","Moderator   7 menit","Moderator   8 menit"];
 
 var keyword = ["𝗥𝗢𝗢𝗠","👑","ROOM_L0MBA","ROM","ROOM","R00M","R0M","R0OM","RO0M","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","LIMBA","ROM","⏩","⬛","🏆"];
 
