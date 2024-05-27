@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.47
+// @version      3.48
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti3.js
@@ -43,10 +43,10 @@ var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (IQGOOD90) : 29*86*18'; 
 
 var namagroup10 = 'SLOTOG3L';
-var Comment10 = '#SLOTOGEL (IRLEDD05) : 29*86*18'; 
+var Comment10 = '#SLOTOGEL (IRLEDD05) : 59*03*84'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (IHMASUK59) 59*03*84'; 
+var Comment11 = '(KEBAYA4D) = (IHMASUK59) 29*86*18'; 
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'IOTAN55 : 59*03*84 #BESTOTO88'; 
