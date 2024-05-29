@@ -28,7 +28,7 @@ var namagroup4 = 'SEJ1TU';
 var Comment4 = '#SEJITU ( KARDUS313 ) : 12*80*79';
 
 var namagroup5 = 'OTUSLOT';
-var Comment5 = '#OTUSLOT*KERANG919*67*81*64*BETTING';
+var Comment5 = '#OTUSLOT*KERANG919*06*97*33*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (KURMA616) = 43*66*01'; 
@@ -43,7 +43,7 @@ var namagroup9 = 'KIUTOTO';
 var Comment9 = '#(KIUTOTO) (KURBAN818) : 30*09*35';
 
 var namagroup10 = 'SLOTOG3L';
-var Comment10 = '#SLOTOGEL (KASIH212) : 06*97*33';
+var Comment10 = '#SLOTOGEL (KASIH212) : 67*81*64';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (KAWUL313) 47*46*42'; 
