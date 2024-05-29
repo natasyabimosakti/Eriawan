@@ -61,7 +61,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (PIQUE020) 41*67*14 BETTING'; 
 
 var namagroup16 = 'ABDITOGEL';
-var Comment16 = 'TERASTOTO*PETRUK99*36*32*BETTING';
+var Comment16 = '#ABDITOGEL(PETRUK99):36*32';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TRY';
 var Comment17 = 'CITA4D*PONTA670*11*38*39';
