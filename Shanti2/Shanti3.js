@@ -61,7 +61,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (ROLOKAB111)  73*82*86 BETTING'; 
 
 var namagroup16 = 'ABDITOGEL';
-var Comment16 = 'TERASTOTO*RAMPOK84*71*95*BETTING';
+var Comment16 = '#ABDITOGEL(RAMPOK84):71*95';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TRY';
 var Comment17 = 'CITA4D*ROMAN168*00*98*06';
