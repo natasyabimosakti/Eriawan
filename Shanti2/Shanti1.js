@@ -60,7 +60,7 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*OMBUS45*94*96*99';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (OLONG00) 21*84*64 BETTING'; 
 
-var namagroup16 = 'ABDI';
+var namagroup16 = 'ABDITOGEL';
 var Comment16 = '#ABDITOGEL(OMBAK22):66*08'
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TRY';
