@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.45
+// @version      3.46
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
@@ -15,8 +15,8 @@
 // ==/UserScript==
 var refresh = 50;
 
-var namagroup1 = 'BUKU';
-var Comment1 = 'TAG4D : (HIWER313) 00*99'; 
+var namagroup1 = 'RITOGEL';
+var Comment1 = '#RITOGEL(HIWER313)00*99*37';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( HUJAN749 ) : 50*38*94'; 
@@ -116,7 +116,7 @@ var Comment32 = 'TESTBENTO';
 
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
-var keyword = ["ROOM","*ROOM","R00M L0MB4","█","R00M","Room","𝗥𝗢𝗢𝗠","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","٠•●","BORG99","🟠"];
+var keyword = ["ROOM","*ROOM","R00M L0MB4","█","R00M","Room","𝗥𝗢𝗢𝗠","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","٠•●","BORG99","🟠","♥"];
 
 
 var Backlist1 = "LIST";
