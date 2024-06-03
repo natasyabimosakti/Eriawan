@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.46
+// @version      3.47
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
@@ -16,7 +16,7 @@
 var refresh = 50;
 
 var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(HIWER313)00*99*37';
+var Comment1 = '#RITOGEL(HUHUK202)00*99*37';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( HUJAN749 ) : 50*38*94'; 
