@@ -20,7 +20,7 @@ var refresh = 50;
 var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(WINDOW98)53*91*33'; 
 
-var namagroup2 = 'K86T0T0';
+var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( WINDI55 ) : 41*54*09'; 
 
 var namagroup3 = 'PUSAT LOMBA';
