@@ -63,7 +63,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (YOUARE05)  18*69*87 BETTING'; 
 
 var namagroup16 = 'TRY';
-var Comment16 = 'CITA4D*YIMBO55*83*32*';
+var Comment16 = 'CITA4D*YIMBO55*83*32*40';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'ABDITOGEL';
 var Comment17 = '#ABDITOGEL(YICAK63):40*17';
