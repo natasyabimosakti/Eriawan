@@ -15,56 +15,57 @@
 // ==/UserScript==
 var refresh = 50;
 
-var namagroup1 = 'BUKU';
-var Comment1 = 'TAG4D : (OPPA31) 66*08*20'; 
+var namagroup1 = 'RITOGEL';
+var Comment1 = '#RITOGEL(ZEPPIN32)11*50*27'; 
 
-var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( OYON22 ) : 21*84*64'; 
+var namagroup2 = 'K86T0T0';
+var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*50*27'; 
 
-var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(ONGKI18) : 94*96*99'; 
+var namagroup3 = 'PUSAT LOMBA';
+var Comment3 = 'Shiotogel4d (ZAMBORE77) 14*61*71'; 
 
 var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( OBATT69 ) : 40*57*01'; 
+var Comment4 = '#SEJITU ( ZIGZAG66 ) : 14*61*71'; 
 
-var namagroup5 = 'OTUSLOT';
-var Comment5 = '#OTUSLOT*OGAHAH44*74*68*19*BETTING'; 
+var namagroup5 = 'RNR303';
+var Comment5 = '‌#RNR303(ZZZZZZ66) : 26*31*67'; 
 
-var namagroup6 = 'PUSAT';
-var Comment6 = 'Shiotogel4d (ONGKI18) 90*97*78'; 
+var namagroup6 = 'DIVA4D';
+var Comment6 = '#DIVA4D (ZAPP313) = 26*31*67'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'ONGKIR370 : 37*25*47 #HOHOTOGEL'; 
+var Comment7 = 'ZUZUZU88 : 59*65*75 #HOHOTOGEL'; 
 
 var namagroup8 = 'TOK99T0T0';
-var Comment8 = 'Tok99Toto ( OBORR55 ) : 37*25*47'; 
+var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 59*65*75'; 
 
 var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (ONTAR77) : 02*58*15'; 
+var Comment9 = '#(KIUTOTO) (ZONARED44) : 76*45*34'; 
 
-var namagroup10 = 'SL0T0G3L';
-var Comment10 = '#SLOTOGEL (ODONG90) : 90*97*78'; 
+var namagroup10 = 'SLOTOGEL';
+var Comment10 = '#SLOTOGEL (ZUKAZUKA01) : 76*45*34'; 
 
-var namagroup11 = ' KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (ONIONN33) 02*58*15'; 
+var namagroup11 = 'KEBAYA';
+var Comment11 = '(KEBAYA4D) = (ZONGG000) 78*94*99'; 
 
 var namagroup12 = 'BESTOTO88';
-var Comment12 = 'OING284 : 74*68*55 #BESTOTO88'; 
+var Comment12 = 'ZUMIE22 : 78*94*99 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=OPUNG666=40*57*01'; 
+var Comment13 = 'GOHTOGEL=ZUZIE08=49*35*74'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*OMBUS45*94*96*99'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*ZEVVA34*49*35*74'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (OLONG00) 21*84*64 BETTING'; 
+var Comment15 = '#XX1TOTO (ZUMBA78)  72*68*51 BETTING'; 
 
-var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*OMBAK22*66*08*BETTING';
+var namagroup16 = 'TRY';
+var Comment16 = 'CITA4D*ZUMMO28*72*68*';
+
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'TRY';
-var Comment17 = 'CITA4D*OTAK287*55*19*20';
+var namagroup17 = 'ABDITOGEL';
+var Comment17 = '#ABDITOGEL(ZOOMM12):84*51';
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -117,15 +118,21 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["R00M L0MB4","ROOM","𝗥𝗢𝗢𝗠","Room","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","█","🟠"];
+var keyword = ["ROOM","*ROOM","L0MB4","█","R00M","Room","𝗥𝗢𝗢𝗠","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","٠•●","BORG99","🟠","♥"];
 
 
 var Backlist1 = "LIST";
 var Backlist2 = "REKAP";
 var Backlist3 = "HASIL";
-var Backlist4 = "ROOM LOMBA FREEBET";
+var Backlist4 = "MANA";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
+var Backlist7 = "MANA";
+var Backlist8 = "MILAN";
+var Backlist9 = "LIEBRIA";
+var Backlist10 = "TUNISIA4D";
+var Backlist11 = "LIBERIA";
+var Backlist12 = "TEL";
 
 
 var myInterval = setInterval(function(){
@@ -201,7 +208,7 @@ var myInterval = setInterval(function(){
                     if(document.getElementsByClassName('native-text')[ntva].textContent.length >= 5){
                         console.log("postingan =" + document.getElementsByClassName('native-text')[ntva].textContent);
                         cekcomment = document.getElementsByClassName('native-text')
-                        if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)){
+                        if(cekcomment[ntva].textContent.includes(Backlist1)||cekcomment[ntva].textContent.includes(Backlist2)||cekcomment[ntva].textContent.includes(Backlist3)||cekcomment[ntva].textContent.includes(Backlist4)||cekcomment[ntva].textContent.includes(Backlist5)||cekcomment[ntva].textContent.includes(Backlist6)||cekcomment[ntva].textContent.includes(Backlist7)||cekcomment[ntva].textContent.includes(Backlist8)||cekcomment[ntva].textContent.includes(Backlist9)||cekcomment[ntva].textContent.includes(Backlist10)||cekcomment[ntva].textContent.includes(Backlist11)||cekcomment[ntva].textContent.includes(Backlist12)){
                             break;
                         }
                         for (var j in keyword){
