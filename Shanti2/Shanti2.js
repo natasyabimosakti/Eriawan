@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 2
 // @namespace    http://tampermonkey.net/
-// @version      1.30
+// @version      1.31
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti2.js
@@ -42,7 +42,7 @@ var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 31*53*22';
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (QOPILU09) : 79*89*10'; 
 
-var namagroup10 = 'SLOTOG3L';
+var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (QESBAH72) : 77*43*93'; 
 
 var namagroup11 = 'KEBAYA4D';
