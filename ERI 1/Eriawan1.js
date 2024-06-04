@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.05
+// @version      3.06
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan1.js
@@ -124,7 +124,7 @@ var Comment32 = 'TESTBENTO';
 
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
-var keyword = ["𝗥𝗢𝗢𝗠","ROOM_L0MBA","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","⬛","🏆"];
+var keyword = ["👑ROOM","𝗥𝗢𝗢𝗠","ROOM_L0MBA","ROOM","R00M","R0M","R0OM","RO0M","𝗥𝗢𝗢𝗠","🎱","LOMBA","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","⏩","⬛","🏆"];
 
 
 var Backlist1 = "PREDIKSI";
