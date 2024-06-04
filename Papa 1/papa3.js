@@ -60,10 +60,10 @@ var namagroup14 = 'MAYAPADA';
 var Comment14 = 'BETT*SingasariTOTO(BO)*XMIN111*86*48*96'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (XYOU555)  63*36*30 BETTING'; 
+var Comment15 = '#XX1TOTO (XYOU555) 63*36*30 BETTING'; 
 
 var namagroup16 = 'TRY';
-var Comment16 = 'CITA4D*XENIA950*86*48*';
+var Comment16 = 'CITA4D*XENIA950*86*48*96';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'ABDITOGEL';
 var Comment17 = '#ABDITOGEL(XUXIXI72):55*96';
