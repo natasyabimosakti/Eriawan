@@ -61,7 +61,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (ZUMBA78)  72*68*51 BETTING'; 
 
 var namagroup16 = 'TRY';
-var Comment16 = 'CITA4D*ZUMMO28*72*68*';
+var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'ABDITOGEL';
