@@ -20,7 +20,7 @@ var refresh = 50;
 var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(YOYYO93)19*46*93'; 
 
-var namagroup2 = 'K86T0T0';
+var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( YUMIE88 ) : 15*47*58'; 
 
 var namagroup3 = 'PUSAT LOMBA';
@@ -41,7 +41,7 @@ var Comment7 = 'YUPPIE54 : 12*25*37 #HOHOTOGEL';
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( YUYU666 ) : 80*42*22'; 
 
-var namagroup9 = 'KIU';
+var namagroup9 = 'KIUTOTO';
 var Comment9 = '#(KIUTOTO) (YUKWIN09) : 81*79*66'; 
 
 var namagroup10 = 'SLOTOGEL';
