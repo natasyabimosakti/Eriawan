@@ -45,10 +45,10 @@ var namagroup9 = 'KIUTOTO';
 var Comment9 = '#(KIUTOTO) (WHAWHA24) : 73*44*16'; 
 
 var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (WHEREAM55) : 77*01*64'; 
+var Comment10 = '#SLOTOGEL (WHEREAM55) : 88*01*64'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (WHOIS87) 88*28*89'; 
+var Comment11 = '(KEBAYA4D) = (WHOIS87) 77*28*89'; 
 
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'WAOW001 : 56*10*16 #BESTOTO88'; 
