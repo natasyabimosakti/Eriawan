@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PAPA 4
 // @namespace    http://tampermonkey.net/
-// @version      1.01
+// @version      1.02
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa4.js
@@ -51,10 +51,10 @@ var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (WHOIS87) 88*28*89'; 
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'WAOW001 : 56*10*92 #BESTOTO88'; 
+var Comment12 = 'WAOW001 : 56*10*16 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=WULLING234=73*44*16'; 
+var Comment13 = 'GOHTOGEL=WULLING234=73*44*92'; 
 
 var namagroup14 = 'MAYAPADA';
 var Comment14 = 'BETT*SingasariTOTO(BO)*WAIVE444*77*01*64'; 
