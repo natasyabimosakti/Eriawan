@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PAPA 3
 // @namespace    http://tampermonkey.net/
-// @version      1.00
+// @version      1.01
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa3.js
@@ -62,7 +62,7 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*XMIN111*86*48*96';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (XYOU555) 63*36*30 BETTING'; 
 
-var namagroup16 = 'TRY';
+var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*XENIA950*86*48*96';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'ABDITOGEL';
