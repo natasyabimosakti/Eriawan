@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PAPA 1
 // @namespace    http://tampermonkey.net/
-// @version      1.03
+// @version      1.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa1.js
@@ -114,7 +114,7 @@ var Comment32 = 'TESTBENTO';
 
 
 
-var admin = ["farah","slooter","kayla","erika","brian","aldi","febrian","jihan","jesika","rano","sabrina","artha","naura","katty","intan","neng","kendri","adelia","larissa","mesa","yasmine","oun","aurel","fiana","tiara","sabrina","hana","tania","leksa","brian","nadila","elly","farid","zurro","gretha","wndt","lehman","wiena","manu","lidya","otong","jhone","herfizah","vonny","jess","ayesha","jovanka","dollar","dewa","andy","erwin","wahid","ujen","sejitu","wahzo","kiky","calvin","megaways","fahresa","viona","mardia","sintia","robby","nathaya","boboho","celine","maes","tag","bella","dea","alde","puput","mad","hefi","dika","miranda","adm","celsia","leon","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","sloter","nella","novi","sandiego","intan","ratu","priyan","san","ria","sanjaya","siska","jenifer","aditia","andri","safar","mahendra","multi","mariana","neman","minion","dewi","primus","roy","dewi","melati","kumbara","dinda","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy"];
+var admin = ["mong","richatun","supriati","indra","suhaidatul","abditogel","farah","slooter","kayla","erika","brian","aldi","febrian","jihan","jesika","rano","sabrina","artha","naura","katty","intan","neng","kendri","adelia","larissa","mesa","yasmine","oun","aurel","fiana","tiara","sabrina","hana","tania","leksa","brian","nadila","elly","farid","zurro","gretha","wndt","lehman","wiena","manu","lidya","otong","jhone","herfizah","vonny","jess","ayesha","jovanka","dollar","dewa","andy","erwin","wahid","ujen","sejitu","wahzo","kiky","calvin","megaways","fahresa","viona","mardia","sintia","robby","nathaya","boboho","celine","maes","tag","bella","dea","alde","puput","mad","hefi","dika","miranda","adm","celsia","leon","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","sloter","nella","novi","sandiego","intan","ratu","priyan","san","ria","sanjaya","siska","jenifer","aditia","andri","safar","mahendra","multi","mariana","neman","minion","dewi","primus","roy","dewi","melati","kumbara","dinda","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy"];
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
@@ -125,6 +125,8 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "R0M"
 var keyword10 = "🎱"
+var keyword11 = "Room"
+var keyword12 = "Lomba"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -133,7 +135,11 @@ var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
 var Backlist7 = "result";
-
+var Backlist8 = "MILAN";
+var Backlist9 = "LIEBRIA";
+var Backlist10 = "TUNISIA4D";
+var Backlist11 = "LIBERIA";
+var Backlist12 = "TEL";
 
 
 var myrefresh = setInterval(function(){
@@ -226,7 +232,9 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
@@ -235,7 +243,12 @@ var myInterval = setInterval(function(){
                        ||postingan.textContent.toLowerCase().includes(Backlist4.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(Backlist5.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(Backlist6.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist7.toLowerCase())){
+                       ||postingan.textContent.toLowerCase().includes(Backlist7.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist8.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist9.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist10.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist11.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist12.toLowerCase())){
                         console.log("Terdaftar Backlist...!  ");
                         return;
                     }
