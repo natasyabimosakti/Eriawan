@@ -19,13 +19,13 @@ var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(ZEPPIN32)11*61*27'; 
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*50*27'; 
+var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*71*27'; 
 
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (ZAMBORE77) 14*50*71'; 
 
 var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( ZIGZAG66 ) : 14*61*71'; 
+var Comment4 = '#SEJITU ( ZIGZAG66 ) : 14*61*50'; 
 
 var namagroup5 = 'RNR303';
 var Comment5 = '‌#RNR303(ZZZZZZ66) : 26*31*67'; 
