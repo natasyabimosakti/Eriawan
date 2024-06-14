@@ -40,7 +40,7 @@ var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( OBORR55 ) : 37*25*47'; 
 
 var namagroup9 = 'BLITAR4D';
-var Comment9 = '#BLITAR4D ( ONTAR77 ) : 02*58*15';  '#(KIUTOTO) () : '; 
+var Comment9 = '#BLITAR4D ( ONTAR77 ) : 02*58*15';
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (ODONG90) : 90*97*78'; 
