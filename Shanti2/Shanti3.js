@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      1.35
+// @version      1.36
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
@@ -113,7 +113,7 @@ var Comment32 = 'TESTBENTO';
 
 
 
-var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha""audi","alde","bella","boboho","bastian","bobby","base","bonar","brian","bala","celsia","chika","cinta","calvin","celine","dea","dika","dollar","dewa","dewi","dinda","dave","erika","elly","erwin","febrian","fiana","farah","farid","gretha","ghifa","hefi","hana","intan","icha","inisial","indra","intan","john","jihan","jesika","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","kendri","kumbara","kembar","karina","lina","lianda","larissa","leksa","lehman","lidya","lusiana","leon","laura","maes","mad","manu","miranda","mesa","mahendra","multi","mariana","minion","melati","mimi","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nadila","nella","novi","oun","oscar","otong","priyan","primus","plat","rizal","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","sinta","tink","tag","tiara","tania","wndt","wiena","jhone","herfizah","vonny","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","wok","hoihai","hefi","jenifer","kotna"];
+var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","bella","boboho","bastian","bobby","base","bonar","brian","bala","celsia","chika","cinta","calvin","celine","dea","dika","dollar","dewa","dewi","dinda","dave","erika","elly","erwin","febrian","fiana","farah","farid","gretha","ghifa","hefi","hana","intan","icha","inisial","indra","intan","john","jihan","jesika","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","kendri","kumbara","kembar","karina","lina","lianda","larissa","leksa","lehman","lidya","lusiana","leon","laura","maes","mad","manu","miranda","mesa","mahendra","multi","mariana","minion","melati","mimi","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nadila","nella","novi","oun","oscar","otong","priyan","primus","plat","rizal","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","sinta","tink","tag","tiara","tania","wndt","wiena","jhone","herfizah","vonny","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","wok","hoihai","hefi","jenifer","kotna"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
