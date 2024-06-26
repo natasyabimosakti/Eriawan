@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.57
+// @version      3.58
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti1/shanti4.js
@@ -61,11 +61,11 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (HOPENG596) 50*38*94 BETTING'; 
 
 var namagroup16 = 'UJI';
-var Comment16 = 'CITA4D*HOLONG374*00*99*85';
+var Comment16 = 'CITA4D*HANTUPA909*00*99*85';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'ABDITOGEL';
-var Comment17 = '#ABDITOGEL(HARIINI009):37*95';
+var namagroup17 = 'MANGSA';
+var Comment17 = '#MANGSATOTO (HARIINI009) 37*95';
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
