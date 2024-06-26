@@ -64,8 +64,8 @@ var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*JASAD555*74*13*15';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'ABDITOGEL';
-var Comment17 = '#ABDITOGEL(JAJAN092):14*76';
+var namagroup17 = 'MANGSA';
+var Comment17 = 'MANGSATOTO (JAJAN092) 62*52';
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
