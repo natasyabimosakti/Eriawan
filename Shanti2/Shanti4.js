@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 4
 // @namespace    http://tampermonkey.net/
-// @version      1.39
+// @version      1.40
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti4.js
@@ -16,56 +16,58 @@
 var refresh = 50;
 
 var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(PETRUK99)36*32*39';
+var Comment1 = '#RITOGEL(SOSWEET87)36*32*39';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( PAKBULL576 ) : 41*67*14'; 
+var Comment2 = 'K86TOTO ( SUNRISE33 ) : 41*67*14'; 
 
 var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(POKEK909) : 62*09*56'; 
+var Comment3 = '‌#RNR303(SUMMER84) : 62*09*56'; 
 
 var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( POMPOM809 ) : 51*48*16'; 
+var Comment4 = '#SEJITU ( SEMANGAT45 ) : 51*48*16'; 
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*POSYAN676*70*92*38*BETTING'; 
+var Comment5 = '#OTUSLOT*SANRIO123*70*92*38*BETTING'; 
 
 var namagroup6 = 'PUSAT';
-var Comment6 = 'Shiotogel4d (PERAK689) 83*12*80';
+var Comment6 = 'Shiotogel4d (SEALION99) 83*12*80';
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'PAKAI333 : 54*33*13 #HOHOTOGEL'; 
+var Comment7 = 'SUNSET245 : 54*33*13 #HOHOTOGEL'; 
 
 var namagroup8 = 'TOK99T0T0';
-var Comment8 = 'Tok99Toto ( PUANCEN444 ) : 54*33*13'; 
+var Comment8 = 'Tok99Toto ( SOMERSET34 ) : 54*33*13'; 
 
 var namagroup9 = 'BLITAR4D';
-var Comment9 = '#BLITAR4D ( PUSING777 ) : 69*07*81';
+var Comment9 = '#BLITAR4D ( SENADA17 ) : 69*07*81';
 
 var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (PAYAH999) : 83*12*80'; 
+var Comment10 = '#SLOTOGEL (SOPHIA38) : 83*12*80'; 
 
 var namagroup11 = 'KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (PUNK888) 69*07*81'; 
+var Comment11 = '(KEBAYA4D) = (SEMBILAN8) 69*07*81'; 
 
 var namagroup12 = 'BESTOTO88';
-var Comment12 = 'PUSH565 : 70*92*11 #BESTOTO88'; 
+var Comment12 = 'SOUP88 : 70*92*11 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=PUCHER333=51*48*16'; 
+var Comment13 = 'GOHTOGEL=SODA168=51*48*16'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*PIANG212*62*09*56'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*SOS999*62*09*56'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (PIQUE020) 41*67*14 BETTING'; 
+var Comment15 = '#XX1TOTO (SHINY111) 41*67*14 BETTING'; 
 
 var namagroup16 = 'UJI';
-var Comment16 = 'CITA4D*PONTA670*11*38*39';
+var Comment16 = 'CITA4D*SOURSALLY77*11*38*39';
+
+var namagroup17 = 'MANGSA';
+var Comment17 = '#MANGSATOTO (SUNNY678) 36*32';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'ABDITOGEL';
-var Comment17 = '#ABDITOGEL(PONTA670):36*32';
+
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -128,6 +130,7 @@ var keyword9 = "R0M"
 var keyword10 = "🎱"
 var keyword11 = "Room"
 var keyword12 = "Lomba"
+var keyword12 = "🍭"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -235,7 +238,8 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
