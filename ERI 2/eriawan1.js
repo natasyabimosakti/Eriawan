@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.01
+// @version      3.02
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%202/eriawan1.js
@@ -18,49 +18,49 @@
 var refresh = 50;
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*OPPA31*22*71'; 
+var Comment1 = '#shiokelinci4d*TOMATOES288*22*71'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO OYONG22 48*16*34'; 
+var Comment2 = 'IYATOTO TUNDER18 48*16*34'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
-var Comment3 = '#Tiktaktogel / ONGKI18 / 64 , 44 , 24'; 
+var Comment3 = '#Tiktaktogel / THANKYOU99 / 64 , 44 , 24'; 
 
 var namagroup4 = 'GA1B';
-var Comment4 = 'GAIB4D=OBATT69=77*81*33'; 
+var Comment4 = 'GAIB4D=TANGGO10=77*81*33'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (OGAHAH44) = 48*16*34'; 
+var Comment5 = '#keitogel = (TAHUTOK50) = 48*16*34'; 
 
 var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=OSENGB20=14*76*70';
+var Comment6 = 'KIOSTOTO=TIRAMISU37=14*76*70';
 
 var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL ONGKIR370 14*76*70'; 
+var Comment7 = 'ASEPTOGEL TALKLESS100 14*76*70'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=OBORR55=52*38*32'; 
+var Comment8 = 'ANGKER4D=TASTY89=52*38*32'; 
 
 var namagroup9 = 'GILA';
-var Comment9 = 'GILA4D=ONTAR77=52*38*32'; 
+var Comment9 = 'GILA4D=TIKTOK2024=52*38*32'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(ODONG90)*64*44*24'; 
+var Comment10 = '#JNETOTO(TOPIKU777)*64*44*24'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*ONIONN33*52*38*32*'; 
+var Comment11 = '#TA*TUNA123*52*38*32*'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY OING284 77*81*33'; 
+var Comment12 = 'TOGELKUY TERANG93 77*81*33'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( OPUNG666 ) : 30*13*87'; 
+var Comment13 = '#TOYIBSLOT ( TRUST898 ) : 30*13*87'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 30*13*87 ( OMBUS45 )'; 
+var Comment14 = '#DENTOTO 30*13*87 ( TORNADO13 )'; 
 
 var namagroup15 = 'HATRICK';
-var Comment15 = 'VESPATOGEL (OLONG00)  83*08*25'; 
+var Comment15 = 'VESPATOGEL (TONGKOL65)  83*08*25'; 
 
 var namagroup16 = '';
 var Comment16 = '';
@@ -121,6 +121,8 @@ var Comment32 = 'TESTBENTO';
 
 
 var admin = ["alde","audi","adm","ayesha","aditia","ananda","baru","Baru","bobby","bastian","camb","celsia","cinta","dika","dewi","dewa","dentoto","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","yoky","yohana"];
+
+
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
