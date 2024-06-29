@@ -62,9 +62,14 @@ var Comment15 = '#XX1TOTO (PIQUE020)  72*75*61 BETTING';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*PONTA670*32*71*52';
-/*======================================================================3D===============================================================*/
+
 var namagroup17 = 'MANGSA';
 var Comment17 = '#MANGSATOTO (PONTA670) 62*52';
+
+
+
+/*======================================================================3D===============================================================*/
+
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -128,6 +133,7 @@ var keyword9 = "R0M"
 var keyword10 = "🎱"
 var keyword11 = "Room"
 var keyword12 = "Lomba"
+var keyword13 = "🍭"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -235,7 +241,8 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
