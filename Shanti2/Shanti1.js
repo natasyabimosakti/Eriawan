@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      1.41
+// @version      1.42
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
@@ -130,6 +130,7 @@ var keyword9 = "R0M"
 var keyword10 = "🎱"
 var keyword11 = "Room"
 var keyword12 = "Lomba"
+var keyword13 = "🍭"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -237,7 +238,8 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
