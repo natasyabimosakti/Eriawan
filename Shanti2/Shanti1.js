@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      1.40
+// @version      1.41
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
@@ -16,55 +16,55 @@
 var refresh = 50;
 
 var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(OMBAK22)66*08*20';
+var Comment1 = '#RITOGEL(TOMATOES288)66*08*20';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( OYON22 ) : 21*84*64'; 
+var Comment2 = 'K86TOTO ( TUNDER18 ) : 21*84*64'; 
 
 var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(ONGKI18) : 94*96*99'; 
+var Comment3 = '‌#RNR303(THANKYOU99) : 94*96*99'; 
 
 var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( OBATT69 ) : 40*57*01'; 
+var Comment4 = '#SEJITU ( TANGGO10 ) : 40*57*01'; 
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*OGAHAH44*74*68*19*BETTING'; 
+var Comment5 = '#OTUSLOT*TAHUTOK50*74*68*19*BETTING'; 
 
 var namagroup6 = 'PUSAT';
-var Comment6 = 'Shiotogel4d (ONGKI18) 90*97*78'; 
+var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'ONGKIR370 : 37*25*47 #HOHOTOGEL'; 
+var Comment7 = 'TALKLESS100 : 37*25*47 #HOHOTOGEL'; 
 
 var namagroup8 = 'TOK99T0T0';
-var Comment8 = 'Tok99Toto ( OBORR55 ) : 37*25*47'; 
+var Comment8 = 'Tok99Toto ( TASTY89 ) : 37*25*47'; 
 
 var namagroup9 = 'BLITAR4D';
-var Comment9 = '#BLITAR4D ( ONTAR77 ) : 02*58*15';
+var Comment9 = '#BLITAR4D ( TIKTOK2024 ) : 02*58*15';
 
 var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (ODONG90) : 90*97*78'; 
+var Comment10 = '#SLOTOGEL (TOPIKU777) : 90*97*78'; 
 
 var namagroup11 = ' KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (ONIONN33) 02*58*15'; 
+var Comment11 = '(KEBAYA4D) = (TUNAI123) 02*58*15'; 
 
 var namagroup12 = 'BESTOTO88';
-var Comment12 = 'OING284 : 74*68*55 #BESTOTO88'; 
+var Comment12 = 'TERANG93 : 74*68*55 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=OPUNG666=40*57*01'; 
+var Comment13 = 'GOHTOGEL=TRUST898=40*57*01'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*OMBUS45*94*96*99'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*TORNADO13*94*96*99'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (OLONG00) 21*84*64 BETTING'; 
+var Comment15 = '#XX1TOTO (TONGKOL65) 21*84*64 BETTING'; 
 
 var namagroup16 = 'UJI';
-var Comment16 = 'CITA4D*OTAK287*55*19*20'; 
+var Comment16 = 'CITA4D*TIGERS387*55*19*20'; 
 
-var namagroup17 = 'ABDITOGEL';
-var Comment17 = '#ABDITOGEL(OTAK287):66*08'
+var namagroup17 = 'MANGSA';
+var Comment17 = '#MANGSATOTO (TASMANIA2) 66*08';
 
 /*======================================================================3D===============================================================*/
 
@@ -116,7 +116,7 @@ var Comment32 = 'TESTBENTO';
 
 
 
-var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo", "alexs","bella","boboho","bastian","bobby","base","bonar","brian","bala","celsia","chika","cinta","calvin","celine","dea","dika","dollar","dewa","dewi","dinda","dinanti", "diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","ghifa","hefi","hana","hanna","intan","icha","inisial","indra","intan","john","jhone","jihan","jesika","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","kumala","kendri","kumbara","kembar","karina","lina","lianda","larissa","leksa","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","mahendra","multi","mariana","minion","melati","mimi","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nadila","nella","novi","oun","oscar","otong","priyan","primus","plat","prediksi","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","sutanti","sinta","tink","tag","tiara","tania","wndt","wiena","jhone","herfizah","vonny","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","wok","hoihai","hefi","jenifer","kotna"];
+var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo", "alexs","bella","boboho","bastian","bobby","base","bonar","brian","bala","celsia","chika","cinta","calvin","celine","dea","dika","dollar","dewa","dewi","dinda","dinanti", "diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","ghifa","hefi","hana","hanna","intan","icha","inisial","indra","intan","john","jhone","jihan","jesika","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","kumala","kendri","kumbara","kembar","karina","lina","lianda","larissa","leksa","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","mahendra","multi","mariana","minion","melati","mimi","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nadila","nella","novi","oun","oscar","otong","priyan","primus","plat","prediksi","petir","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","sutanti","sinta","tink","tag","tiara","tania","wndt","wiena","jhone","herfizah","vonny","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","wok","hoihai","hefi","jenifer","kotna"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
