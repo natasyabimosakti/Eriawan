@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 2
 // @namespace    http://tampermonkey.net/
-// @version      1.40
+// @version      1.41
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti2.js
@@ -62,10 +62,11 @@ var Comment15 = '#XX1TOTO (QONCCER88) 65*26*24 BETTING';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*QUEEN710*88*85*30';
- 
+
+var namagroup17 = 'MANGSA';
+var Comment17 = '#MANGSATOTO (QUEEN710) 59*50';
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'ABDI';
-var Comment17 = '#ABDITOGEL(QUEEN710):59*50';
+
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -128,6 +129,7 @@ var keyword9 = "R0M"
 var keyword10 = "🎱"
 var keyword11 = "Room"
 var keyword12 = "Lomba"
+var keyword13 = "🍭"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -235,7 +237,8 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
