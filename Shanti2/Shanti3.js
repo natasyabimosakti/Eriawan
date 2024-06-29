@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 3
 // @namespace    http://tampermonkey.net/
-// @version      1.38
+// @version      1.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti3.js
@@ -62,9 +62,11 @@ var Comment15 = '#XX1TOTO (ROLOKAB111)  73*82*86 BETTING';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ROMAN168*00*98*06'; 
+
+var namagroup17 = 'MANGSA';
+var Comment17 = '#MANGSATOTO (ROMAN168) 71*95';
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'ABDITOGLkj';
-var Comment17 = '#ABDITOGEL(ROMAN168):71*95';
+
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -127,6 +129,7 @@ var keyword9 = "R0M"
 var keyword10 = "🎱"
 var keyword11 = "Room"
 var keyword12 = "Lomba"
+var keyword13 = "🍭"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
