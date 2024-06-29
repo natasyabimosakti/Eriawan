@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PAPA 1
 // @namespace    http://tampermonkey.net/
-// @version      1.10
+// @version      1.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa1.js
@@ -63,9 +63,10 @@ var Comment15 = '#XX1TOTO (ZUMBA78)  72*68*51 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 
-/*======================================================================3D===============================================================*/
 var namagroup17 = 'MANGSA';
 var Comment17 = '#MANGSATOTO (ZOOMM12) 84*51';
+/*======================================================================3D===============================================================*/
+
 
 var namagroup18 = 'TESTBENTO';
 var Comment18 = 'TESTBENTO';
@@ -115,11 +116,12 @@ var Comment32 = 'TESTBENTO';
 
 
 var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo", "alexs","bella","boboho","bastian","bobby","base","bonar","brian","bala","celsia","chika","cinta","calvin","celine","dea","dika","dollar","dewa","dewi","dinda","dinanti", "diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","ghifa","hefi","hana","hanna","intan","icha","inisial","indra","intan","john","jhone","jihan","jesika","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","kumala","kendri","kumbara","kembar","karina","lina","lianda","larissa","leksa","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","mahendra","multi","mariana","minion","melati","mimi","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nadila","nella","novi","oun","oscar","otong","priyan","primus","plat","prediksi","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","sutanti","sinta","tink","tag","tiara","tania","wndt","wiena","jhone","herfizah","vonny","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","wok","hoihai","hefi","jenifer","kotna"];
+
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
 var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
-var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
+var keyword5 = "🍭"
 var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
