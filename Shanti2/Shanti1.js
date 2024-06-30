@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SHANTI 1
 // @namespace    http://tampermonkey.net/
-// @version      1.42
+// @version      1.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Shanti2/Shanti1.js
@@ -433,7 +433,15 @@ var myInterval = setInterval(function(){
                                 console.log("Sudah Comment")
                                 return;
                             }
-
+                                if (ceknamagroup.includes(namagroup17) == true||ceknamagroup1.includes(namagroup17) == true||ceknamagroup2.includes(namagroup17) == true||ceknamagroup3.includes(namagroup17) == true||ceknamagroup4.includes(namagroup17) == true) {
+                                /*cek nama group dan tulis commntar*/
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment17;
+                                clicksend();
+                                clearInterval(myInterval);
+                                clearInterval(myrefresh);
+                                console.log("Sudah Comment")
+                                return;
+                            }
 
 
                             return;
