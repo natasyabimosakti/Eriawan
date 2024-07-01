@@ -57,8 +57,8 @@ var Comment12 = 'YEYEK001 : 38*70*06 #BESTOTO88';
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=YAMYAM44=18*69*32'; 
 
-var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*YOUPUB33*83*87*17'; 
+var namagroup14 = 'WARUNGTOTO';
+var Comment14 = '#(WARUNGTOTO) = (YAHYYA33) 83*87*17';
 
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (YOUARE05)  18*69*87 BETTING'; 
