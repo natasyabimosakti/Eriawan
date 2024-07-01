@@ -57,8 +57,8 @@ var Comment12 = 'XKEYPAS34 : 23*60*29 #BESTOTO88';
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=XMAX999=63*36*30'; 
 
-var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*XMIN111*86*48*96'; 
+var namagroup14 = 'WARUNGTOTO';
+var Comment14 = '#(WARUNGTOTO) = (XMIN111) 86*48*96';
 
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (XYOU555) 63*36*30 BETTING'; 
