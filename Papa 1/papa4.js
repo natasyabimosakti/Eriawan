@@ -56,8 +56,9 @@ var Comment12 = 'WAOW001 : 56*10*16 #BESTOTO88';
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=WULLING234=73*44*92'; 
 
-var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*WAIVE444*77*01*64'; 
+
+var namagroup14 = 'WARUNGTOTO';
+var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 77*01*64';
 
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (WINTER360) 88*28*89 BETTING'; 
