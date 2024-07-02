@@ -66,8 +66,9 @@ var Comment15 = '#XX1TOTO (WINTER360) 88*28*89 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*WIGEN919*56*10*00';
 
-var namagroup17 = 'MANGSA';
-var Comment17 = '#MANGSATOTO (WDANCE456) 00*92';
+var namagroup17 = 'LING';
+var Comment17 = '#LINGTOGEL77*WDANCE456*00*92';
+
 /*======================================================================3D===============================================================*/
 
 
