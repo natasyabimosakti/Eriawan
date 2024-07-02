@@ -66,8 +66,10 @@ var Comment15 = '#XX1TOTO (YOUARE05)  18*69*87 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*YIMBO55*83*32*40';
 
-var namagroup17 = 'MANGSA';
-var Comment17 = '#MANGSATOTO (YICAK63) 40*17';
+var namagroup17 = 'LING';
+var Comment17 = '#LINGTOGEL77*YICAK63*40*17';
+
+
 /*======================================================================3D===============================================================*/
 
 
