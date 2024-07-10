@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PAPA 4
 // @namespace    http://tampermonkey.net/
-// @version      1.18
+// @version      1.19
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/Papa%201/papa4.js
@@ -30,7 +30,7 @@ var namagroup4 = 'SEJ1TU';
 var Comment4 = '#SEJITU ( WORRIE21 ) : 95*62*85'; 
 
 var namagroup5 = 'RNR303';
-var Comment5 = '‌#RNR303(WARZONE34) : 53*91*33"'; 
+var Comment5 = '‌#RNR303(WARZONE34) : 53*91*33'; 
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (WONDER65) = 41*54*09'; 
