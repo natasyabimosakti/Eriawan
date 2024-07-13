@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  try to take over the world!
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/natasyabimosakti/Eriawan/blob/main/insider/eri1/eri2.js
+// @downloadURL   https://github.com/natasyabimosakti/Eriawan/blob/main/insider/eri1/eri2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -14,8 +14,6 @@
 // @grant        window.close
 // ==/UserScript==
 var refresh = 40;
-
-
 
 
 
