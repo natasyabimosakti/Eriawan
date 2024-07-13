@@ -13,7 +13,7 @@
 // @grant        GM.getValue
 // @grant        window.close
 // ==/UserScript==
-var refresh = 40;
+var refresh = 50;
 
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*LAMDAL36*07*82'; 
