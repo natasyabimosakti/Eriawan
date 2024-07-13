@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  try to take over the world!
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/natasyabimosakti/Eriawan/blob/main/insider/eri1/eri4.js
+// @downloadURL   https://github.com/natasyabimosakti/Eriawan/blob/main/insider/eri1/eri4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -13,7 +13,9 @@
 // @grant        GM.getValue
 // @grant        window.close
 // ==/UserScript==
-var refresh = 40"
+var refresh = 40;
+
+
 
 
 var admin = ["Siâo","aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
