@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         Polos
+// @name         SHANTI4
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
+// @updateURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti1/shanti4.js
+// @downloadURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti1/shanti4.js
 // @author       You
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
