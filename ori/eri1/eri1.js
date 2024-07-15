@@ -1,7 +1,7 @@
 
 
 // ==UserScript==
-// @name         Plontos
+// @name         Plontos eri1
 // @namespace    http://tampermonkey.net/
 // @version      3.07
 // @description  try to take over the world!
@@ -62,7 +62,11 @@ var Comment14 = '#DENTOTO 20*18*75 ( PIANG212 )';
 var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (PIQUE020)  63*51*29'; 
 
+var namagroup16 = '';
+var Comment16 = ''; 
 
+var namagroup17 = '';
+var Comment17 = ''; 
 
 
 
