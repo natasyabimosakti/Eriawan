@@ -61,7 +61,11 @@ var Comment14 = '#DENTOTO 58*96*00 ( QERJA99 )';
 var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (QONCCER88)  06*04*01'; 
 
+var namagroup16 = '';
+var Comment16 = ''; 
 
+var namagroup17 = '';
+var Comment17 = ''; 
 
 
 
