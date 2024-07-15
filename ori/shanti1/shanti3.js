@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SHANTI3
+// @name         polos SHANTI3
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
