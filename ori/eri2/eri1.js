@@ -59,7 +59,11 @@ var Comment14 = '#DENTOTO 30*13*87 ( TORNADO13 )';
 var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (TONGKOL65)  83*08*25'; 
 
+var namagroup16 = '';
+var Comment17 = ''; 
 
+var namagroup17 = '';
+var Comment17 = ''; 
 
 var d = new Date();
 var hour = d.getHours();
