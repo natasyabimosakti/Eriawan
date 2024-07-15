@@ -65,8 +65,8 @@ var namagroup16 = '';
 var Comment16 = '';
 
 
-var namagroup17 = 'Jawatengah';
-var Comment17 = 'Hadir';
+var namagroup17 = '';
+var Comment17 = '';
 
 
 
