@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ERI 2
+// @name         ERI 2 new
 // @namespace    http://tampermonkey.net/
 // @version      3.05
 // @description  try to take over the world!
