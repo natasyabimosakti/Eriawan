@@ -13,7 +13,6 @@
 // @grant       window.close
 // ==/UserScript==
 
-//var restart = res();
 
 
 
@@ -71,6 +70,8 @@ var Comment16 = 'CITA4D*HANTUPA909*00*99*85';
 var namagroup17 = 'MANGSA';
 var Comment17 = '#MANGSATOTO (HARIINI009) 37*95';
 
+
+
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
@@ -92,422 +93,458 @@ var id14 = await GM.getValue(14);
 var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
-var id18 = await GM.getValue(18);
 
-(function() {
+
+
+
+
+
+
+
+
+
+
+var refresh = 40;
+
+
+
+var admin = ["Siâo","habib","sofia","neng","arxidi","che","aldi","nino","sofia","sonia","serena","alde","puput","mad","hefi","dika","iyatoto","adm","celsia","jne","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","tiktak","nella","novi","sandiego","nasution","ratu","priyan","san","ria","sanjaya","siska","Baru","aditia","keitogel","safar","mahendra","multi","mariana","neman","tatang","dewi","primus","roy","dewi","melati","kumbara","dentoto","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy"];
+
+
+var keyword1 = "ROOM"
+var keyword2 = "𝗥𝗢𝗢𝗠"
+var keyword3 = "LOMBA"
+var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
+var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
+var keyword6 = "LIMBA"
+var keyword7 = "ROM"
+var keyword8 = "R00M"
+var keyword9 = "R0M"
+var keyword10 = "𝐑𝐎𝐎𝐌"
+
+var Backlist1 = "pemenang lomba";
+var Backlist2 = "rekap";
+var Backlist3 = "hasil";
+var Backlist4 = "room lomba freebet";
+var Backlist5 = "prediksi";
+var Backlist6 = "result";
+var Backlist7 = "result";
+
+var myrefresh = setInterval(function(){
+    var ceknamagroup
+    'use strict';
+    if( document.querySelectorAll("[data-mcomponent='ServerTextArea']")[4]){
+        ceknamagroup = document.querySelectorAll("[data-mcomponent='ServerTextArea']")[4].textContent;
+    }
+    console.log(" ");
+
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
 
 
-    if ( hour > tm + 2 || hour < tm||document.URL.includes("google") == true){
+    if ( hour > tm + 2 || hour < tm||document.URL.includes("google") == true||hour == undefined||hour == null){
         for (var kr = 1; kr < 18; kr++) {
             GM.setValue( kr,0);
         }
         GM.setValue("time", hour);
 
     }
+    var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+    var urutkan2 = document.querySelectorAll("[data-mcomponent='TextArea']");
+    var waktupost = document.getElementsByClassName("native-text");
+    window.scrollTo(0, 2000);
+    if (document.readyState === "complete") {
+        for (var coke = 0; coke < urutkan2.length; coke++) {
+            if (urutkan2[coke].textContent.includes("URUTKAN")) {
 
-    var ia = document.getElementById('m_group_stories_container');
-    if (ia) {
-        var g = ia.getElementsByTagName("article")[0];
-        var postingan = g.getElementsByTagName('span')[2].textContent;
-        var postingan1 = postingan.toLowerCase();
-        if (postingan1) {
+                urutkan2[coke].click()
 
-            return;
+
+            }
         }
+
     }
-    if(document.querySelector("[value='Komentari']")){
+    if (document.readyState === "complete") {
+        for (var cok = 0; cok < urutkan.length; cok++) {
+            if(urutkan[cok].textContent.includes("URUTKAN")) {
+                urutkan[cok].click()
+
+            }
+        }
+
+    }
+
+
+    if (document.readyState === "complete") {
+        for (var coki = 0; coki < waktupost.length; coki++) {
+            if(waktupost[coki].textContent.includes("Aktivitas")) {
+                waktupost[coki].click()
+
+            }
+        }
+
+    }
+}, refresh * 10)
+
+var myInterval = setInterval(function(){
+
+
+
+
+    for (let ntv = 0; ntv < document.querySelectorAll('[data-tracking-duration-id').length; ntv++) {
+        if (document.querySelectorAll('[data-tracking-duration-id')[ntv]){
+            // Nama FB
+            var namafb = document.querySelectorAll('[data-tracking-duration-id]')[ntv].getElementsByClassName('native-text')[0];
+            //Jam
+            var jamposting = document.querySelectorAll('[data-tracking-duration-id]')[ntv].getElementsByClassName('native-text')[1];
+            //Postingan
+            var postingan =document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[3];
+            //Comment Box
+            var datacommentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text').length -1
+            var clickboot = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[0]
+            var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[datacommentbox];
+
+            // Cek Jam
+            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
+            if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
+                console.log("Jam Ditemukan " + ret)
+                if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword2.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword3.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword4.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword5.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword6.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
+                    console.log("Keyword Ditemukan " + postingan.textContent);
+                    // Cek Backlist
+                    if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist2.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist3.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist4.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist5.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist6.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist7.toLowerCase())){
+                        console.log("Terdaftar Backlist...!  ");
+                        return;
+                    }
+                    console.log("Proses dilanjutkan tidak ada Backlist");
+                    // Cek Admin
+                    for (var adm in admin){
+                        if(namafb.textContent.toLowerCase().includes(admin[adm].toLowerCase())||jamposting.textContent.toLowerCase().includes("admin")||jamposting.textContent.toLowerCase().includes("moderator")){
+                            // Tampilkan Siapa Yang Memposting
+                            if(jamposting.textContent.toLowerCase().includes("admin")||jamposting.textContent.toLowerCase().includes("moderator")){
+                                console.log("Admin yang Memosting = Admin/Moderator");
+                            }else{
+                                console.log("Admin yang Memosting = " + admin[adm]);
+                            }
+                            // Click Comment Box
+                            for (let atv = 0; atv < document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']").length; atv++) {
+                                if (document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']")[atv].textContent.includes("󰍹")){
+                                    console.log("ada")
+                                    document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']")[atv].click()
+                                    clearInterval(myInterval);
+                                    clearInterval(myrefresh);
+
+
+
+
+
+
+
+
+                                }
+                            }
+
+
+                            return;
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+
+
+}, 10)
+
+
+var commentanku = setInterval(function(){
+
+    try {
+
+        var ceknamagroup
         'use strict';
-        const myHeaders = new Headers();
-        myHeaders.append("dpr", "1");
-        myHeaders.append("viewport-width", "400");
-        myHeaders.append("sec-ch-ua", "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"");
-        myHeaders.append("sec-ch-ua-mobile", "?1");
-        myHeaders.append("sec-ch-ua-platform", "\"Android\"");
-        myHeaders.append("sec-ch-ua-platform-version", "\"6.0\"");
-        myHeaders.append("sec-ch-ua-model", "\"Nexus 5\"");
-        myHeaders.append("sec-ch-ua-full-version-list", "\"Not/A)Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"126.0.6478.127\", \"Google Chrome\";v=\"126.0.6478.127\"");
-        myHeaders.append("sec-ch-prefers-color-scheme", "dark");
-        myHeaders.append("Upgrade-Insecure-Requests", "1");
-        myHeaders.append("Content-Type", "application/x-www-form-urlencoded");
-        myHeaders.append("User-Agent", "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36");
-        myHeaders.append("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7");
-        myHeaders.append("Sec-Fetch-Site", "same-origin");
-        myHeaders.append("Sec-Fetch-Mode", "navigate");
-        myHeaders.append("Sec-Fetch-User", "?1");
-        myHeaders.append("Sec-Fetch-Dest", "document");
-        myHeaders.append("host", "mbasic.facebook.com");
 
-        const urlencoded = new URLSearchParams();
+        ceknamagroup = [document.querySelectorAll("[data-mcomponent='ServerTextArea']")[3],document.querySelectorAll("[data-mcomponent='ServerTextArea']")[4] ,document.querySelectorAll("[data-mcomponent='ServerTextArea']")[5],document.querySelectorAll("[data-mcomponent='ServerTextArea']")[6] ]
 
-        if(document.title.toLocaleUpperCase().includes(namagroup1.toLocaleUpperCase())){
-            if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
-                GM.setValue( 1,1);
-                urlencoded.append("comment_text", Comment1);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+        for (var namag in ceknamagroup){
+            if(!ceknamagroup[namag].textContent == "" && ceknamagroup[namag] ){
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                if (ceknamagroup[namag].textContent.includes(namagroup1) ) {
 
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 1,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment1;
 
+                        console.log("Sudah Comment")
+                        clicksend();
 
-        if(document.title.toLocaleUpperCase().includes(namagroup2.toLocaleUpperCase())){
-            if (id2 == "" || id2 == undefined || id2 == null ||id2 == "0") {
-                GM.setValue( 2,1);
-                urlencoded.append("comment_text", Comment2);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                    }
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                }
 
+                if (ceknamagroup[namag].textContent.includes(namagroup2) ) {
 
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 2,1);
+                        /*cek nama group dan tulis commntar*/
+                        document.getElementsByClassName("internal-input")[0].value = Comment2;
 
-        if(document.title.toLocaleUpperCase().includes(namagroup3.toLocaleUpperCase())){
-            if (id3 == "" || id3 == undefined || id3 == null ||id3 == "0") {
-                GM.setValue( 3,1);
-                urlencoded.append("comment_text", Comment3);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                }
+                if (ceknamagroup[namag].textContent.includes(namagroup3) ) {
 
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 3,1);
+                        /*cek nama group dan tulis commntar*/
+                        document.getElementsByClassName("internal-input")[0].value = Comment3;
 
-        if(document.title.toLocaleUpperCase().includes(namagroup4.toLocaleUpperCase())){
-            if (id4 == "" || id4 == undefined || id4 == null ||id4 == "0") {
-                GM.setValue( 4,1);
-                urlencoded.append("comment_text", Comment4);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                }
 
+                if (ceknamagroup[namag].textContent.includes(namagroup4) ) {
+                    /*cek nama group dan tulis commntar*/
 
-        if(document.title.toLocaleUpperCase().includes(namagroup5.toLocaleUpperCase())){
-            if (id5 == "" || id5 == undefined || id5 == null ||id5 == "0") {
-                GM.setValue( 5,1);
-                urlencoded.append("comment_text", Comment5);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 4,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment4;
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
+                }
 
-        if(document.title.toLocaleUpperCase().includes(namagroup6.toLocaleUpperCase())){
-            if (id6 == "" || id6 == undefined || id6 == null ||id6 == "0") {
-                GM.setValue( 6,1);
-                urlencoded.append("comment_text", Comment6);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                if (ceknamagroup[namag].textContent.includes(namagroup5) ) {
+                    /*cek nama group dan tulis commntar*/
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 5,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment5;
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                        console.log("Sudah Comment")
+                        clicksend();
+                        return;
+                    }
+                }
 
+                if (ceknamagroup[namag].textContent.includes(namagroup6) ) {
+                    /*cek nama group dan tulis commntar*/
 
-        if(document.title.toLocaleUpperCase().includes(namagroup7.toLocaleUpperCase())){
-            if (id7 == "" || id7 == undefined || id7 == null ||id7 == "0") {
-                GM.setValue( 7,1);
-                urlencoded.append("comment_text", Comment7);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 6,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment6;
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+
+                }
+
+                if (ceknamagroup[namag].textContent.includes(namagroup7) ) {
+                    /*cek nama group dan tulis commntar*/
+
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 7,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment7;
+
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+
+                }
+
+                if (ceknamagroup[namag].textContent.includes(namagroup8) ) {
+                    /*cek nama group dan tulis commntar*/
+
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 8,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment8;
+
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+
+                }
+
+                if (ceknamagroup[namag].textContent.includes(namagroup9) ) {
+                    /*cek nama group dan tulis commntar*/
+
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 9,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment9;
+
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+
+                }
+
+                if (ceknamagroup[namag].textContent.includes(namagroup10) ) {
+                    /*cek nama group dan tulis commntar*/
+
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 10,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment10;
+
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+
+                }
+
+                if (ceknamagroup[namag].textContent.includes(namagroup11) ) {
+                    /*cek nama group dan tulis commntar*/
+
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 11,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment11;
+
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+
+                }
 
 
-        if(document.title.toLocaleUpperCase().includes(namagroup8.toLocaleUpperCase())){
-            if (id8 == "" || id8 == undefined || id8 == null ||id8 == "0") {
-                GM.setValue( 8,1);
-                urlencoded.append("comment_text", Comment8);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                if (ceknamagroup[namag].textContent.includes(namagroup12) ) {
+                    /*cek nama group dan tulis commntar*/
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 12,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment12;
 
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
+                }
 
-        if(document.title.toLocaleUpperCase().includes(namagroup9.toLocaleUpperCase())){
-            if (id9 == "" || id9 == undefined || id9 == null ||id9 == "0") {
-                GM.setValue( 9,1);
-                urlencoded.append("comment_text", Comment9);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                if (ceknamagroup[namag].textContent.includes(namagroup13) ) {
+                    /*cek nama group dan tulis commntar*/
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 13,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment13;
 
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
+                }
 
-        if(document.title.toLocaleUpperCase().includes(namagroup10.toLocaleUpperCase())){
-            if (id10 == "" || id10 == undefined || id10 == null ||id10 == "0") {
-                GM.setValue( 10,1);
-                urlencoded.append("comment_text", Comment10);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                if (ceknamagroup[namag].textContent.includes(namagroup14) ) {
+                    /*cek nama group dan tulis commntar*/
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 14,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment14;
 
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
+                }
 
-        if(document.title.toLocaleUpperCase().includes(namagroup11.toLocaleUpperCase())){
-            if (id11 == "" || id11 == undefined || id11 == null ||id11 == "0") {
-                GM.setValue(11,1);
-                urlencoded.append("comment_text", Comment11);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                if (ceknamagroup[namag].textContent.includes(namagroup15) ) {
+                    /*cek nama group dan tulis commntar*/
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 15,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment15;
 
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
-        if(document.title.toLocaleUpperCase().includes(namagroup12.toLocaleUpperCase())){
-            if (id12 == "" || id12 == undefined || id12 == null ||id12 == "0") {
-                GM.setValue(12,1);
-                urlencoded.append("comment_text", Comment12);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                }
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                if (ceknamagroup[namag].textContent.includes(namagroup16) ) {
+                    /*cek nama group dan tulis commntar*/
 
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 16,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment16;
 
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
 
-        if(document.title.toLocaleUpperCase().includes(namagroup13.toLocaleUpperCase())){
-            if (id13 == "" || id13 == undefined || id13 == null ||id13 == "0") {
-                GM.setValue(13,1);
-                urlencoded.append("comment_text", Comment13);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
+                }
+                if (ceknamagroup[namag].textContent.includes(namagroup17) ) {
+                    /*cek nama group dan tulis commntar*/
 
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 17,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment17;
 
-
-        if(document.title.toLocaleUpperCase().includes(namagroup14.toLocaleUpperCase())){
-            if (id14 == "" || id14 == undefined || id14 == null ||id14 == "0") {
-                GM.setValue(14,1);
-                urlencoded.append("comment_text", Comment14);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
-
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
-
-
-
-        if(document.title.toLocaleUpperCase().includes(namagroup15.toLocaleUpperCase())){
-            if (id15 == "" || id15 == undefined || id15 == null ||id15 == "0") {
-                urlencoded.append("comment_text", Comment15);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
-
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
-
-
-
-        if(document.title.toLocaleUpperCase().includes(namagroup16.toLocaleUpperCase())){
-            if (id16 == "" || id16 == undefined || id16 == null ||id16 == "0") {
-                GM.setValue(16,1);
-                urlencoded.append("comment_text", Comment16);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
-
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
-            }
-        }
-
-
-
-        if(document.title.toLocaleUpperCase().includes(namagroup17.toLocaleUpperCase())){
-            if (id17 == "" || id17 == undefined || id17 == null ||id17 == "0") {
-                GM.setValue(17,1);
-                urlencoded.append("comment_text", Comment17);
-                urlencoded.append("fb_dtsg", document.querySelector("[name='fb_dtsg']").value);
-                urlencoded.append("jazoest", document.querySelector("[name='jazoest']").value);
-                const requestOptions = {
-                    method: "POST",
-                    headers: myHeaders,
-                    body: urlencoded,
-                    redirect: "follow"
-                };
-
-                fetch(document.querySelector("[method='post']").action, requestOptions)
-                    .then((response) => response.text())
-                    .then((result) => console.log(result))
-                    .catch((error) => console.error(error));
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+                }
 
             }
         }
-
-
+    }catch(err) {
+        console.log("erorr " + err)
     }
-    // Your code here...
-})();
+
+},240)
+
+function clicksend() {
+    /*Tampilkan TOMBOL SEND*/
+    /*Tekan TOMBOL SEND*/
+    if( document.getElementsByClassName("internal-input")[0].value.length > 1){
+        document.querySelectorAll("[aria-label='Posting komentar']")[0].click()
+        console.log("Comment Terkirim");
+         clearInterval(commentanku);
+
+        closer()
+    }
+    /*Tekan TOMBOL SEND*/
+
+}
+
+
+function closer() {
+    setTimeout(function(){location.href = "about:blank"},5)
+
+
+}
