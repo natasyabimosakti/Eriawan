@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.05
 // @description  try to take over the world!
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti2/shanti1.js
+// @downloadURL  https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti2/shanti1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
