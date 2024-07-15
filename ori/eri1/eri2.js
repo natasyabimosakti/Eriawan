@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS ERI2
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.1
 // @description  try to take over the world!
 // @updateURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/eri1/eri2.js
 // @downloadURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/eri1/eri2.js
@@ -64,8 +64,10 @@ var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (LIAMBA32)  79*50*09'; 
 
 var namagroup16 = '';
-var Comment16 = '';
+var Comment16 = ''; 
 
+var namagroup17 = '';
+var Comment17 = ''; 
 
 
 var d = new Date();
