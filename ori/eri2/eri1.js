@@ -60,7 +60,7 @@ var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (TONGKOL65)  83*08*25'; 
 
 var namagroup16 = '';
-var Comment17 = ''; 
+var Comment16 = ''; 
 
 var namagroup17 = '';
 var Comment17 = ''; 
