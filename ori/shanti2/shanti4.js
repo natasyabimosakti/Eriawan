@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Plontos shanti24
 // @namespace    http://tampermonkey.net/
-// @version      3.03
+// @version      3.00
 // @description  try to take over the world!
-// @updateURL    https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti2/shanti4.js
-// @downloadURL  https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti2/shanti4.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -63,8 +63,8 @@ var Comment15 = '#XX1TOTO (SHINY111) 41*67*14 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*SOURSALLY77*11*38*39';
 
-var namagroup17 = 'MANGSA';
-var Comment17 = '#MANGSATOTO (SUNNY678) 36*32';
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO SUNNY678 : 36*32 )';
 
 
 var d = new Date();
