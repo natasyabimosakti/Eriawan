@@ -66,9 +66,8 @@ var Comment15 = '#XX1TOTO (ICANSEE21)  63*53*31 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*IHSARU724*63*53*57';
 
-var namagroup17 = 'MANGSA';
-var Comment17 = '#MANGSATOTO (IONIQ45) 31*57';
-
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO IONIQ45 : 31*57 )';
 
 
 var d = new Date();
