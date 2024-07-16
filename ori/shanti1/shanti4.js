@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
+// @updateURL     https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @author       You
 // @match        http*://*/*
@@ -67,8 +67,9 @@ var Comment15 = '#XX1TOTO (HOPENG596) 50*38*94 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*HANTUPA909*00*99*85';
 
-var namagroup17 = 'MANGSA';
-var Comment17 = '#MANGSATOTO (HARIINI009) 37*95';
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO HARIINI009 : 37*95 )';
+
 
 
 
