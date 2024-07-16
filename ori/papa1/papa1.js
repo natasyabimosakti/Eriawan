@@ -1,18 +1,19 @@
 // ==UserScript==
-// @name         Plontos papa1
+// @name         POLOS Papa1
 // @namespace    http://tampermonkey.net/
-// @version      3.06
+// @version      0.3
 // @description  try to take over the world!
-// @updateURL   https://github.com/natasyabimosakti/Eriawan/blob/main/ori/papa1/papa1.js
-// @downloadURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/papa1/papa1.js
+// @updateURL  https://github.com/natasyabimosakti/Eriawan/blob/main/ori/papa1/papa1.js
+// @downloadURL  https://github.com/natasyabimosakti/Eriawan/blob/main/ori/papa1/papa1.js
 // @author       You
 // @match        http*://*/*
-// @run-at       document-end
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant        GM.setValue
-// @grant        GM.getValue
-// @grant        window.close
+// @grant       GM.setValue
+// @grant       GM.getValue
+// @grant       window.close
 // ==/UserScript==
+
+
 
 var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(ZEPPIN32)11*61*27'; 
@@ -64,6 +65,9 @@ var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 
 var namagroup17 = 'TANDUKTOTO';
 var Comment17 = '( #TANDUKTOTO ZOOMM12 : 84*51 )';
+
+
+
 
 var d = new Date();
 var hour = d.getHours();
