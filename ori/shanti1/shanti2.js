@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         POLOS SHANTI2
+// @name         POLOS SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.1
 // @description  try to take over the world!
-// @updateURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti1/shanti2.js
-// @downloadURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/shanti1/shanti2.js
+// @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
+// @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @author       You
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
@@ -12,8 +12,6 @@
 // @grant       GM.getValue
 // @grant       window.close
 // ==/UserScript==
-
-
 
 
 
@@ -107,7 +105,7 @@ var refresh = 40;
 
 
 
-var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs","bella","boboho","bastian","bobby","base","bonar","bungaps","brian","bala","celsia","chika","cinta","calvin","celine","conny","dea","dika","dollar","dewa","dewi","dinda","dinanti","denis","diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","garda","ghifa","hefi","habib","hana","hartono","hanna","hoihai","intanbarbar","icha","inisial","indra","intan","jengat","john","jhone","jihan","je pe","jengat","jesika","jenifer","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","katharina","kumala","key","kendri","kumbara","kembar","kautsar","karina","kapten","lina","lianda","larissa","leksa","larashati","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","manu","mahendra","multi","mariana","minions","melati","mimi","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nayra","nayla","nadila","nella","novi","nasution","oun","oscar","otong","priyan","primus","plat","prediksi","petir","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","selly","sintia","sanchez","san","syaqeena","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","sutanti","sinta","tink","tag","tiara","tania","thonex","wndt","wiena","wijaya","jhone","herfizah","vonny","wahid","ujen","wahzo","wak","fahresa","virna","viona","puput","yoky","yohana","yasmine","zurro","wok","zurrotul","kotna"];
+var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs","bella","boboho","bastian","bobby","base","bonar","bungaps","brian","bala","celsia","chika","cinta","calvin","celine","conny","dea","dika","dollar","dewa","dewi","dinda","dinanti","denis","diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","garda","ghifa","hefi","habib","hana","hartono","hanna","hoihai","intanbarbar","icha","inisial","indra","intan","jengat","john","jhone","jihan","je pe","jengat","jesika","jenifer","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","katharina","kumala","key","kendri","kumbara","kembar","kautsar","karina","kapten","lina","lianda","larissa","leksa","larashati","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","manu","mahendra","multi","mariana","minions","melati","mimi","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nayra","nayla","nadila","nella","novi","nasution","oun","oscar","otong","priyan","primus","plat","prediksi","petir","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","syaqeena","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","selly","sandiego","sabrina","salsabila","sutanti","sinta","tink","tag","tiara","tania","thonex","wndt","wiena","wijaya","jhone","herfizah","vonny","wahid","ujen","wahzo","wak","fahresa","virna","viona","puput","yoky","yohana","yasmine","zurro","wok","zurrotul","kotna"];
 
 
 var keyword1 = "ROOM"
