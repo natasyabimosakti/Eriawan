@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS Papa2
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -64,9 +64,8 @@ var Comment15 = '#XX1TOTO (YOUARE05)  18*69*87 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*YIMBO55*83*32*40';
 
-var namagroup17 = 'LING';
-var Comment17 = '#LINGTOGEL77*YICAK63*40*17';
-
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO YICAK63 : 40*17 )';
 
 
 
