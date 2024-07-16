@@ -63,10 +63,8 @@ var Comment15 = '#XX1TOTO (JONGKOK222)  48*07*27 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*JASAD555*74*13*15';
 
-var namagroup17 = 'MANGSA';
-var Comment17 = 'MANGSATOTO (JAJAN092) 62*52';
-
-
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO JAJAN092 : 62*52 )';
 
 
 var d = new Date();
