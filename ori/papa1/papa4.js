@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         POLOS Papa1
+// @name         POLOS Papa4
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @updateURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @author       You
 // @match        http*://*/*
@@ -12,7 +12,6 @@
 // @grant       GM.getValue
 // @grant       window.close
 // ==/UserScript==
-
 
 
 var namagroup1 = 'RITOGEL';
@@ -70,7 +69,6 @@ var Comment17 = '( #TANDUKTOTO WDANCE456 : 00*92 )';
 
 
 
-
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
@@ -92,13 +90,6 @@ var id14 = await GM.getValue(14);
 var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
-
-
-
-
-
-
-
 
 
 
