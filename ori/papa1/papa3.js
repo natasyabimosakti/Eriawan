@@ -1,18 +1,19 @@
 // ==UserScript==
-// @name         Plontos papa3
+// @name         POLOS Papa1
 // @namespace    http://tampermonkey.net/
-// @version      3.06
+// @version      0.1
 // @description  try to take over the world!
-// @updateURL   https://github.com/natasyabimosakti/Eriawan/blob/main/ori/papa1/papa3.js
-// @downloadURL https://github.com/natasyabimosakti/Eriawan/blob/main/ori/papa1/papa3.js
+// @updateURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa3.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa3.js
 // @author       You
 // @match        http*://*/*
-// @run-at       document-end
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant        GM.setValue
-// @grant        GM.getValue
-// @grant        window.close
+// @grant       GM.setValue
+// @grant       GM.getValue
+// @grant       window.close
 // ==/UserScript==
+
+
 
 var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(XRAY0909)57*24*90'; 
@@ -63,8 +64,11 @@ var Comment15 = '#XX1TOTO (XYOU555) 63*36*30 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*XENIA950*86*48*96';
 
-var namagroup17 = 'LING';
-var Comment17 = '#LINGTOGEL77*XUXIXI72*55*96';
+
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO XUXIXI72 : 55*96 )';
+
+
 
 
 var d = new Date();
@@ -103,7 +107,7 @@ var refresh = 40;
 
 
 
-var admin = ["angeline","as","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo","adita","alexs","bella","boboho","bastian","bobby","base","bonar","bungaps", "brian","bala","celsia","chika","cinta","calvin","celine","conny","catherine","dea","dika","dollar","dewa","dewi","dinda","dinanti","denis","diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","garda","ghifa","hefi","hana","haji","habib","hartono","hanna","intan","icha","inisial","indra","intan","jengat","john","je pe","jhone","jihan","jengat","jesika","jovanka","jess","kiky","kayla","katharina","kemonmusuh","kayla","kakakemon","katty","kumala","kendri","kumbara","kautsar","kembar","karina","lina","lianda","larissa","leksa","larashati","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","manu","mahendra","multi","mariana","minions","melati","mimi","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nayra","nayla","nadila","nella","novi","nasution","oun","oscar","otong","priyan","primus","plat","prediksi","petir","rahmawati","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","selly","shela","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","syaqeena","sutanti","sinta","tink","tag","tiara","tania","thonex","wndt","wiena","jhone","herfizah","vonny","vita","virna","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","zurrotul", "wok","wijaya","hoihai","hefi","jenifer","kotna"];
+var admin = ["angeline","as","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo","adita","alexs","bella","boboho","bastian","bobby","base","bonar","bungaps", "brian","bala","celsia","chika","cinta","calvin","celine","conny","catherine","dea","dika","dollar","dewa","dewi","dinda","dinanti","denis","diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","garda","ghifa","hefi","hana","haji","habib","hartono","hanna","intan","icha","inisial","indra","intan","jengat","john","je pe","jhone","jihan","jengat","jesika","jovanka","jess","kiky","kayla","katharina","kemonmusuh","kayla","kakakemon","katty","kumala","kendri","kumbara","kautsar","kembar","karina","lina","lianda","larissa","leksa","larashati","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","manu","mahendra","multi","mariana","minions","melati","mimi","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","nayra","nayla","nadila","nella","novi","nasution","oun","oscar","otong","priyan","primus","plat","prediksi","petir","rahmawati","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","selly","slooter","supriati","suhaidatul","slooter","sabrina","sloter","sandiego","sabrina","salsabila","syaqeena","sutanti","sinta","tink","tag","tiara","tania","thonex","wndt","wiena","jhone","herfizah","vonny","vita","virna","wahid","ujen","wahzo","fahresa","viona","puput","yoky","yohana","yasmine","zurro","zurrotul", "wok","wijaya","hoihai","hefi","jenifer","kotna"];
 
 
 var keyword1 = "ROOM"
