@@ -64,9 +64,8 @@ var Comment15 = '#XX1TOTO (TONGKOL65) 21*84*64 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*TIGERS387*55*19*20'; 
 
-var namagroup17 = 'MANGSA';
-var Comment17 = '#MANGSATOTO (TASMANIA2) 66*08';
-
+var namagroup17 = 'TANDUKTOTO';
+var Comment17 = '( #TANDUKTOTO TASMANIA2 : 66*08 )';
 
 
 var d = new Date();
@@ -90,14 +89,6 @@ var id14 = await GM.getValue(14);
 var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
-
-
-
-
-
-
-
-
 
 
 
