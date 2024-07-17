@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS Papa2
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      3.07
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
