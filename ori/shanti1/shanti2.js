@@ -15,8 +15,8 @@
 
 
 
-var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(JERUJI111)74*13*14';
+var namagroup1 = 'YAOTOGEL';
+var Comment1 = '#YAOTOGEL JERUJI111 74*13*14';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( JUKIRR777 ) : 48*07*27'; 
