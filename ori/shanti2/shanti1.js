@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Plontos shanti21
 // @namespace    http://tampermonkey.net/
-// @version      3.02
+// @version      3.06
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
