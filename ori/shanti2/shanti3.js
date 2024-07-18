@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Plontos shanti23
 // @namespace    http://tampermonkey.net/
-// @version      3.02
+// @version      3.03
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
@@ -64,7 +64,7 @@ var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ROMAN168*00*98*06'; 
 
 var namagroup17 = 'TANDUKTOTO';
-var Comment17 = '( #TANDUKTOTO TROMAN168 : 71*95 )';
+var Comment17 = '( #TANDUKTOTO ROMAN168 : 71*95 )';
 
 
 var d = new Date();
