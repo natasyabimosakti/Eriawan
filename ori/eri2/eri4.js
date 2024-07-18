@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Polos
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.30
 // @description  try to take over the world!
 // @updateURL   https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -99,7 +99,7 @@ var id17 = await GM.getValue(17);
 
 
 
-var refresh = 40;
+var refresh = 50;
 
 
 
@@ -123,7 +123,7 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
-var Backlist7 = "result";
+var Backlist7 = "JUARA";
 
 var myrefresh = setInterval(function(){
     var ceknamagroup
