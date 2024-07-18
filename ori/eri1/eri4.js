@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS ERI4
 // @namespace    http://tampermonkey.net/
-// @version      0.21
+// @version      0.22
 // @description  try to take over the world!
 // @updateURL     https://github.com/natasyabimosakti/Eriawan/blob/main/ori/eri1/eri4.js
 // @downloadURL     https://github.com/natasyabimosakti/Eriawan/blob/main/ori/eri1/eri4.js
@@ -89,7 +89,7 @@ var id17 = await GM.getValue(17);
 
 var refresh = 50;
 
-var admin = ["alde","audi","arxidi","adm","ayesha","aditia","ananda","baru","Baru","bobby","bastian","camb","celsia","cinta","che","dika","dewi","dewa","dentoto","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","novita","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","winata","yoky","yohana"];
+var admin = ["alde","audi","arxidi","adm","ayesha","aditia","ananda","baru","Baru","bobby","bastian","camb","celsia","cinta","che","dika","dewi","dewa","dentoto","devi","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","novita","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","winata","yoky","yohana"];
 
 
 var keyword1 = "ROOM"
