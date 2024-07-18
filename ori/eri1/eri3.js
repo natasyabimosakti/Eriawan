@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS ERI3
 // @namespace    http://tampermonkey.net/
-// @version      0.20
+// @version      0.21
 // @description  try to take over the world!
 // @updateURL     https://github.com/natasyabimosakti/Eriawan/blob/main/ori/eri1/eri3.js
 // @downloadURL     https://github.com/natasyabimosakti/Eriawan/blob/main/ori/eri1/eri3.js
@@ -110,7 +110,7 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
-var Backlist7 = "result";
+var Backlist7 = "JUARA";
 
 var myrefresh = setInterval(function(){
     var ceknamagroup
