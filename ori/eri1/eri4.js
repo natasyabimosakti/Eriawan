@@ -59,10 +59,10 @@ var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
 var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (NARITA74)  40*48*58'; 
 
-var namagroup16 = 'BELUM';
+var namagroup16 = '';
 var Comment16 = '';
 
-var namagroup17 = 'JAWAK';
+var namagroup17 = '';
 var Comment17 = '';
 
 var d = new Date();
