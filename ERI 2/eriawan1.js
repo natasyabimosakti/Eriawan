@@ -70,7 +70,7 @@ var Comment16 = 'KOSONG MALAM';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 
-var admin = ["alde","audi","arxidi","adm","ayesha","aditia","ananda","baru","Baru","bobby","bastian","camb","celsia","cinta","che","dika","dewi","dewa","dentoto","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jaguarr","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","novita","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","winata","yoky","yohana"];
+var admin = ["alde","audi","arxidi","adm","ayesha","aditia","angelina","ananda","baru","Baru","bobby","bastian","che","camb","celsia","cinta","che","chandra","dika","dewi","dewa","dentoto","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jaguarr","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","novi ta","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sari","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","winata","yoky","yohana"];
 
 
 var keyword1 = "ROOM"
