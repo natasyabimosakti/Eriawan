@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ERI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.06
+// @version      3.07
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ERI%201/Eriawan4.js
@@ -64,65 +64,18 @@ var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
 var namagroup15 = 'HATRICK';
 var Comment15 = 'VESPATOGEL (NARITA74)  40*48*58'; 
 
-var namagroup16 = '';
-var Comment16 = '';
+var namagroup16 = 'MALAAM';
+var Comment16 = 'KOSONG';
 
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'TESTBENTO';
-var Comment17 = 'TESTBENTO';
-
-var namagroup18 = 'TESTBENTO';
-var Comment18 = 'TESTBENTO';
-
-var namagroup19 = 'TESTBENTO';
-var Comment19 = 'TESTBENTO';
-
-var namagroup20 = 'TESTBENTO';
-var Comment20 = 'TESTBENTO';
-
-var namagroup21 = 'TESTBENTO';
-var Comment21 = 'TESTBENTO';
-
-var namagroup22 = 'TESTBENTO';
-var Comment22 = 'TESTBENTO';
-
-var namagroup23 = 'TESTBENTO';
-var Comment23 = 'TESTBENTO';
-
-var namagroup24 = 'TESTBENTO';
-var Comment24 = 'TESTBENTO';
-
-var namagroup25 = 'TESTBENTO';
-var Comment25 = 'TESTBENTO';
-
-var namagroup26 = 'TESTBENTO';
-var Comment26 = 'TESTBENTO';
-
-var namagroup27 = 'TESTBENTO';
-var Comment27 = 'TESTBENTO';
-
-var namagroup28 = 'TESTBENTO';
-var Comment28 = 'TESTBENTO';
-
-var namagroup29 = 'TESTBENTO';
-var Comment29 = 'TESTBENTO';
-
-var namagroup30 = 'TESTBENTO';
-var Comment30 = 'TESTBENTO';
-
-var namagroup31 = 'TESTBENTO';
-var Comment31 = 'TESTBENTO';
-
-var namagroup32 = 'TESTBENTO';
-var Comment32 = 'TESTBENTO';
 
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
 
-var admin = ["alde","audi","arxidi","adm","ayesha","aditia","ananda","baru","Baru","bobby","bastian","camb","celsia","cinta","che","dika","dewi","dewa","dentoto","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","novita","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","winata","yoky","yohana"];
+var admin = ["alde","audi","arxidi","adm","ayesha","aditia","ananda","baru","Baru","bobby","bastian","camb","celsia","cinta","che","dika","dewi","dewa","dentoto","flanella","flan","grey","hefi","hoihai","iyatoto","icha","ikan","jaguarr","jne","kembar","kembara","kotna","keitogel","kumbara","lianda","laura","lina","mad","mahendra","multi","muhammad","mariana","melati","neman","nella","novi","novita","nasution","oscar","puput","priyan","primus","ria","rio","ratu","roy","rendy","sonia","serena","Siâo Ciâ","sinta","salsabila","sandiego","san","sanchez","sanjaya","siska","serena","sofia","safar","tatang","tink","tiktak","vin","wok","whane","winata","yoky","yohana"];
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
