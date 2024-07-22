@@ -41,7 +41,7 @@ var Comment7 = 'ASEPTOGEL SUNSET245 21*88*69';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=SOMERSET34=07*65*50'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=SENADA17=07*65*50'; 
 
 var namagroup10 = 'JNE';
