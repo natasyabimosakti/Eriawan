@@ -43,7 +43,7 @@ var Comment7 = 'ASEPTOGEL NAMIRA10 11*78*56';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=NAMBIA30=23*59*12'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
 
 var namagroup10 = 'JNE';
