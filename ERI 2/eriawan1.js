@@ -41,7 +41,7 @@ var Comment7 = 'ASEPTOGEL TALKLESS100 14*76*70';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=TASTY89=52*38*32'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=TIKTOK2024=52*38*32'; 
 
 var namagroup10 = 'JNE';
