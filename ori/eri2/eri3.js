@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Polos
 // @namespace    http://tampermonkey.net/
-// @version      0.31
+// @version      0.32
 // @description  try to take over the world!
 // @updateURL   https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL RAKBAR355 54*09*26';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=RUZAK676=66*95*29'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=ROTTAN131=66*95*29'; 
 
 var namagroup10 = 'JNE';
