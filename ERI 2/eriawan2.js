@@ -44,7 +44,7 @@ var Comment7 = 'ASEPTOGEL QRISS08 84*97*51';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=QWERTYY28=67*49*28'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=QOPILU09=67*49*28'; 
 
 var namagroup10 = 'JNE';
