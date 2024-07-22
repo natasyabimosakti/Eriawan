@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Plontos eri1
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -39,7 +39,7 @@ var Comment7 = 'ASEPTOGEL PAKAI333 61*77*55';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=PUANCEN444=99*60*92'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=PUSING777=99*60*92'; 
 
 var namagroup10 = 'JNE';
