@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.30
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
