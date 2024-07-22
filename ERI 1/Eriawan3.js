@@ -42,7 +42,7 @@ var Comment7 = 'ASEPTOGEL MARIA72 39*13*64';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=MASIBAN30=85*98*30'; 
 
-var namagroup9 = 'GILA';
+var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=MANDRA39=85*98*30'; 
 
 var namagroup10 = 'JNE';
