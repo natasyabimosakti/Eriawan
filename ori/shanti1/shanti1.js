@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         POLOS SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      0.31
+// @version      0.32
 // @description  try to take over the world!
 // @updateURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -16,7 +16,7 @@
 
 
 var namagroup1 = 'YAOTOGEL';
-var Comment1 = '#YAOTOGEL PETRUK99 62*71*32';
+var Comment1 = '#YAOTOGEL PETRUK99 62*71*52';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( PAKBULL576 ) : 72*75*61'; 
