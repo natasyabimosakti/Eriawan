@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name         Polos
+// @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      0.32
+// @version      2.00
 // @description  try to take over the world!
-// @updateURL   https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
-// @downloadURL https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @author       You
 // @match        http*://*/*
+// @run-at       document-end
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant       GM.setValue
-// @grant       GM.getValue
-// @grant       window.close
+// @grant        GM.setValue
+// @grant        GM.getValue
+// @grant        window.close
 // ==/UserScript==
-
 
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*SOSWEET87*93*55'; 
@@ -32,7 +32,7 @@ var Comment5 = '#keitogel = (SANRIO123) = 57*72*80';
 var namagroup6 = 'KIOST0T0';
 var Comment6 = 'KIOSTOTO=SEALION99=21*88*69'; 
 
-var namagroup7 = '453P';
+var namagroup7 = '453P VIP';
 var Comment7 = 'ASEPTOGEL SUNSET245 21*88*69'; 
 
 var namagroup8 = 'ANGKER';
@@ -62,14 +62,15 @@ var Comment15 = 'VESPATOGEL (SHINY111)  41*94*43';
 var namagroup16 = 'MALAM';
 var Comment16 = 'H';
 
-var namagroup17 = 'Jawatengah';
-var Comment17 = 'Hadir';
+var namagroup17 = 'BENTAR';
+var Comment17 = 'X'; 
 
 
 
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
+
 
 var id1 = await GM.getValue(1);
 var id2 = await GM.getValue(2);
@@ -90,12 +91,10 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 
 
-
-var refresh = 60;
-
-
+var refresh = 70;
 
 var admin = ["angeline","ayesha","andy","aurel","anya","artha","ajosultan87","aldi","adelia","abditogel","aditia","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs","bella","boboho","bastian","bobby","base","bonar","brian","bala","celsia","chika","chandra","cinta","calvin","celine","conny","dea","dika","dollar","dewa","dewi","dinda","dinanti","denis","diana","dave","desi","dina","echa","erika","elly","erwin","febrian","fiana","farah","farid","gretha","garda","ghifa","hefi","habib","hana","hartono","hanna","intanbarbar","icha","inisial","indra","intan","jengat","john","jhone","jihan","jengat","je pe","jesika","jovanka","jess","kiky","kayla","kemonmusuh","kayla","kakakemon","katty","kumala","key","kendri","kumbara","kembar","karina","kautsar","kapten","lina","lianda","larissa","leksa","larashati","lehman","lidya","lusiana","leon","laura","maes","maha","mad","manu","miranda","mesa","manu","mahendra","multi","mariana","minions","melati","mimi","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","neng","neman","naira","nayra","nayla","nadila","nella","nasution","novi","oun","oscar","otong","priyan","primus","plat","prediksi","petir","rizal","resti","rano","rm","ratu","riko","ruto","richatun","ria","roy","rendy","robby","sintia","sanchez","san","sejitu","sanjaya","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","slooter","sabrina","syaqeena","sloter","sandiego","sabrina","salsabila","sutanti","sinta","tink","tag","tiara","tania","thonex","wndt","wiena","jhone","herfizah","vonny","wahid","ujen","wahzo","wak","wijaya","fahresa","viona","virna","puput","yoky","yohana","yasmine","zurro","wok","hoihai","hefi","jenifer","kotna"];
+
 
 
 var keyword1 = "ROOM"
@@ -114,8 +113,8 @@ var Backlist2 = "rekap";
 var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
-var Backlist6 = "result";
-var Backlist7 = "JUARA";
+var Backlist6 = "juara lomba";
+var Backlist7 = "result";
 
 var myrefresh = setInterval(function(){
     var ceknamagroup
@@ -123,19 +122,14 @@ var myrefresh = setInterval(function(){
     if( document.querySelectorAll("[data-mcomponent='ServerTextArea']")[4]){
         ceknamagroup = document.querySelectorAll("[data-mcomponent='ServerTextArea']")[4].textContent;
     }
-    console.log(" ");
-
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
-
-
     if ( hour > tm + 2 || hour < tm||document.URL.includes("google") == true||hour == undefined||hour == null){
         for (var kr = 1; kr < 18; kr++) {
             GM.setValue( kr,0);
         }
         GM.setValue("time", hour);
-
     }
     var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
     var urutkan2 = document.querySelectorAll("[data-mcomponent='TextArea']");
@@ -144,25 +138,17 @@ var myrefresh = setInterval(function(){
     if (document.readyState === "complete") {
         for (var coke = 0; coke < urutkan2.length; coke++) {
             if (urutkan2[coke].textContent.includes("URUTKAN")) {
-
                 urutkan2[coke].click()
-
-
             }
         }
-
     }
     if (document.readyState === "complete") {
         for (var cok = 0; cok < urutkan.length; cok++) {
             if(urutkan[cok].textContent.includes("URUTKAN")) {
                 urutkan[cok].click()
-
             }
         }
-
     }
-
-
     if (document.readyState === "complete") {
         for (var coki = 0; coki < waktupost.length; coki++) {
             if(waktupost[coki].textContent.includes("Aktivitas")) {
@@ -170,15 +156,10 @@ var myrefresh = setInterval(function(){
 
             }
         }
-
     }
 }, refresh * 10)
 
 var myInterval = setInterval(function(){
-
-
-
-
     for (let ntv = 0; ntv < document.querySelectorAll('[data-tracking-duration-id').length; ntv++) {
         if (document.querySelectorAll('[data-tracking-duration-id')[ntv]){
             // Nama FB
@@ -191,7 +172,6 @@ var myInterval = setInterval(function(){
             var datacommentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text').length -1
             var clickboot = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[0]
             var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[datacommentbox];
-
             // Cek Jam
             var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
             if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
@@ -208,6 +188,7 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
+
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(Backlist2.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(Backlist3.toLowerCase())
@@ -229,284 +210,219 @@ var myInterval = setInterval(function(){
                                 console.log("Admin yang Memosting = " + admin[adm]);
                             }
                             // Click Comment Box
-                            for (let atv = 0; atv < document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']").length; atv++) {
-                                if (document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']")[atv].textContent.includes("󰍹")){
-                                    console.log("ada")
-                                    document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']")[atv].click()
-                                    clearInterval(myInterval);
-                                    clearInterval(myrefresh);
-
-
-
-
-
-
-
-
-                                }
+                            //  for (let atv = 0; atv < document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']").length; atv++) {
+                            //   if (document.querySelectorAll('[data-tracking-duration-id]')[ntv].querySelectorAll("[role='button']")[atv].textContent.includes("󰍹")){
+                            if(document.querySelectorAll("[data-tracking-duration-id]")[ntv].children[0].children[0]){
+                                console.log("ada")
+                                document.querySelectorAll("[data-tracking-duration-id]")[ntv].children[0].children[0].click()
+                                clearInterval(myInterval);
+                                clearInterval(myrefresh);
+                                return
                             }
-
-
+                            //  }
+                            // }
                             return;
                         }
                     }
                 }
             }
         }
-
     }
-
-
 }, 10)
 
 
+
 var commentanku = setInterval(function(){
-
     try {
-
         var ceknamagroup
         'use strict';
-
         ceknamagroup = [document.querySelectorAll("[data-mcomponent='ServerTextArea']")[3],document.querySelectorAll("[data-mcomponent='ServerTextArea']")[4] ,document.querySelectorAll("[data-mcomponent='ServerTextArea']")[5],document.querySelectorAll("[data-mcomponent='ServerTextArea']")[6] ]
-
         for (var namag in ceknamagroup){
             if(!ceknamagroup[namag].textContent == "" && ceknamagroup[namag] ){
-
                 if (ceknamagroup[namag].textContent.includes(namagroup1) ) {
-
                     if( document.getElementsByClassName("internal-input")[0] ){
+
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 1,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment1;
-
                         console.log("Sudah Comment")
                         clicksend();
-
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup2) ) {
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 2,1);
                         /*cek nama group dan tulis commntar*/
                         document.getElementsByClassName("internal-input")[0].value = Comment2;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
                 if (ceknamagroup[namag].textContent.includes(namagroup3) ) {
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 3,1);
                         /*cek nama group dan tulis commntar*/
                         document.getElementsByClassName("internal-input")[0].value = Comment3;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup4) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 4,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment4;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup5) ) {
                     /*cek nama group dan tulis commntar*/
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 5,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment5;
-
                         console.log("Sudah Comment")
                         clicksend();
                         return;
                     }
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup6) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 6,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment6;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup7) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 7,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment7;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup8) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 8,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment8;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup9) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 9,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment9;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
+
+
 
                 if (ceknamagroup[namag].textContent.includes(namagroup10) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 10,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment10;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup11) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 11,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment11;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
-
                 if (ceknamagroup[namag].textContent.includes(namagroup12) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 12,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment12;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup13) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 13,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment13;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup14) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 14,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment14;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup15) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 15,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment15;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
-
                 if (ceknamagroup[namag].textContent.includes(namagroup16) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 16,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment16;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
-
                 }
                 if (ceknamagroup[namag].textContent.includes(namagroup17) ) {
                     /*cek nama group dan tulis commntar*/
-
                     if( document.getElementsByClassName("internal-input")[0] ){
                         /*cek nama group dan tulis commntar*/
                         GM.setValue( 17,1);
                         document.getElementsByClassName("internal-input")[0].value = Comment17;
-
                         console.log("Sudah Comment")
                         clicksend();
                     }
                 }
-
+                if (ceknamagroup[namag].textContent.includes(namagroup18) ) {
+                    /*cek nama group dan tulis commntar*/
+                    if( document.getElementsByClassName("internal-input")[0] ){
+                        /*cek nama group dan tulis commntar*/
+                        GM.setValue( 18,1);
+                        document.getElementsByClassName("internal-input")[0].value = Comment18;
+                        console.log("Sudah Comment")
+                        clicksend();
+                    }
+                }
             }
         }
     }catch(err) {
@@ -515,23 +431,24 @@ var commentanku = setInterval(function(){
 
 },240)
 
+
+
 function clicksend() {
     /*Tampilkan TOMBOL SEND*/
     /*Tekan TOMBOL SEND*/
     if( document.getElementsByClassName("internal-input")[0].value.length > 1){
         document.querySelectorAll("[aria-label='Posting komentar']")[0].click()
         console.log("Comment Terkirim");
-         clearInterval(commentanku);
-
+        clearInterval(commentanku);
         closer()
     }
     /*Tekan TOMBOL SEND*/
-
 }
+
+
+
 
 
 function closer() {
     setTimeout(function(){location.href = "about:blank"},5)
-
-
 }
