@@ -25,7 +25,7 @@ var Comment2 = 'K86TOTO ( HUJAN749 ) : 50*38*94';
 var namagroup3 = 'RNR303';
 var Comment3 = '‌#RNR303(HIYAS680) : 93*70*95'; 
 
-var namagroup4 = 'SEJ1TU';
+var namagroup4 = 'TEMPO';
 var Comment4 = 'HIYAS680 : 88*20*68 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
