@@ -63,7 +63,7 @@ var Comment15 = '#XX1TOTO (PIQUE020)  72*75*61 BETTING';
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*PONTA670*32*71*52';
 
-var namagroup17 = 'TANDUKTOTO';
+var namagroup17 = 'CIVIC';
 var Comment17 = '#CIVICTOTO (PINTU69) = 62*52';
 
 
