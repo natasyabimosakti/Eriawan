@@ -63,10 +63,8 @@ var Comment15 = '#XX1TOTO (WINTER360) 88*28*89 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*WIGEN919*56*10*00';
 
-
-var namagroup17 = 'TANDUKTOTO';
-var Comment17 = '( #TANDUKTOTO WDANCE456 : 00*92 )';
-
+var namagroup17 = 'CIVIC';
+var Comment17 = '#CIVICTOTO (WDANCE456) = 00*92';
 
 var d = new Date();
 var hour = d.getHours();
