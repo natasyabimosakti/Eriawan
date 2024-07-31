@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.03
+// @version      1.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -14,9 +14,8 @@
 // @grant        window.close
 // ==/UserScript==
 
-
-var namagroup1 = 'YAOTOGEL';
-var Comment1 = '#YAOTOGEL ILOVE96 17*40*16'; 
+var namagroup1 = 'WELLZ';
+var Comment1 = 'SIJITOGEL ILOVE96 17*40*16';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( INJURI45 ) : 17*40*16'; 
