@@ -63,8 +63,8 @@ var Comment15 = '#XX1TOTO (XYOU555) 63*36*30 BETTING';
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*XENIA950*86*48*96';
 
-var namagroup17 = 'TANDUKTOTO';
-var Comment17 = '( #TANDUKTOTO XUXIXI72 : 55*96 )';
+var namagroup17 = 'CIVIC';
+var Comment17 = '#CIVICTOTO (XUXIXI72) = 55*96';
 
 
 var d = new Date();
