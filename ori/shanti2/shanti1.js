@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      1.03
+// @version      1.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -15,8 +15,8 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'YAOTOGEL';
-var Comment1 = '#YAOTOGEL TOMATOES288 66*08*20';
+var namagroup1 = 'WELLZ';
+var Comment1 = 'SIJITOGEL TASMANIA2 66*08*20';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TUNDER18 ) : 21*84*64'; 
@@ -64,9 +64,8 @@ var Comment15 = '#XX1TOTO (TONGKOL65) 21*84*64 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*TIGERS387*55*19*20'; 
 
-var namagroup17 = 'TANDUKTOTO';
-var Comment17 = '( #TANDUKTOTO TASMANIA2 : 66*08 )';
-
+var namagroup17 = 'CIVIC';
+var Comment17 = '#CIVICTOTO (TOMATOES288) = 66*08';
 
 var d = new Date();
 var hour = d.getHours();
