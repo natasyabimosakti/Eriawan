@@ -62,8 +62,8 @@ var Comment15 = '#XX1TOTO (ZUMBA78)  72*68*51 BETTING';
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 
-var namagroup17 = 'TANDUKTOTO';
-var Comment17 = '( #TANDUKTOTO ZOOMM12 : 84*51 )';
+var namagroup17 = 'CIVIC';
+var Comment17 = '#CIVICTOTO (ZOOMM12) = 84*51';
 
 
 var d = new Date();
