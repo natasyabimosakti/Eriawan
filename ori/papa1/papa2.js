@@ -14,9 +14,8 @@
 // @grant        window.close
 // ==/UserScript==
 
-
-var namagroup1 = 'YAOTOGEL';
-var Comment1 = '#YAOTOGEL YOYYO94 19*46*93'; 
+var namagroup1 = 'BLITAR4D';
+var Comment1 = '#BLITAR4D ( YOYYO94 ) : 19*46*93';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( YUMIE88 ) : 15*47*58'; 
