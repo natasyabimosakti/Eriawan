@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.05
+// @version      1.06
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -18,47 +18,47 @@ var namagroup1 = 'BLITAR4D';
 var Comment1 = '#BLITAR4D ( YOYYO94 ) : 19*46*93';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( YUMIE88 ) : 15*47*58'; 
+var Comment2 = 'K86TOTO ( YUMIE88 ) : 15*47*58';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (YEEZZ35) 19*46*93'; 
+var Comment3 = 'Shiotogel4d (YEEZZ35) 19*46*93';
 
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'YONGMAS88 : 15*47*25 #TEMPOTOTO';
 
 var namagroup5 = 'RNR303';
-var Comment5 = '‌#RNR303(YIYIYI65) : 12*58*37'; 
+var Comment5 = '‌#RNR303(YIYIYI65) : 12*58*37';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (YELYEL02) = 80*42*22'; 
+var Comment6 = '#DIVA4D (YELYEL02) = 80*42*22';
 
 var namagroup7 = 'WELLZ';
-var Comment7 = 'SIJITOGEL YUPPIE54 12*25*37'; 
+var Comment7 = 'SIJITOGEL YUPPIE54 12*25*37';
 
 var namagroup8 = 'TOK99T0T0';
-var Comment8 = 'Tok99Toto ( YUYU666 ) : 80*42*22'; 
+var Comment8 = 'Tok99Toto ( YUYU666 ) : 80*42*22';
 
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*YUKWIN09*81*79*66*BETTING';
 
 
 var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (YUKJUM35) : 38*70*06'; 
+var Comment10 = '#SLOTOGEL (YUKJUM35) : 38*70*06';
 
 var namagroup11 = 'KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (YELIGUK88) 81*79*66'; 
+var Comment11 = '(KEBAYA4D) = (YELIGUK88) 81*79*66';
 
 var namagroup12 = 'BESTOTO88';
-var Comment12 = 'YEYEK001 : 38*70*06 #BESTOTO88'; 
+var Comment12 = 'YEYEK001 : 38*70*06 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=YAMYAM44=18*69*32'; 
+var Comment13 = 'GOHTOGEL=YAMYAM44=18*69*32';
 
 var namagroup14 = 'WARUNGTOTO';
 var Comment14 = '#(WARUNGTOTO) = (YAHYYA33) 83*87*17';
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (YOUARE05)  18*69*87 BETTING'; 
+var Comment15 = '#XX1TOTO (YOUARE05)  18*69*87 BETTING';
 
 var namagroup16 = 'UJI KECERDASAN';
 var Comment16 = 'CITA4D*YIMBO55*83*32*40';
