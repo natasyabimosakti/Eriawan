@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.02
+// @version      2.03
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -54,10 +54,10 @@ var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( RUMM009 ) : 19*35*02'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 19*35*02 ( RORO363 )'; 
+var Comment14 = '#DENTOTO 19*35*02 ( RORO363 )';
 
-var namagroup15 = 'HATRICK';
-var Comment15 = 'VESPATOGEL (ROLOKAB111)  99*73*98'; 
+var namagroup15 = 'LING';
+var Comment15 = 'LING77 (ROLOKAB111) 99*73*98'; 
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'C';
