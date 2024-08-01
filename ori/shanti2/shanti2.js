@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.04
+// @version      1.05
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
@@ -18,46 +18,46 @@ var namagroup1 = 'WELLZ';
 var Comment1 = 'SIJITOGEL QUANTUM33 59*50*30';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( QQCHERY88 ) : 65*26*24'; 
+var Comment2 = 'K86TOTO ( QQCHERY88 ) : 65*26*24';
 
 var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(QIBAAT50) : 44*03*46'; 
+var Comment3 = '‌#RNR303(QIBAAT50) : 44*03*46';
 
 var namagroup4 = 'TEMPO';
 var Comment4 = 'QIQIK38 : 63*34*87 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*QUIINE91*72*05*85*BETTING'; 
+var Comment5 = '#OTUSLOT*QUIINE91*72*05*85*BETTING';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (QWANDU66) 77*43*93';
 
-var namagroup7 = 'Hoho';
-var Comment7 = 'QRISS08 : 31*53*22 #HOHOTOGEL'; 
+var namagroup7 = 'ORMASTOTO';
+var Comment7 = 'ORMASTOTO(QRISS08) : 31*53*22';
 
 var namagroup8 = 'TOK99T0T0';
-var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 31*53*22'; 
+var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 31*53*22';
 
 var namagroup9 = 'BLITAR4D';
 var Comment9 = '#BLITAR4D ( QOPILU09 ) : 79*89*10';
 
 var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (QESBAH72) : 77*43*93'; 
+var Comment10 = '#SLOTOGEL (QESBAH72) : 77*43*93';
 
 var namagroup11 = 'KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (QANWIR77) 79*89*10'; 
+var Comment11 = '(KEBAYA4D) = (QANWIR77) 79*89*10';
 
 var namagroup12 = 'BESTOTO88';
-var Comment12 = 'QURBAN05 : 72*05*88 #BESTOTO88'; 
+var Comment12 = 'QURBAN05 : 72*05*88 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87'; 
+var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87';
 
 var namagroup14 = 'WARUNGTOTO';
-var Comment14 = '#(WARUNGTOTO) = (QERJA99) 44*03*46'; 
+var Comment14 = '#(WARUNGTOTO) = (QERJA99) 44*03*46';
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (QONCCER88) 65*26*24 BETTING'; 
+var Comment15 = '#XX1TOTO (QONCCER88) 65*26*24 BETTING';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*QUEEN710*88*85*30';
