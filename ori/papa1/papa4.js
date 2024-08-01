@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      1.06
+// @version      1.07
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -41,8 +41,8 @@ var Comment8 = 'Tok99Toto ( WEKLOSE09 ) : 95*62*85';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*WHAWHA24*73*44*16*BETTING';
 
-var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (WHEREAM55) : 88*01*64';
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (WDANCE456) 88*01*64';
 
 var namagroup11 = 'KEBAYA4D';
 var Comment11 = '(KEBAYA4D) = (WHOIS87) 77*28*89';
