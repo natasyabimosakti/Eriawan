@@ -64,7 +64,7 @@ var Comment16 = 'K';
 
 var namagroup17 = 'BELUM';
 var Comment17 = ''; 
-var namagroup18 = 'BELUM';
+var namagroup18 = 'SIANG';
 var Comment18 = ''; 
 
 
