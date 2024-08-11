@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.08
+// @version      1.09
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
@@ -69,7 +69,7 @@ var namagroup18 = 'CCcxccccc';
 var Comment18 = '#kosong';
 
 
-var refresh = 50;
+var refresh = 70;
 
 var d = new Date();
 var hour = d.getHours();
