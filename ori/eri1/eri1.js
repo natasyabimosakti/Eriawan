@@ -62,14 +62,13 @@ var Comment15 = 'LING77 (PIQUE020) 63*51';
 var namagroup16 = 'MALAM';
 var Comment16 = 'K'; 
 
-var namagroup17 = 'SIANG';
-var Comment17 = 'K'; 
+var namagroup17 = 'BELUM';
+var Comment17 = ''; 
+var namagroup18 = 'BELUM';
+var Comment18 = ''; 
 
-var namagroup18 = 'lajw';
-var Comment18 = 'asek';
 
-var refresh = 40;
-
+var refresh = 60;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
@@ -104,7 +103,7 @@ var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "R0M"
+var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
 
 var Backlist1 = "pemenang lomba";
@@ -592,4 +591,3 @@ function closer() {
 
 
 }
-
