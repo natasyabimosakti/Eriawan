@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.06
+// @version      2.07
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -69,7 +69,7 @@ var namagroup18 = 'BELUM';
 var Comment18 = ''; 
 
 
-var refresh = 60;
+var refresh = 70;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
