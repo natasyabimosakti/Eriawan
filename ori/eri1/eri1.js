@@ -68,7 +68,7 @@ var namagroup18 = 'SIANG';
 var Comment18 = ''; 
 
 
-var refresh = 50;
+var refresh = 70;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
