@@ -69,7 +69,7 @@ var namagroup18 = 'CCcxccccc';
 var Comment18 = '#kosong';
 
 
-var refresh = 50;
+var refresh = 70;
 
 var d = new Date();
 var hour = d.getHours();
