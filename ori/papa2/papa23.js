@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Novi91/main/Bosku/Bosku1.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Novi91/main/Bosku/Bosku1.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js?token=GHSAT0AAAAAACVLS7EMSZI4WSVAYJGWRFCYZWLJMKQ
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js?token=GHSAT0AAAAAACVLS7EMSZI4WSVAYJGWRFCYZWLJMKQ
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
