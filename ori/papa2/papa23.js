@@ -15,62 +15,61 @@
 // ==/UserScript==
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*XERBIA13*29*74'; 
+var Comment1 = '#shiokelinci4d*XRAY0909*34*92'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO XENON88 96*83*68'; 
+var Comment2 = 'IYATOTO XBAY875 34*92*20'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = '#Tiktaktogel / XELINA56 / 19 , 59 , 03'; 
+var Comment3 = '#Tiktaktogel / XXXAGE30 / 53 , 50 , 98'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=XELEMINT53=25*85*67'; 
+var Comment4 = 'GAIB4D=XLXL456=53*50*98'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (XELOP83) = 01*44*31'; 
+var Comment5 = '#keitogel = (XBOGV6) = 60*31*43'; 
 
 var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=XANXAN68=88*75*65'; 
+var Comment6 = 'KIOSTOTO=XEXEK90=60*31*43'; 
 
 var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL XONKING52 17*84*50'; 
+var Comment7 = 'ASEPTOGEL XIKPRO34 35*30*37'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=XELINA56=08*14*33'; 
+var Comment8 = 'ANGKER4D=XANDAL32=35*30*37'; 
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=XEROPON=08*14*33'; 
+var Comment9 = 'GILA4D=XERABUT22=73*90*91'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(XENDION)*17*84*41'; 
+var Comment10 = '#JNETOTO(XCONE55)*73*90*91'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*XERLAK67*88*75*41*'; 
+var Comment11 = '#TA*XBULL76*24*27*76*'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY XIANTAR6 01*44*31'; 
+var Comment12 = 'TOGELKUY XKEYPAS34 24*27*76'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( XIOYIB47 ) : 25*85*67'; 
+var Comment13 = '#TOYIBSLOT ( XMAX999 ) : 13*68*18'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 19*59*03 ( XIAOLAN6 )'; 
+var Comment14 = '#DENTOTO 13*68*18 ( XMIN111 )'; 
 
-var namagroup15 = 'SIJI';
-var Comment15 = 'SIJITOGEL XIONGYU6 96*83*68'; 
+var namagroup15 = 'ORMASTOTO';
+var Comment15 = 'ORMASTOTO(XYOU555) : 05*15*29';
 
 var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (XENDION) : 29*74*04'; 
+var Comment16 = 'NEMO4D (XENIA950) : 05*15*29'; 
 
-var namagroup17 = 'CIVIC';
-var Comment17 = '#CIVICTOTO(XERLAK67) = 65*50';
+var namagroup17 = 'KADALLLAL';
+var Comment17 = '#BUNTUNG = 65*50';
 
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Bosku1';
 
-
-var refresh = 30;
+var refresh = 50;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
