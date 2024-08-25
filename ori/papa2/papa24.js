@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js?token=GHSAT0AAAAAACVLS7EMSZI4WSVAYJGWRFCYZWLJMKQ
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js?token=GHSAT0AAAAAACVLS7EMSZI4WSVAYJGWRFCYZWLJMKQ
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js?token=GHSAT0AAAAAACVLS7EMWI6GUBUS7UFW42RWZWLJWBA
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js?token=GHSAT0AAAAAACVLS7EMWI6GUBUS7UFW42RWZWLJWBA
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
