@@ -15,52 +15,52 @@
 // ==/UserScript==
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*ZEPPIN32*14*49'; 
+var Comment1 = '#shiokelinci4d*WINDOW98*70*77'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO ZOOLINE55 14*49*12'; 
+var Comment2 = 'IYATOTO WINDI55 70*77*94'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = '#Tiktaktogel / ZAMBORE77 / 17 , 75 , 58'; 
+var Comment3 = '#Tiktaktogel / WUJONIE56 / 89 , 56 , 93'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=ZIGZAG66=17*75*58'; 
+var Comment4 = 'GAIB4D=WORRIE21=89*56*93'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (ZZZZZZ66) = 39*28*10'; 
+var Comment5 = '#keitogel = (WARZONE34) = 65*83*81'; 
 
 var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=ZAPP313=39*28*10'; 
+var Comment6 = 'KIOSTOTO=WONDER65=65*83*81'; 
 
 var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL ZUZUZU88 78*57*51'; 
+var Comment7 = 'ASEPTOGEL WINXXX99 11*01*62'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=ZOMBIE22=78*57*51'; 
+var Comment8 = 'ANGKER4D=WEKLOSE09=11*01*62'; 
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=ZONARED44=41*61*86'; 
+var Comment9 = 'GILA4D=WHAWHA24=07*40*79'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(ZUKAZUKA01)*41*61*86'; 
+var Comment10 = '#JNETOTO(WHEREAM55)*07*40*79'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*ZONGG000*67*82*22*'; 
+var Comment11 = '#TA*WHOIS87*16*95*08*'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY ZUMIE22 67*82*22'; 
+var Comment12 = 'TOGELKUY WAOW001 16*95*08'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19*80'; 
+var Comment13 = '#TOYIBSLOT ( WULLING234 ) : 52*33*25'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 36*19*80 ( YOUPUB33 )'; 
+var Comment14 = '#DENTOTO 52*33*25 ( WAIVE444 )'; 
 
 var namagroup15 = 'ORMASTOTO';
-var Comment15 = 'ORMASTOTO(ZUMBA78) : 71*74*48';
+var Comment15 = 'ORMASTOTO(WINTER360) : 02*55*69';
 
 var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (XENDION) : 71*74*48'; 
+var Comment16 = 'NEMO4D (WIGEN919) : 02*55*69'; 
 
 var namagroup17 = 'KADALLLAL';
 var Comment17 = '#BUNTUNG = 65*50';
