@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BO1 PAPA
+// @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
@@ -14,56 +14,57 @@
 // @grant        window.close
 // ==/UserScript==
 
+
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*XERBIA13*29*74'; 
+var Comment1 = '#shiokelinci4d*ZEPPIN32*14*49'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO XENON88 96*83*68'; 
+var Comment2 = 'IYATOTO ZOOLINE55 14*49*12'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = '#Tiktaktogel / XELINA56 / 19 , 59 , 03'; 
+var Comment3 = '#Tiktaktogel / ZAMBORE77 / 17 , 75 , 58'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=XELEMINT53=25*85*67'; 
+var Comment4 = 'GAIB4D=ZIGZAG66=17*75*58'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (XELOP83) = 01*44*31'; 
+var Comment5 = '#keitogel = (ZZZZZZ66) = 39*28*10'; 
 
 var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=XANXAN68=88*75*65'; 
+var Comment6 = 'KIOSTOTO=ZAPP313=39*28*10'; 
 
 var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL XONKING52 17*84*50'; 
+var Comment7 = 'ASEPTOGEL ZUZUZU88 78*57*51'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=XELINA56=08*14*33'; 
+var Comment8 = 'ANGKER4D=ZOMBIE22=78*57*51'; 
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=XEROPON=08*14*33'; 
+var Comment9 = 'GILA4D=ZONARED44=41*61*86'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(XENDION)*17*84*41'; 
+var Comment10 = '#JNETOTO(ZUKAZUKA01)*41*61*86'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*XERLAK67*88*75*41*'; 
+var Comment11 = '#TA*ZONGG000*67*82*22*'; 
 
 var namagroup12 = 'MASTER KUY';
-var Comment12 = 'TOGELKUY XIANTAR6 01*44*31'; 
+var Comment12 = 'TOGELKUY ZUMIE22 67*82*22'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( XIOYIB47 ) : 25*85*67'; 
+var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19*80'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 19*59*03 ( XIAOLAN6 )'; 
+var Comment14 = '#DENTOTO 36*19*80 ( YOUPUB33 )'; 
 
-var namagroup15 = 'SIJI';
-var Comment15 = 'SIJITOGEL XIONGYU6 96*83*68'; 
+var namagroup15 = 'ORMASTOTO';
+var Comment15 = 'ORMASTOTO(ZUMBA78) : 71*74*48';
 
 var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (XENDION) : 29*74*04'; 
+var Comment16 = 'NEMO4D (ZUMMO28) : 71*74*48'; 
 
-var namagroup17 = 'CIVIC';
-var Comment17 = '#CIVICTOTO(XERLAK67) = 65*50';
+var namagroup17 = 'KADALLLAL';
+var Comment17 = '#BUNTUNG = 65*50';
 
 
 var namagroup18 = 'Jawatengah';
