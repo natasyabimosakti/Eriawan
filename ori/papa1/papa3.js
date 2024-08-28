@@ -61,7 +61,7 @@ var namagroup15 = 'MAINTOGEL';
 var Comment15 = '#(MAINTOGEL365) (XYOU555) : 63*36*30';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*XENIA950*86*48*55';
+var Comment16 = 'CITA4D*XENIA950*86*48*96';
 
 var namagroup17 = 'CIVIC';
 var Comment17 = '#CIVICTOTO (XUXIXI72) = 55*96';
