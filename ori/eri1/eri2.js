@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.10
+// @version      2.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -71,7 +71,7 @@ var Comment18 = '';
 
 
 
-var refresh = 60;
+var refresh = 70;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
