@@ -1,8 +1,3 @@
-
-// ==/UserScript==
-
-
-
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
