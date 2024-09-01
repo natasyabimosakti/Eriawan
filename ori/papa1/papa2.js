@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.18
+// @version      1.19
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -71,7 +71,7 @@ var namagroup18 = 'CCcxccccc';
 var Comment18 = '#kosong';
 
 
-var refresh = 50;
+var refresh = 60;
 
 var d = new Date();
 var hour = d.getHours();
