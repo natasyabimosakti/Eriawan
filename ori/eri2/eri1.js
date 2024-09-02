@@ -58,7 +58,7 @@ var Comment14 = '#DENTOTO 30*13*87 ( TORNADO13 )';
 
 
 var namagroup15 = 'POMPA';
-var Comment15 = '#POMPA4D(TAS99) : 83*08*25';
+var Comment15 = '#POMPA4D*TAS99*83*08*25*';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'X'; 
