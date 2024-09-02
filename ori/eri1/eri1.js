@@ -57,7 +57,7 @@ var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 20*18*75 ( PIANG212 )'; 
 
 var namagroup15 = 'POMPA';
-var Comment15 = '#POMPA4D(PIQUE020) : 63*51*29';
+var Comment15 = '#POMPA4D*PIQUE020*63*51*29*';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'K'; 
