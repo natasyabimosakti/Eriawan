@@ -58,7 +58,7 @@ var Comment14 = '#DENTOTO 19*35*02 ( RORO363 )';
 
 
 var namagroup15 = 'POMPA';
-var Comment15 = '#POMPA4D(ROOM29) : 99*73*98';
+var Comment15 = '#POMPA4D*ROOM29*99*73*98*';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'C';
