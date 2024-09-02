@@ -71,7 +71,7 @@ var Comment18 = '';
 
 
 
-var refresh = 60;
+var refresh = 50;
 
 var d = new Date();
 var hour = d.getHours();
