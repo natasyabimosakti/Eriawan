@@ -58,7 +58,7 @@ var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
 
 
 var namagroup15 = 'POMPA';
-var Comment15 = '#POMPA4D(NARITA74) : 40*48*58';
+var Comment15 = '#POMPA4D*NARITA74*40*48*58*';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'MASUK DEVI';
