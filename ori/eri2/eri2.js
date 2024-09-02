@@ -58,7 +58,7 @@ var Comment14 = '#DENTOTO 58*96*00 ( QERJA99 )';
 
 
 var namagroup15 = 'POMPA';
-var Comment15 = '#POMPA4D(QUARTZ8) : 06*04*01';
+var Comment15 = '#POMPA4D*QUARTZ8*06*04*01*';
 
 var namagroup15 = 'LING';
 var Comment15 = 'LING77 (QONCCER88) 06*04'; 
