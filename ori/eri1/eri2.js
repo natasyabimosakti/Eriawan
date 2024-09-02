@@ -58,7 +58,7 @@ var Comment14 = '#DENTOTO 36*43*67 ( LIAN328 )';
 
 
 var namagroup15 = 'POMPA';
-var Comment15 = '#POMPA4D(LIAMBA32) : 79*50*09';
+var Comment15 = '#POMPA4D*LIAMBA32*79*50*09*';
 
 var namagroup16 = 'JAWA';
 var Comment16 = ''; 
@@ -71,7 +71,8 @@ var Comment18 = '';
 
 
 
-var refresh = 70;
+var refresh = 60;
+
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
