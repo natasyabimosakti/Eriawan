@@ -75,7 +75,7 @@ var Comment18 = '#kosong';
 
 
 
-var refresh = 60;
+var refresh = 40;
 
 var d = new Date();
 var hour = d.getHours();
