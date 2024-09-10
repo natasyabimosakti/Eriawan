@@ -39,7 +39,7 @@ var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( YUYU666 ) : 80*42*22';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*YUKWIN09*81*79*66*BETTING';
+var Comment9 = 'OTUSLOT*YUKWIN09*81*79*66*BETTING';
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (YUKJUM35) : 38*70*06';
