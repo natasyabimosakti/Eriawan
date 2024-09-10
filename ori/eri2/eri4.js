@@ -57,7 +57,7 @@ var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 90*23*12 ( SOS999 )'; 
 
 
-var namagroup15 = POMPA4D';
+var namagroup15 = 'POMPA4D';
 var Comment15 = '#POMPA4D*SQUASH387*41*94*43*';
 
 var namagroup16 = 'MALAM';
