@@ -31,7 +31,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'JUJUR444 : 90*26*65 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*JIWA555*87*73*28*BETTING'; 
+var Comment5 = 'OTUSLOT*JIWA555*87*73*28*BETTING'; 
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (JUALAN666) = 02*41*22'; 
