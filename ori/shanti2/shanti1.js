@@ -28,7 +28,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'TANGGO10 : 40*57*01 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*TAHUTOK50*74*68*19*BETTING';
+var Comment5 = 'OTUSLOT*TAHUTOK50*74*68*19*BETTING';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78';
