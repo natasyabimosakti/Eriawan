@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.25
+// @version      1.26
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
