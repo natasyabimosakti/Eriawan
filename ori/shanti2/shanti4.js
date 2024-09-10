@@ -28,7 +28,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'SEMANGAT45 : 51*48*16 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*SANRIO123*70*92*38*BETTING';
+var Comment5 = 'OTUSLOT*SANRIO123*70*92*38*BETTING';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (SEALION99) 83*12*80';
