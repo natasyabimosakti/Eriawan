@@ -27,7 +27,7 @@ var namagroup4 = 'TEMPO';
 var Comment4 = 'IAMSURE84 : 98*58*39 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*IS3NG87*10*82*21*BETTING';
+var Comment5 = 'OTUSLOT*IS3NG87*10*82*21*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (IKONGG90) = 10*82*21';
