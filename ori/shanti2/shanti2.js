@@ -27,7 +27,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'QIQIK38 : 63*34*87 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*QUIINE91*72*05*85*BETTING';
+var Comment5 = 'OTUSLOT*QUIINE91*72*05*85*BETTING';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (QWANDU66) 77*43*93';
