@@ -29,7 +29,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'POMPOM809 : 46*80*79 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*POSYAN676*06*97*33*BETTING';
+var Comment5 = 'OTUSLOT*POSYAN676*06*97*33*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (PERAK689) = 43*66*01';
