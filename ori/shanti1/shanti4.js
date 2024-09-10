@@ -28,7 +28,7 @@ var namagroup4 = 'TEMPO';
 var Comment4 = 'HAYO456 : 88*20*68 #TEMPOTOTO';
 
 var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*HIWER313*08*56*24*BETTING';
+var Comment5 = 'OTUSLOT*HIWER313*08*56*24*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (HOMBRENG898) = 91*54*05';
