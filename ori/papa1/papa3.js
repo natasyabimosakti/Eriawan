@@ -39,7 +39,7 @@ var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( XANDAL32 ) : 23*98*08';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*XERABUT22*39*60*29*BETTING';
+var Comment9 = 'OTUSLOT*XERABUT22*39*60*29*BETTING';
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (XCONE55) : 05*82*03';
