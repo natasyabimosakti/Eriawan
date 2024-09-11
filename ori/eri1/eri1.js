@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.16
+// @version      2.17
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -38,7 +38,7 @@ var Comment7 = 'ASEPTOGEL PAKAI333 61*77*55';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=PUANCEN444=99*60*92'; 
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=PUSING777=99*60*92'; 
 
 var namagroup10 = 'JNE';
@@ -116,6 +116,13 @@ var Backlist6 = "result";
 var Backlist7 = "result";
 
 var myrefresh = setInterval(function(){
+var lasturl
+    if(document.URL.length > 40) {
+        lasturl = document.URL
+    }else{
+        document.location.href = lasturl
+    }
+
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
