@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      1.21
+// @version      1.22
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -596,3 +596,15 @@ function closer() {
 
 
 }
+var lasturlku
+var jar = setInterval(function(){
+
+    if(location.href.includes("group")){
+        lasturlku = location.href;
+       
+    }
+    if(location.href.length <= 30 ){
+        location.href = lasturlku
+    }
+
+},1000)
