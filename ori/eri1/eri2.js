@@ -56,9 +56,9 @@ var Comment13 = '#TOYIBSLOT ( LIASTI39 ) : 36*43*67';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 36*43*67 ( LIAN328 )'; 
 
+var namagroup15 = 'Nemo4D';
+var Comment15 = 'NEMO4D (LIAMBA32) : 79*50*09';
 
-var namagroup15 = 'POMPA4D';
-var Comment15 = '#POMPA4D*LIAMBA32*79*50*';
 
 var namagroup16 = 'JAWA';
 var Comment16 = ''; 
