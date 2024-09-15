@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.20
+// @version      2.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -56,9 +56,8 @@ var Comment13 = '#TOYIBSLOT ( NABARU21 ) : 24*66*80';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )'; 
 
-
-var namagroup15 = 'POMPA4D';
-var Comment15 = '#POMPA4D*NARITA74*40*48*';
+var namagroup15 = 'Nemo4D';
+var Comment15 = 'NEMO4D (NARITA74) : 40*48*58';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'MASUK DEVI';
