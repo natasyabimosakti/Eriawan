@@ -56,9 +56,9 @@ var Comment13 = '#TOYIBSLOT ( MANDRA16 ) : 41*93*71';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 41*93*71 ( MALIMUN39 )'; 
 
+var namagroup15 = 'Nemo4D';
+var Comment15 = 'NEMO4D (MADSOLAR77) : 38*17*42';
 
-var namagroup15 = 'POMPA4D';
-var Comment15 = '#POMPA4D*MADSOLAR77*38*17*';
 
 var namagroup16 = 'JAWA';
 var Comment16 = ''; 
