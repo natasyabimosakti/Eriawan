@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.22
+// @version      2.23
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -60,7 +60,7 @@ var namagroup15 = 'NEMO4D';
 var Comment15 = 'NEMO4D (PIQUE020) : 63*51*29';
 
 var namagroup16 = 'MALAM';
-var Comment16 = 'K'; 
+var Comment16 = 'fb01'; 
 
 var namagroup17 = 'BELUM';
 var Comment17 = ''; 
@@ -94,7 +94,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","azhara","ani","alicia","ayesha","asami","adita","andy","aurel","anya","angka","artha","ajosultan87","aldi","adelia","adeliya","aditia","azza","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs","bella","boboho","bastian","bobby","base","bonar","bogard","bungaps","brian","bala","blair","celsia","chelomita","chika","cila","cinta","calvin","celine","cintiya","conny",
-"dea","done","dika","dollar","deva","dewa","dwiadesta","daniell","dewi","depan","dhiane","dinda","dinanti","denis","daryati","diana","dave","desi","dens","dina","dodda",
+"dea","done","dika","dollar","devi","deva","dewa","dwiadesta","daniell","dewi","depan","dhiane","dinda","dinanti","denis","daryati","diana","dave","desi","dens","dina","dodda",
 "echa","erika","elly","epay","elisa","elok","erwin",
 "febrian","fahresa","fiana","fischer","fox","farah","farhan","farid",
 "gretha","ghozali","garda","ghifa","gerald",
