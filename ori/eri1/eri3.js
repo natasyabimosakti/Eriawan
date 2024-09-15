@@ -63,8 +63,9 @@ var Comment15 = 'NEMO4D (MADSOLAR77) : 38*17*42';
 var namagroup16 = 'JAWA';
 var Comment16 = ''; 
 
-var namagroup17 = 'BELUM';
-var Comment17 = ''; 
+var namagroup17 = 'MALAM';
+var Comment17 = 'MALAM FB3';
+ 
 var namagroup18 = 'BELUM';
 var Comment18 = ''; 
 
