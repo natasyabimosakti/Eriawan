@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.24
+// @version      2.25
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -94,7 +94,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","azhara","ani","alicia","ayesha","asami","adita","andy","aurel","anya","angka","artha","ajosultan87","aldi","adelia","adeliya","aditia","azza","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs","bella","boboho","bastian","bobby","base","bonar","bogard","bungaps","brian","bala","blair","celsia","chelomita","chika","cila","cinta","calvin","celine","cintiya","conny",
-"dea","done","dika","dollar","deva","dewa","dwiadesta","daniell","dewi","depan","dhiane","dinda","dinanti","denis","daryati","diana","dave","desi","dens","dina","dodda",
+"dea","done","dika","dollar","deva","dewa","dwiadesta","daniell","dewi","depan","dhiane","dinda","dinanti","denis","daryati","diana","devi","dave","desi","dens","dina","dodda",
 "echa","erika","elly","epay","elisa","elok","erwin",
 "febrian","fahresa","fiana","fischer","fox","farah","farhan","farid",
 "gretha","ghozali","garda","ghifa","gerald",
@@ -106,6 +106,7 @@ var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","az
 "sa","siregar","sintia","samuel","sanchez","san","sarii","syaqeena","setia","sanjaya","sarhuda","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","sukri","sabrina","shinta","selly","sandiego","sejitu","sabrina","salsabila","sutanti","sudibjo","sydney","sinta","toto","tink","tan","tag","tiara","themoon","tania","thonex",
 "waslo","winer","ujen","wndt","wiena","walker","wulandari","wijaya","vonny","wahid","wirawan","wndtfny","wardani","wahzo","wak",
 "vanessa","virna","viona","xabiru","yoky","yuli","yosephine","yokikasep","yeti","yohana","yasmine","yaotogel","zurro","wok","zhelonk","zareko","zhie","zurrotul","kotna"];
+
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
@@ -127,7 +128,6 @@ var Backlist6 = "result";
 var Backlist7 = "result";
 
 var myrefresh = setInterval(function(){
-
 
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
@@ -190,7 +190,7 @@ var myInterval = setInterval(function(){
             var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
 
             // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
+            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
             if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
                 console.log("Jam Ditemukan " + ret)
                 if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
