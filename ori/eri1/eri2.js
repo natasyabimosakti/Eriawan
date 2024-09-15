@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.24
+// @version      2.25
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -59,7 +59,6 @@ var Comment14 = '#DENTOTO 36*43*67 ( LIAN328 )';
 var namagroup15 = 'NEMO4D';
 var Comment15 = 'NEMO4D (LIAMBA32) : 79*50*09';
 
-
 var namagroup16 = 'JAWA';
 var Comment16 = ''; 
 
@@ -71,8 +70,7 @@ var Comment18 = '';
 
 
 
-var refresh = 50;
-
+var refresh = 40;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
@@ -110,6 +108,7 @@ var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","az
 "waslo","winer","ujen","wndt","wiena","walker","wulandari","wijaya","vonny","wahid","wirawan","wndtfny","wardani","wahzo","wak",
 "vanessa","virna","viona","xabiru","yoky","yuli","yosephine","yokikasep","yeti","yohana","yasmine","yaotogel","zurro","wok","zhelonk","zareko","zhie","zurrotul","kotna"];
 
+
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
@@ -130,7 +129,6 @@ var Backlist6 = "result";
 var Backlist7 = "result";
 
 var myrefresh = setInterval(function(){
-
 
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
