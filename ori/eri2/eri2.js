@@ -56,12 +56,8 @@ var Comment13 = '#TOYIBSLOT ( QERBAU04 ) : 58*96*00';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 58*96*00 ( QERJA99 )'; 
 
-
-var namagroup15 = 'POMPA4D';
-var Comment15 = '#POMPA4D*QUARTZ8*06*04*';
-
-var namagroup15 = 'LING';
-var Comment15 = 'LING77 (QONCCER88) 06*04'; 
+var namagroup15 = 'NEMO4D';
+var Comment15 = 'NEMO4D (QUARTZ8) : 06*04*01';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'B'; 
