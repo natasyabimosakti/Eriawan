@@ -118,8 +118,8 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "SGP"
-var keyword12 = "HONGKONG"
+var keyword11 = "ROOM"
+var keyword12 = "ROOM"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
