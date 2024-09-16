@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.28
+// @version      1.29
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -109,7 +109,7 @@ var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","az
 "intanbarbar","ibrahim","icha","inisial","indra","ilmi","iii","intan","jhone","jengat","john","jhone","jihan","je pe","jengat","jesika","jenifer","jovanka","jess","jeremy","jie","junior","judi",
 "kiky","kayla","kemonmusuh","kayla","kakakemon","katty","katharina","kumala","key","kadua","kendri","kumbara","kembar","kautsar","karina","kapten","kosasih","krisanty","lina","lianda","lomba","langit","larissa","loiza","leksa","larashati","lehman","lidya","lusiana","lesmana","leon","light","lim","laura",
 "maes","mei","mega","maha","mad","manu","miranda","mesa","marcia","manu","mahendra","multi","mariana","minions","melati","mimi","mirna","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","naumi","neng","neman","nayra","nayla","nadila","nella","niko","nada","new","ormastoto","novi","nasution","odgj","oun","ouschan","oscar","onepeace","otong",
-"putra","putri","paytenbrycen","piyambakan","priyan","pung","primus","plat","priqittyu","rich","pura","prissia","pribadi","putra","puput","prediksi","ratna","pey","petir","rizal","reborn","resti","resiva","rano","rambo","rm","ramadansyah","ratu","riko","riyanti","ruto","richatun","rz","ria","roy","rendy","robby",
+"putra","putri","paytenbrycen","piyambakan","priyan","pung","primus","plat","priqittyu","rich","pura","prissia","pribadi","putra","puput","prediksi","ratna","pey","petir","rizal","reborn","resti","resiva","rano","rambo","rm","ramadansyah","ratu","riko","riyanti","ruto","richatun","rz","ria","roy","rendy","robby","renada",
 "sa","siregar","sintia","samuel","sanchez","san","sarii","syaqeena","setia","sanjaya","sarhuda","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","sukri","sabrina","shinta","selly","sandiego","sejitu","sabrina","salsabila","sutanti","sudibjo","sydney","sinta","toto","tink","tan","tag","tiara","themoon","tania","thonex",
 "waslo","winer","ujen","wndt","wiena","walker","wulandari","wijaya","vonny","wahid","wirawan","wndtfny","wardani","wahzo","wak",
 "vanessa","virna","viona","xabiru","yoky","yuli","yosephine","yokikasep","yeti","yohana","yasmine","yaotogel","zurro","wok","zhelonk","zareko","zhie","zurrotul","kotna"];
