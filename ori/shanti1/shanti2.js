@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.29
+// @version      1.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -100,7 +100,8 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","azhara","ani","alicia","ayesha","asami","adita","andy","aurel","anya","angka","artha","ajosultan87","aldi","adelia","adeliya","aditia","azza","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs","bella","boboho","bastian","bobby","base","bonar","bogard","bungaps","brian","bala","blair","celsia","chelomita","chika","cila","cinta","calvin","celine","cintiya","conny",
+var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","azhara","ani","alicia","ayesha","asami","adita","andy","aurel","anya","angka","artha","ajosultan87","aldi","adelia","adeliya","aditia","azza","andri","ananda","adm","ayesha","audi","alde","aldo","amoy","anissa","alexs",
+"bella","bmkg","boboho","bastian","bobby","base","bonar","bogard","bungaps","brian","bala","blair","celsia","chelomita","chika","cila","cinta","calvin","celine","cintiya","conny",
 "dea","done","dika","dollar","deva","dewa","dwiadesta","daniell","dewi","depan","dhiane","dinda","dinanti","denis","daryati","diana","dave","desi","dens","dina","dodda",
 "echa","erika","elly","epay","elisa","elok","erwin",
 "febrian","fahresa","fiana","fischer","fox","farah","farhan","farid",
