@@ -203,7 +203,8 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
