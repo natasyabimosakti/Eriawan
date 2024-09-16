@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.24
+// @version      2.25
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -97,7 +97,7 @@ var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","az
 "dea","done","dika","dollar","deva","dewa","dwiadesta","daniell","dewi","depan","dhiane","dinda","dinanti","denis","daryati","diana","dave","desi","dens","dina","dodda",
 "echa","erika","elly","epay","elisa","elok","erwin",
 "febrian","fahresa","fiana","fischer","fox","farah","farhan","farid",
-"gretha","ghozali","garda","ghifa","gerald",
+"gretha","ghozali","garda","ghifa","gerald","gita",
 "hefi","habib","hana","hartono","huang","hanna","herfizah","hill","hoihai","hokii",
 "intanbarbar","ibrahim","icha","inisial","indra","ilmi","iii","intan","jhone","jengat","john","jhone","jihan","je pe","jengat","jesika","jenifer","jovanka","jess","jeremy","jie","junior","judi",
 "kiky","kayla","kemonmusuh","kayla","kakakemon","katty","katharina","kumala","key","kadua","kendri","kumbara","kembar","kautsar","karina","kapten","kosasih","krisanty","lina","lianda","lomba","langit","larissa","loiza","leksa","larashati","lehman","lidya","lusiana","lesmana","leon","light","lim","laura",
