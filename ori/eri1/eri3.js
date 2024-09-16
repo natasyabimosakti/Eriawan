@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.24
+// @version      2.25
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -202,7 +202,7 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword6.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
-                                      ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
