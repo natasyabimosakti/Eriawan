@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.25
+// @version      1.26
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -111,7 +111,7 @@ var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","az
 "maes","mei","marcia","mark","mega","maha","mad","manu","miranda","mesa","marcia","manu","mahendra","multi","mariana","minions","melati","mimi","mirna","megan","mayor","mong","megaways","mardia",
 "nathaya","nyamark","nadya","naura","naumi","neng","neman","nayra","nayla","nadila","nella","niko","nada","new",
 "ormastoto","novi","nasution","odgj","oun","ouschan","ori","oscar","onepeace","otong",
-"putra","putri","paytenbrycen","piyambakan","priyan","pung","primus","plat","priqittyu","rich","pura","prissia","pribadi","putra","puput","prediksi",
+"putra","pasaran","putri","paytenbrycen","piyambakan","priyan","pung","primus","plat","priqittyu","rich","pura","prissia","pribadi","putra","puput","prediksi",
 "ratna","pey","petir","rizal","reborn","resti","resiva","rano","rambo","rm","ramadansyah","ratu","riko","riyanti","ruto","richatun","rz","ria","roy","rendy","robby","renada",
 "sa","siregar","sintia","samuel","sanchez","san","sarii","syaqeena","setia","sanjaya","sarhuda","siska","safar","sakura","sintia","shela","slooter","supriati","suhaidatul","sukri","sabrina","shinta","selly","sandiego","sejitu","sabrina","salsabila","sutanti","sudibjo","sydney","sinta","toto","tink","tan","tag","tiara","themoon","tania","thonex",
 "waslo","winer","ujen","wndt","wiena","walker","wulandari","wijaya","vonny","wahid","wirawan","wndtfny","wardani","wahzo","wak",
