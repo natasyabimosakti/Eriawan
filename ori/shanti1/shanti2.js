@@ -168,7 +168,8 @@ var myrefresh = setInterval(function(){
            ||postingan.toLowerCase().includes(keyword7.toLowerCase())
            ||postingan.toLowerCase().includes(keyword8.toLowerCase())
            ||postingan.toLowerCase().includes(keyword9.toLowerCase())
-           ||postingan.toLowerCase().includes(keyword10.toLowerCase())){
+           ||postingan.toLowerCase().includes(keyword10.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword11.toLowerCase())){
             console.log("Keyword Ditemukan " + postingan.textContent);
             // Cek Backlist
             if(postingan.toLowerCase().includes(Backlist1.toLowerCase())
