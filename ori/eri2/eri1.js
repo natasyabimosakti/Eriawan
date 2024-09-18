@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.24
+// @version      2.25
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri1.js
@@ -100,7 +100,7 @@ var admin = ["angeline","andika","ace","anggara","aimi", "azahra","arabella","az
 "febrian","fahresa","fiana","fischer","fox","farah","farhan","farid",
 "gretha","gita","ghozali","garda","ghifa","gerald",
 "hefi","habib","hana","hartono","huang","hanna","herfizah","hill","hoihai","hokii",
-"intanbarbar","ibrahim","icha","inisial","indra","ilmi","iii","intan","jhone","jengat","john","jhone","jihan","je pe","jengat","jesika","jenifer","jovanka","jess","jeremy","jie","junior","judi",
+"intanbarbar","ibrahim","icha","inisial","indra","ilmi","iii","intan","jhone","jengat","jaguarr","john","jhone","jihan","je pe","jengat","jesika","jenifer","jovanka","jess","jeremy","jie","junior","judi",
 "kiky","kayla","kemonmusuh","kayla","kakakemon","katty","katharina","kumala","key","kadua","kendri","kumbara","kembar","kautsar","karina","kapten","kosasih","krisanty","lina","lianda","lomba","langit","larissa","loiza","leksa","larashati","lehman","lidya","lusiana","lesmana","leon","light","lim","laura",
 "maes","mei","mega","maha","mad","manu","miranda","mesa","marcia","manu","mahendra","multi","mariana","minions","melati","mimi","mirna","megan","mayor","mong","megaways","mardia","nathaya","nadya","naura","naumi","neng","neman","nayra","nayla","nadila","nella","niko","nada","new","ormastoto","novi","nasution","odgj","oun","ouschan","oscar","onepeace","otong",
 "putra","putri","paytenbrycen","piyambakan","priyan","pung","primus","plat","priqittyu","rich","pura","prissia","pribadi","putra","puput","prediksi","ratna","pey","petir","rizal","reborn","resti","resiva","rano","rambo","rm","ramadansyah","ratu","riko","riyanti","ruto","richatun","rz","ria","roy","rendy","robby",
