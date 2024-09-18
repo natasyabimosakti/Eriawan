@@ -123,11 +123,12 @@ var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
 var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
-var keyword6 = "Ro0M"
+var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "login"
+var keyword9 = "R0M"
 var keyword10 = "𝐑𝐎𝐎𝐌"
+var keyword11 = "Ro0M"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
