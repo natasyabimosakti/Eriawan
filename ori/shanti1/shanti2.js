@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.32
+// @version      1.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -130,6 +130,7 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "R0M"
 var keyword10 = "𝐑𝐎𝐎𝐌"
+var keyword11 = "Ro0M"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
