@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.27
+// @version      1.28
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -128,7 +128,7 @@ var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "R0M" 
-var keyword10 = "ROOM"
+var keyword10 = "Lomba"
 var keyword11 = "Ro0M"
 
 var Backlist1 = "pemenang lomba";
