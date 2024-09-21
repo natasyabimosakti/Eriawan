@@ -132,6 +132,7 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "R0M"
 var keyword10 = "𝐑𝐎𝐎𝐌"
+var keyword11 = "Ro0M"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
