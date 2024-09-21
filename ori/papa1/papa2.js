@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.28
+// @version      1.29
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -126,7 +126,7 @@ var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
 var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
-var keyword6 = "LIMBA"
+var keyword6 = "Lomba"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "R0M"
