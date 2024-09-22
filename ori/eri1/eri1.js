@@ -57,7 +57,7 @@ var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 20*18*75 ( PIANG212 )'; 
 
 var namagroup15 = 'Hoho';
-var Comment15 = 'PAKAI333 : 30*09*35 #HOHOTOGEL';
+var Comment15 = 'PAKAI333 : 63*51*29 #HOHOTOGEL';
 
 var namagroup16 = 'MALAM';
 var Comment16 = 'fb01'; 
