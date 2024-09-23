@@ -67,7 +67,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (TASMANIA2) 66*08';
 
 var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL OLONG00 66*08*20';
+var Comment18 = 'VESPATOGEL TONGKOL65 66*08*20';
 
 var refresh = 40;
 
