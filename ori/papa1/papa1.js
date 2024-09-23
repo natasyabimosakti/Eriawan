@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.28
+// @version      1.29
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -65,9 +65,8 @@ var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (ZUKAZUKA01) 84*51';
 
-var namagroup18 = 'CCcxccccc';
-var Comment18 = '#kosong';
-
+var namagroup18 = 'VESPA7093L';
+var Comment18 = 'VESPATOGEL ZONARED44 76*45*34';
 
 var refresh = 50;
 
@@ -94,13 +93,13 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika",
+var admin = ["angeline","aprillia","aza","azura","arang","ace","ajosultan87","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah",
-"cila","cindy","cantika","claudia","cucu","cintiya",
-"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi",
+"cila","cindy","cantika","claudia","cucu","cintiya","chandra",
+"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
 "erlangga","elmina","erina","elisa",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
-"gates","gandul","geboyy","gene",
+"gates","gandul","geboyy","gene","gita",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki",
 "inisial","ilmi",
 "jhon","jasmine","jeremy","judi","jodi","jesika","junior",
@@ -111,7 +110,7 @@ var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","amoy","amz
 "ori","odgj","oscar","over","ouschan",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","pratama","prediksi","pram",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati",
-"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez",
+"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego",
 "togel","toto","tan",
 "vasquez","vina",
 "waslo","wulandari","wiena","wndtfny","wardani",
