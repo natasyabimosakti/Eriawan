@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.29
+// @version      1.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -66,7 +66,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (ZUKAZUKA01) 84*51';
 
 var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL ZONARED44 76*45*34';
+var Comment18 = 'VESPATOGEL (ZONARED44) 76*45*34';
 
 var refresh = 50;
 
