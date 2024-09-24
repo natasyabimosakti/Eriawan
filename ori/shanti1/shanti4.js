@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.29
+// @version      1.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -69,7 +69,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (NARITA74) 37*95';
 
 var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL NARITA74 08*56*24';
+var Comment18 = 'VESPATOGEL (NARITA74) 08*56*24';
 
 
 var refresh = 50;
