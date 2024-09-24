@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.32
+// @version      1.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -67,7 +67,7 @@ var Comment17 = 'LING77 (MALIAN19) 31*57';
 
 
 var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL MALIAN19 10*82*21';
+var Comment18 = 'VESPATOGEL (MALIAN19) 10*82*21';
 
 
 
