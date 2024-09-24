@@ -70,7 +70,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (LIAMBA32) 14*76';
 
 var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL LIAMBA32 87*73*28';
+var Comment18 = 'VESPATOGEL (LIAMBA32) 87*73*28';
 
 
 var refresh = 60;
