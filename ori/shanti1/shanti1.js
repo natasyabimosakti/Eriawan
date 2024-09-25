@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      3.92
+// @version      3.93
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -110,11 +110,11 @@ var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","arang","am
 "naumi","na","nada","nyamark","natalia",
 "ori","odgj","oscar","over","ouschan",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","pratama","prediksi","pram",
-"rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati",
+"rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego",
 "togel","toto","tan",
 "vasquez","vina",
-"waslo","wulandari","wiena","wndtfny","wardani",
+"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
 "xabiru",
 "yuli","yosephine","yeti","yanto","yoky",
 "zhelonk","zurrotul"];
