@@ -26,9 +26,8 @@ var Comment3 = '‌#RNR303(RAPID393) : 28*52*04';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'READY727 : 76*45*27 #TEMPOTOTO';
 
-
 var namagroup5 = 'Wellz';
-var Comment5 = 'SIJITOGEL REAL969 61*35*98';
+var Comment5 = 'SIJITOGEL RAMPOK84 61*35*98';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (REALIS147) 18*75*17';
@@ -54,13 +53,11 @@ var Comment12 = 'REOTKAB475 : 61*35*00 #BESTOTO88';
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=RUMM009=76*45*27';
 
-
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (RORO363) 28*52*04';
 
 var namagroup15 = 'MAINTOGEL';
 var Comment15 = '#(MAINTOGEL365) (ROLOKAB111) : 73*82*86';
-
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ROMAN168*00*98*06';
