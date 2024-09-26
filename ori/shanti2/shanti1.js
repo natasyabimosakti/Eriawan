@@ -28,7 +28,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'TANGGO10 : 40*57*01 #TEMPOTOTO';
 
 var namagroup5 = 'Wellz';
-var Comment5 = 'SIJITOGEL TASMANIA2 66*08*20';
+var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78';
