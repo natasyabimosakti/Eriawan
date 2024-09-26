@@ -15,7 +15,6 @@
 // ==/UserScript==
 
 
-
 var namagroup1 = 'Wellz';
 var Comment1 = 'SIJITOGEL PETRUK99 62*71*12';
 
@@ -46,8 +45,8 @@ var Comment9 = '#BLITAR4D ( PUSING777 ) : 30*09*35';
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (PAYAH999) : 67*81*64';
 
-var namagroup11 = 'KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (PUNK888) 47*46*42';
+var namagroup11 = 'PUSAT';
+var Comment11 = 'Shiotogel4d (TIRAMISU37) 47*46*42';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'PUSH565 : 67*81*64 #BESTOTO88';
