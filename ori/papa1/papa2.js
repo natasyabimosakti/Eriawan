@@ -45,7 +45,7 @@ var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (YUKJUM35) : 38*70*06';
 
 var namagroup11 = 'ORMASTOTO';
-var Comment11 = 'ORMASTOTO(YELIGUK88) : 81*79*66';
+var Comment11 = 'ORMASTOTO(YOUARE05) : 81*79*66';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'YEYEK001 : 38*70*06 #BESTOTO88';
