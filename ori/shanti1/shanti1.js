@@ -46,7 +46,7 @@ var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (PAYAH999) : 67*81*64';
 
 var namagroup11 = 'PUSAT';
-var Comment11 = 'Shiotogel4d (TIRAMISU37) 47*46*42';
+var Comment11 = 'Shiotogel4d (PERAK689) 47*46*42';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'PUSH565 : 67*81*64 #BESTOTO88';
