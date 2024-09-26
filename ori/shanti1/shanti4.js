@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.31
+// @version      1.32
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -27,8 +27,8 @@ var Comment3 = '‌#RNR303(HIYAS680) : 93*70*95';
 var namagroup4 = 'TEMPO';
 var Comment4 = 'HAYO456 : 88*20*68 #TEMPOTOTO';
 
-var namagroup5 = 'OTU';
-var Comment5 = 'OTUSLOT*HIWER313*08*56*24*BETTING';
+var namagroup5 = 'VESPA7093L';
+var Comment5 = 'VESPATOGEL (NARITA74) 08*56*24';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (HOMBRENG898) = 91*54*05';
@@ -45,8 +45,8 @@ var Comment9 = '#BLITAR4D ( HOMBRENG898 ) : 83*04*44';
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (HIWER313) : 49*11*92'; 
 
-var namagroup11 = 'KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (HAUNG555) 85*93*70'; 
+var namagroup11 = 'PUSAT';
+var Comment11 = 'Shiotogel4d (HANTAR999) 85*93*70';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'HOTANG444 : 08*56*24 #BESTOTO88';
@@ -68,9 +68,8 @@ var Comment16 = 'CITA4D*HANTUPA909*00*99*85';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (NARITA74) 37*95';
 
-var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL (NARITA74) 08*56*24';
-
+var namagroup18 = 'MALAM';
+var Comment18 = 'OTUSLOT*HIWER313*08*56*24*BETTING';
 
 var refresh = 50;
 
