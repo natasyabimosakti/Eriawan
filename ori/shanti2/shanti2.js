@@ -27,7 +27,7 @@ var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'QIQIK38 : 63*34*87 #TEMPOTOTO';
 
 var namagroup5 = 'Wellz';
-var Comment5 = 'SIJITOGEL QUANTUM33 59*50*30';
+var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (QWANDU66) 77*43*93';
