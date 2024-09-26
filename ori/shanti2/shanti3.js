@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.29
+// @version      1.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
@@ -14,9 +14,8 @@
 // @grant        window.close
 // ==/UserScript==
 
-
-var namagroup1 = 'Wellz';
-var Comment1 = 'SIJITOGEL RAMPOK84 71*95*06';
+var namagroup1 = 'VESPA7093L';
+var Comment1 = 'VESPATOGEL (ROLOKAB111) 71*95*06';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( RUBIC767 ) : 73*82*86';
@@ -27,8 +26,9 @@ var Comment3 = '‌#RNR303(RAPID393) : 28*52*04';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'READY727 : 76*45*27 #TEMPOTOTO';
 
-var namagroup5 = 'OTU';
-var Comment5 = 'OTUSLOT*REAL969*61*35*98*BETTING';
+
+var namagroup5 = 'Wellz';
+var Comment5 = 'SIJITOGEL REAL969 61*35*98';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (REALIS147) 18*75*17';
@@ -45,8 +45,8 @@ var Comment9 = '#BLITAR4D ( ROTTAN131 ) : 49*60*23';
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (RUNNING765) : 18*75*17';
 
-var namagroup11 = 'KEBAYA4D';
-var Comment11 = '(KEBAYA4D) = (RAKNYAM777) 49*60*23';
+var namagroup11 = 'DIVA4D';
+var Comment11 = '#DIVA4D (RAKNYAM777) = 49*60*23';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'REOTKAB475 : 61*35*00 #BESTOTO88';
@@ -68,8 +68,8 @@ var Comment16 = 'CITA4D*ROMAN168*00*98*06';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (ROLOKAB111) 71*95';
 
-var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL (ROLOKAB111) 71*95*06';
+var namagroup18 = 'KOSONG';
+var Comment18 = 'KOSONG';
 
 
 
