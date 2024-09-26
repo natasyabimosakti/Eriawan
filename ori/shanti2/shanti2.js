@@ -14,8 +14,8 @@
 // @grant        window.close
 // ==/UserScript==
 
-var namagroup1 = 'Wellz';
-var Comment1 = 'SIJITOGEL QUANTUM33 59*50*30';
+var namagroup1 = 'VESPA7093L';
+var Comment1 = 'VESPATOGEL (QONCCER88) 59*50*30';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( QQCHERY88 ) : 65*26*24';
@@ -26,8 +26,8 @@ var Comment3 = '‌#RNR303(QIBAAT50) : 44*03*46';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'QIQIK38 : 63*34*87 #TEMPOTOTO';
 
-var namagroup5 = 'OTU';
-var Comment5 = 'OTUSLOT*QUIINE91*72*05*85*BETTING';
+var namagroup5 = 'Wellz';
+var Comment5 = 'SIJITOGEL QUANTUM33 59*50*30';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (QWANDU66) 77*43*93';
@@ -65,8 +65,8 @@ var Comment16 = 'CITA4D*QUEEN710*88*85*30';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (QONCCER88) 59*50';
 
-var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL (QONCCER88) 59*50*30';
+var namagroup18 = 'MALAM';
+var Comment18 = 'MALAM (QONCCER88) 59*50*30';
 
 
 
