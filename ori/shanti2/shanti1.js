@@ -15,8 +15,8 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'Wellz';
-var Comment1 = 'SIJITOGEL TASMANIA2 66*08*20';
+var namagroup11 = 'VESPA7093L';
+var Comment1 = 'VESPATOGEL (TONGKOL65) 66*08*20';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TUNDER18 ) : 21*84*64';
@@ -27,8 +27,8 @@ var Comment3 = '‌#RNR303(THANKYOU99) : 94*96*99';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'TANGGO10 : 40*57*01 #TEMPOTOTO';
 
-var namagroup5 = 'OTU';
-var Comment5 = 'OTUSLOT*TAHUTOK50*74*68*19*BETTING';
+var namagroup5 = 'Wellz';
+var Comment5 = 'SIJITOGEL TASMANIA2 66*08*20';
 
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78';
@@ -66,8 +66,8 @@ var Comment16 = 'CITA4D*TIGERS387*55*19*20';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (TASMANIA2) 66*08';
 
-var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL (TONGKOL65) 66*08*20';
+var namagroup18 = 'MALAM';
+var Comment18 = 'KOSONG';
 
 var refresh = 40;
 
