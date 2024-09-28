@@ -46,7 +46,7 @@ var Comment10 = '#JNETOTO(SOPHIA38)*62*37*15';
 
 var namagroup11 = 'CUYTOTO';
 var Comment11 = 
-'CUYTOTO**SEMBILAN8*07*65*50';
+'CUYTOTO*SEMBILAN8*07*65*50';
 
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY SOUP88 60*59*40'; 
