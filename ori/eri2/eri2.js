@@ -44,8 +44,9 @@ var Comment9 = 'GILA4D=QOPILU09=67*49*28';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(QESBAH72)*85*31*63'; 
 
-var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*QANWIR77*67*49*28*'; 
+var namagroup11 = 'CUYTOTO';
+var Comment11 = 
+'CUYTOTO*QANWIR77*67*49*28'; 
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY QURBAN05 82*68*61'; 
