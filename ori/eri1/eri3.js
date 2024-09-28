@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.30
+// @version      2.31
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -18,18 +18,18 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*MANDRA12*49*84'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO MANIK89 73*94*06'; 
+var Comment2 = 'IYATOTO MANIK89 49*84*72'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / MALUKU12 / 87 , 57 , 05'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=MALAY12=03*27*91'; 
+var Comment4 = 'GAIB4D=MALAY12=87*57*05'; 
 
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (MANIA30) = 73*94*06'; 
 
-var namagroup6 = 'KIOST0T0';
+var namagroup6 = 'MENARA';
 var Comment6 = 'KIOSTOTO=MALIBU31=39*13*64'; 
 
 var namagroup7 = '453P';
@@ -39,19 +39,19 @@ var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=MASIBAN30=85*98*30'; 
 
 var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=MANDRA39=85*98*30'; 
+var Comment9 = 'GILA4D=MANDRA39=03*27*91'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(MARIA19)*87*57*05'; 
+var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*MASIKA12*85*98*30*'; 
 
 var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY MAMIMU19 03*27*91'; 
+var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
 
-var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( MANDRA16 ) : 41*93*71'; 
+var namagroup13 = 'JPMANIA';
+var Comment13 = '#JPMANIA*MANDRA16*41*93*71*'
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 41*93*71 ( MALIMUN39 )'; 
