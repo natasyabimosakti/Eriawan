@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.33
+// @version      2.34
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -18,13 +18,13 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*NANA19*28*65'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO NAINDRA18 46*33*21'; 
+var Comment2 = 'IYATOTO NAINDRA18 28*65*54'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / NARINA90 / 68 , 14 , 81'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=NAMIA30=47*45*00'; 
+var Comment4 = 'GAIB4D=NAMIA30=68*14*81'; 
 
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (NARINA10) = 46*33*21'; 
@@ -42,7 +42,7 @@ var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(NAMIYA19)*68*14*81'; 
+var Comment10 = '#JNETOTO(NAMIYA19)*23*59*12'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*NARINA28*23*59*12*'; 
@@ -50,8 +50,8 @@ var Comment11 = '#TA*NARINA28*23*59*12*';
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY NASTINA19 47*45*00'; 
 
-var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( NABARU21 ) : 24*66*80'; 
+var namagroup13 = 'JPMANIA';
+var Comment13 = '#JPMANIA*NABURI21*24*66*80*'
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
