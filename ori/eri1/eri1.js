@@ -18,19 +18,19 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*PANCENSU432*25*31'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO PAKBULL576 26*04*32'; 
+var Comment2 = 'IYATOTO PAKBULL576 25*31*89'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / POKEK909 / 74 , 10 , 34'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=POMPOM809=52*35*19'; 
+var Comment4 = 'GAIB4D=POMPOM809=74*10*34'; 
 
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (POSYAN676) = 26*04*32'; 
 
 var namagroup6 = 'MENARA';
-var Comment6 = '#MENARA4D=PERAK689= 61*77';
+var Comment6 = '#MENARA4D=PERAK689= 26*04';
 
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL PAKAI333 61*77*55'; 
@@ -42,7 +42,7 @@ var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=PUSING777=99*60*92'; 
 
 var namagroup10 = 'JNETOOTO';
-var Comment10 = '#JNETOTO(PAYAH999)*74*10*34'; 
+var Comment10 = '#JNETOTO(PAYAH999)*99*60*92'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*PUNK888*99*60*92*'; 
@@ -50,8 +50,8 @@ var Comment11 = '#TA*PUNK888*99*60*92*';
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY PUSH565 52*35*19'; 
 
-var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( PUCHER333 ) : 20*18*75'; 
+var namagroup13 = 'JPMANIA';
+var Comment13 = '#JPMANIA*PUCHER333*20*18*75*';
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 20*18*75 ( PIANG212 )'; 
@@ -59,8 +59,8 @@ var Comment14 = '#DENTOTO 20*18*75 ( PIANG212 )';
 var namagroup15 = 'Hoho';
 var Comment15 = 'PAKAI333 : 63*51*29 #HOHOTOGEL';
 
-var namagroup16 = 'MALAM';
-var Comment16 = 'fb01'; 
+var namagroup16 = 'CUYTOTO';
+var Comment16 = 'CUYTOTO*PUNK888*63*51*90';
 
 var namagroup17 = 'BELUM';
 var Comment17 = ''; 
