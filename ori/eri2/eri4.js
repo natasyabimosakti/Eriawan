@@ -93,7 +93,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani",
+var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna",
 "bela","baran","bambang",
 "chandra","clone","camb","chantika","chikaku",
 "dika",
@@ -101,19 +101,20 @@ var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adi
 "flanella","fu","faiq","flo","feronika",
 "gates","gita",
 "hefi","hartono",
-"jaguar","junior","jie",
+"jaguar","junior","jie","jewels","jess","je pe",
 "lawu",
 "kembar","kaphal","kumbara","kusnandar",
 "lasmana","laaelaay","loetoe","liu",
-"mang","melati",
+"mang","melati","megaways","miira",
 "nella","neman","nyelot",
 "own","offcial",
 "punama",
 "ran","ria","rm","rizal","raangkuti",
-"shiokelinci","sari","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo",
+"shiokelinci","sari","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
 "tink","tatang","toto","teamoe","toyib","terpecaya",
 "uuch",
 "vargas",
+"xabiru",
 "yansah","yana"];
 
 
