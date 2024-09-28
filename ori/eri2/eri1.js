@@ -44,8 +44,10 @@ var Comment9 = 'GILA4D=TIKTOK2024=52*38*32';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(TOPIKU777)*64*44*24'; 
 
-var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*TUNA123*52*38*32*'; 
+var namagroup11 = 'CUYTOTO';
+var Comment11 = 
+'CUYTOTO*TUNA123*52*38*32'; 
+ 
 
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY TERANG93 77*81*33'; 
