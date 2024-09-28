@@ -60,8 +60,8 @@ var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
 var namagroup15 = 'Hoho';
 var Comment15 = 'HUSUR009 : 40*48*58 #HOHOTOGEL';
 
-var namagroup16 = 'MALAM';
-var Comment16 = 'MASUK DEVI';
+var namagroup16 = 'CUYTOTO';
+var Comment16 = 'CUYTOTO*NARITA74*40*48*88'; 
 
 var namagroup17 = 'SIANG';
 var Comment17 = 'CC';
