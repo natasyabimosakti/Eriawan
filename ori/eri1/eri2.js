@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.32
+// @version      2.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -18,19 +18,19 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*LAMDAL36*07*82'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO LANDAK19 02*22*83'; 
+var Comment2 = 'IYATOTO LANDAK19 07*82*62'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / LANDI72 / 16 , 97 , 08'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=LARASTI19=44*37*15'; 
+var Comment4 = 'GAIB4D=LARASTI19=16*97*08'; 
 
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (LARIKA19) = 02*22*83'; 
 
-var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=LANYO19=01*96*86'; 
+var namagroup6 = 'MENARA';
+var Comment6 = '#MENARA4D=LANLAN73= 02*22';
 
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL LALILA29 01*96*86'; 
@@ -39,19 +39,20 @@ var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=LAINNYA19=76*53*95'; 
 
 var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=LUWAK38=76*53*95'; 
+var Comment9 = 'GILA4D=LUWAK38=44*37*15'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(LUWIN40)*16*97*08'; 
+var Comment10 = '#JNETOTO(LUWIN40)*44*37*15'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*LIANDAN99*76*53*95*'; 
 
 var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY LIMAU94 44*37*15'; 
+var Comment12 = 'TOGELKUY LIMAU94 76*53*95'; 
 
-var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( LIASTI39 ) : 36*43*67'; 
+var namagroup13 = 'JPMANIA';
+var Comment13 = 
+'#JPMANIA*LIASTI39*36*43*67*'
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 36*43*67 ( LIAN328 )'; 
@@ -59,8 +60,8 @@ var Comment14 = '#DENTOTO 36*43*67 ( LIAN328 )';
 var namagroup15 = 'Hoho';
 var Comment15 = 'JAJAN777 : 79*50*09 #HOHOTOGEL';
 
-var namagroup16 = 'JAWA';
-var Comment16 = ''; 
+var namagroup16 = 'CUYTOTO';
+var Comment16 = 'CUYTOTO*LAMBAT123*79*50*69'; 
 
 var namagroup17 = 'MALAM';
 var Comment17 = 'COBA TES';
