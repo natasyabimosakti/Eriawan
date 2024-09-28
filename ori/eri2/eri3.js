@@ -44,8 +44,10 @@ var Comment9 = 'GILA4D=ROTTAN131=66*95*29';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(RUNNING765)*78*75*92'; 
 
-var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*RAKNYAM777*66*95*29*'; 
+var namagroup11 = 'CUYTOTO';
+var Comment11 = 
+'CUYTOTO*RAKNYAM777*66*95*29';
+
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY REOTKAB475 20*03*89'; 
