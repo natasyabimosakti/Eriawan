@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.29
+// @version      2.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -44,8 +44,9 @@ var Comment9 = 'GILA4D=SENADA17=07*65*50';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(SOPHIA38)*62*37*15'; 
 
-var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*SEMBILAN8*07*65*50*'; 
+var namagroup11 = 'CUYTOTO';
+var Comment11 = 
+'CUYTOTO**SEMBILAN8*07*65*50';
 
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY SOUP88 60*59*40'; 
@@ -93,7 +94,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna",
+var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka",
 "bela","baran","bambang",
 "chandra","clone","camb","chantika","chikaku",
 "dika",
@@ -103,7 +104,7 @@ var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adi
 "hefi","hartono",
 "jaguar","junior","jie","jewels","jess","je pe",
 "lawu",
-"kembar","kaphal","kumbara","kusnandar",
+"kembar","kaphal","kumbara","kusnandar","kamado",
 "lasmana","laaelaay","loetoe","liu",
 "mang","melati","megaways","miira",
 "nella","neman","nyelot",
@@ -112,7 +113,7 @@ var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adi
 "ran","ria","rm","rizal","raangkuti",
 "shiokelinci","sari","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
 "tink","tatang","toto","teamoe","toyib","terpecaya",
-"uuch",
+"uuch","ujang",
 "vargas",
 "xabiru",
 "yansah","yana"];
