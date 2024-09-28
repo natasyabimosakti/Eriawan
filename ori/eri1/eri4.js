@@ -29,8 +29,9 @@ var Comment4 = 'GAIB4D=NAMIA30=68*14*81';
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (NARINA10) = 46*33*21'; 
 
-var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=NASITA19=11*78*56'; 
+var namagroup6 = 'MENARA';
+var Comment6 = '#MENARA4D=NASITA19= 46*33';
+
 
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL NAMIRA10 11*78*56'; 
