@@ -59,8 +59,8 @@ var Comment14 = '#DENTOTO 41*93*71 ( MALIMUN39 )';
 var namagroup15 = 'Hoho';
 var Comment15 = 'INDRO787 : 38*17*42 #HOHOTOGEL';
 
-var namagroup16 = 'JAWA';
-var Comment16 = ''; 
+var namagroup16 = 'CUYTOTO';
+var Comment16 = 'CUYTOTO*MADSOLAR77*38*17*70';
 
 var namagroup17 = 'MALAM';
 var Comment17 = 'MALAM FB3';
