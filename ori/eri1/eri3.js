@@ -30,7 +30,7 @@ var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (MANIA30) = 73*94*06'; 
 
 var namagroup6 = 'MENARA';
-var Comment6 = '#MENARA4D=MALIBU31= 73*94';
+var Comment6 = '#MENARA4D=MANIA30= 73*94';
 
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL MARIA72 39*13*64'; 
