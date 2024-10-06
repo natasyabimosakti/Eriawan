@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.35
+// @version      2.36
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
