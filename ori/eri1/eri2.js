@@ -35,8 +35,8 @@ var Comment6 = '#MENARA4D=LANLAN73= 02*22';
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL LALILA29 01*96*86'; 
 
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=LAINNYA19=76*53*95'; 
+var namagroup8 = 'Pasar';
+var Comment8 = 'PAJAKTOTO(LAINNYA19) : 01*96';
 
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=LUWAK38=44*37*15'; 
