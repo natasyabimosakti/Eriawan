@@ -35,8 +35,8 @@ var Comment6 = '#MENARA4D=PERAK689= 26*04';
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL PAKAI333 61*77*55'; 
 
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=PUANCEN444=99*60*92'; 
+var namagroup8 = 'Pasar';
+var Comment8 = 'PAJAKTOTO(PUANCEN444) : 61*77';
 
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=PUSING777=99*60*92'; 
