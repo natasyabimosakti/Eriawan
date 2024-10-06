@@ -35,8 +35,8 @@ var Comment6 = '#MENARA4D=MANIA30= 73*94';
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL MARIA72 39*13*64'; 
 
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=MASIBAN30=85*98*30'; 
+var namagroup8 = 'Pasar';
+var Comment8 = 'PAJAKTOTO(MASIBAN30) : 39*13';
 
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=MANDRA39=03*27*91'; 
