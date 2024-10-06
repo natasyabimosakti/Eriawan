@@ -36,8 +36,8 @@ var Comment6 = '#MENARA4D=NASITA19= 46*33';
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL NAMIRA10 11*78*56'; 
 
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=NAMBIA30=23*59*12'; 
+var namagroup8 = 'Pasar';
+var Comment8 = 'PAJAKTOTO(NAMBIA30) : 11*78';
 
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
