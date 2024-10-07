@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.34
+// @version      1.35
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -93,7 +93,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","aprillia","aza","azura","arang","ace","ajosultan87","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika",
+var admin = ["angeline","aprillia","aza","azura","arang","ace","ajosultan87","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
