@@ -26,8 +26,8 @@ var Comment3 = 'Shiotogel4d (ZAMBORE77) 14*50*71';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'ZIGZAG66 : 14*61*50 #TEMPOTOTO';
 
-var namagroup5 = 'RNR303';
-var Comment5 = '‌#RNR303(ZZZZZZ66) : 26*31*67';
+var namagroup5 = 'SILA';
+var Comment5 = '‌#SILATOGEL*ZZZZZZ66*26*31*67*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (ZAPP313) = 26*31*67';
@@ -38,14 +38,14 @@ var Comment7 = 'SIJITOGEL ZUZUZU88 59*65*75';
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 59*65*75';
 
-var namagroup9 = 'OTU';
-var Comment9 = 'OTUSLOT*ZONARED44*76*45*34*BETTING';
+var namagroup9 = 'VESPA7093L';
+var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (ZUKAZUKA01) : 76*45*34';
 
-var namagroup11 = 'ORMASTOTO';
-var Comment11 = 'ORMASTOTO(ZONGG000) : 78*94*99';
+var namagroup7 = 'XX1TOTO';
+var Comment7 = '#XX1TOTO (ZUMBA78) 78*94*99 BETTING';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'ZUMIE22 : 78*94*99 #BESTOTO88';
@@ -65,7 +65,7 @@ var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (ZUKAZUKA01) 84*51';
 
-var namagroup18 = 'VESPA7093L';
+var namagroup18 = 'bocahhh';
 var Comment18 = 'VESPATOGEL (ZONARED44) 76*45*34';
 
 var refresh = 50;
