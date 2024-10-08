@@ -20,8 +20,8 @@ var Comment1 = 'VESPATOGEL (ROLOKAB111) 71*95*06';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( RUBIC767 ) : 73*82*86';
 
-var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(RAPID393) : 28*52*04';
+var namagroup3 = 'SILA';
+var Comment3 = '‌#SILATOGEL*RAPID393*28*52*04*BETTING';
 
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'READY727 : 76*45*27 #TEMPOTOTO';
