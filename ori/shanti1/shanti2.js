@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.42
+// @version      1.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -24,8 +24,11 @@ var Comment1 = 'SIJITOGEL JERUJI111 74*13*14';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( JUKIRR777 ) : 48*07*27'; 
 
+var namagroup3 = 'SILA';
+var Comment3 = '‌#SILATOGEL*JARWO333*89*25*76*BETTING';
+
 var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(JARWO333) : 89*25*76'; 
+var Comment3 = '‌#RNR303() : '; 
 
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'JUJUR444 : 90*26*65 #TEMPOTOTO';
@@ -36,8 +39,8 @@ var Comment5 = 'OTUSLOT*JIWA555*87*73*28*BETTING';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (JUALAN666) = 02*41*22'; 
 
-var namagroup7 = 'ORMASTOTO';
-var Comment7 = 'ORMASTOTO(JAJAN777) : 60*51*77';
+var namagroup7 = 'XX1TOTO';
+var Comment7 = '#XX1TOTO (JONGKOK222) 60*51*77 BETTING';
 
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( JURANG888 ) : 69*36*78'; 
@@ -97,16 +100,16 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","amoy","arang","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
+var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah",
-"cila","cindy","cantika","claudia","cucu","cintiya","chandra",
+"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
 "erlangga","elmina","erina","elisa",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki",
-"inisial","ilmi",
-"jhon","jasmine","jeremy","judi","jodi","jesika","junior",
+"inisial","ilmi","ika",
+"jhon","jasmine","jeremy","judi","jodi","jesika","junior","jhing",
 "karas","kembar","kakakemon","kusmayanti",
 "langit","lomba","laura","lowati","lisna","lomba",
 "mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
@@ -114,14 +117,13 @@ var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","amoy","ara
 "ori","odgj","oscar","over","ouschan",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","pratama","prediksi","pram",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
-"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter",
+"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla",
 "togel","toto","tan",
 "vasquez","vina",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
 "xabiru",
 "yuli","yosephine","yeti","yanto","yoky",
 "zhelonk","zurrotul"];
-
 
 
 var keyword1 = "ROOM"
