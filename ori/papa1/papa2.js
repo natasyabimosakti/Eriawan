@@ -26,8 +26,8 @@ var Comment3 = 'Shiotogel4d (YEEZZ35) 19*46*93';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'YONGMAS88 : 15*47*25 #TEMPOTOTO';
 
-var namagroup3 = 'SILA';
-var Comment3 = '‌#SILATOGEL*YIYIYI65*12*58*37*BETTING';
+var namagroup5 = 'SILA';
+var Comment5 = '‌#SILATOGEL*YIYIYI65*12*58*37*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (YELYEL02) = 80*42*22';
@@ -38,15 +38,15 @@ var Comment7 = 'SIJITOGEL YUPPIE54 12*25*37';
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( YUYU666 ) : 80*42*22';
 
-var namagroup9 = 'OTU';
-var Comment9 = 'OTUSLOT*YUKWIN09*81*79*66*BETTING';
+var namagroup9 = 'VESPA7093L';
+var Comment9 = 'VESPATOGEL (YUKWIN09) 81*79*66';
 
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (YUKJUM35) : 38*70*06';
 
 
-var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (YOUARE05) 81*79*66 BETTING';
+var namagroup11 = 'XX1TOTO';
+var Comment11 = '#XX1TOTO (YOUARE05) 81*79*66 BETTING';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'YEYEK001 : 38*70*06 #BESTOTO88';
@@ -68,7 +68,7 @@ var Comment16 = 'CITA4D*YIMBO55*83*32*40';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (YUKJUM35) 40*17';
 
-var namagroup18 = 'VESPA7093L';
+var namagroup18 = 'JGGRSFSDS';
 var Comment18 = 'VESPATOGEL (YUKWIN09) 81*79*66';
 
 
