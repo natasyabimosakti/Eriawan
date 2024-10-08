@@ -26,8 +26,8 @@ var Comment3 = 'Shiotogel4d (XXXAGE30) 02*13*07';
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'XLXL456 : 57*24*90 #TEMPOTOTO';
 
-var namagroup5 = 'RNR303';
-var Comment5 = '‌#RNR303(XBOGV6) : 52*43*04';
+var namagroup5 = 'SILA';
+var Comment5 = '‌#SILATOGEL*XBOGV6*52*43*04*BETTING';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (XEXEK90) = 02*13*07';
@@ -44,8 +44,8 @@ var Comment9 = 'OTUSLOT*XERABUT22*39*60*29*BETTING';
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (XCONE55) : 05*82*03';
 
-var namagroup11 = 'ORMASTOTO';
-var Comment11 = 'ORMASTOTO(XYOU555) : 39*98*08';
+var namagroup11 = 'XX1TOTO';
+var Comment11 = '#XX1TOTO (XYOU555) 39*98*08 BETTING';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'XKEYPAS34 : 23*60*29 #BESTOTO88';
