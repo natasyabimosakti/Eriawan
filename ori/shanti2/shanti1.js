@@ -21,8 +21,8 @@ var Comment1 = 'VESPATOGEL (TONGKOL65) 66*08*20';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TUNDER18 ) : 21*84*64';
 
-var namagroup3 = 'RNR303';
-var Comment3 = '‌#RNR303(THANKYOU99) : 94*96*99';
+var namagroup3 = 'SILA';
+var Comment3 = '‌#SILATOGEL*THANKYOU99*94*96*99*BETTING';
 
 var namagroup4 = 'TEMPOTOTO';
 var Comment4 = 'TANGGO10 : 40*57*01 #TEMPOTOTO';
