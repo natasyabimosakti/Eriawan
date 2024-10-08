@@ -34,7 +34,7 @@ var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78';
 
 var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (TALKLESS100) 37*25*47 BETTING';
+var Comment7 = '#XX1TOTO (TONGKOL65) 37*25*47 BETTING';
 
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( TASTY89 ) : 37*25*47';
