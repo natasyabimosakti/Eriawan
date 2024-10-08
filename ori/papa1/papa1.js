@@ -44,8 +44,8 @@ var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
 var namagroup10 = 'SLOTOGEL';
 var Comment10 = '#SLOTOGEL (ZUKAZUKA01) : 76*45*34';
 
-var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (ZUMBA78) 78*94*99 BETTING';
+var namagroup11 = 'XX1TOTO';
+var Comment11 = '#XX1TOTO (ZUMBA78) 78*94*99 BETTING';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'ZUMIE22 : 78*94*99 #BESTOTO88';
