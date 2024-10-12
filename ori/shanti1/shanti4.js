@@ -42,10 +42,8 @@ var Comment8 = 'Tok99Toto ( HAIBER757 ) : 83*04*44';
 var namagroup9 = 'BLITAR4D';
 var Comment9 = '#BLITAR4D ( HOMBRENG898 ) : 83*04*44';
 
-
 var namagroup10 = 'RNR303';
-var Comment10 = '#RNR303(HIYAS680) : 49*11*82';
-
+var Comment10 = '#RNR303(HIYAS680) : 49*11*92';
 
 var namagroup11 = 'PUSAT';
 var Comment11 = 'Shiotogel4d (HANTAR999) 85*93*70';
