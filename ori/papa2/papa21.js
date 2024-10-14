@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js?token=GHSAT0AAAAAACVLS7EMOKYTIFBAPIWGMULOZWLJLEA
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js?token=GHSAT0AAAAAACVLS7EMOKYTIFBAPIWGMULOZWLJLEA
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -30,25 +30,25 @@ var Comment4 = 'GAIB4D=ZIGZAG66=17*75*58';
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (ZZZZZZ66) = 39*28*10'; 
 
-var namagroup6 = 'KIOST0T0';
-var Comment6 = 'KIOSTOTO=ZAPP313=39*28*10'; 
+var namagroup6 = 'MENARA';
+var Comment6 = '#MENARA4D=ZAPP313= 39*28';
 
 var namagroup7 = '453P VIP';
 var Comment7 = 'ASEPTOGEL ZUZUZU88 78*57*51'; 
 
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=ZOMBIE22=78*57*51'; 
+var namagroup8 = 'Pasar';
+var Comment8 = 'PAJAKTOTO(ZAMA737) : 78*57'; 
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=ZONARED44=41*61*86'; 
 
-var namagroup10 = 'JNE';
+var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(ZUKAZUKA01)*41*61*86'; 
 
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ZONGG000*67*82*22*'; 
 
-var namagroup12 = 'MASTER KUY';
+var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY ZUMIE22 67*82*22'; 
 
 var namagroup13 = 'TOYIBSLOT';
@@ -57,15 +57,14 @@ var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19*80';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 36*19*80 ( YOUPUB33 )'; 
 
-var namagroup15 = 'ORMASTOTO';
-var Comment15 = 'ORMASTOTO(ZUMBA78) : 71*74*48';
+var namagroup15 = 'JPMANIA';
+var Comment15 = '#JPMANIA*ZUMBA78*71*74*48*';
 
-var namagroup16 = 'NEMO';
-var Comment16 = 'NEMO4D (ZUMMO28) : 71*74*48'; 
+var namagroup16 = 'Hoho';
+var Comment16 = 'ZUZUZU88 : 71*74*99 #HOHOTOGEL';
 
 var namagroup17 = 'KADALLLAL';
 var Comment17 = '#BUNTUNG = 65*50';
-
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Bosku1';
@@ -94,7 +93,30 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = [" ","nyocol","gita","rikodo","adiat","david",",dewa","wulan","andy","desi","erwin","mey","lusiana","fahresa","rizal","jordi","surianti","satria","boleng","yanty","pung","tiara","cristina","fira","ayunda","mersya","nona","camb","jaguar","Siâo","primus","habib","cassa","neng","arxidi","che","aldi","nino","sofia","sonia","serena","alde","puput","mad","hefi","dika","iyatoto","adm","celsia","jne","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","tiktak","nella","novi","sandiego","nasution","ratu","priyan","san","ria","sanjaya","siska","biru","aditia","keitogel","safar","mahendra","multi","mariana","neman","tatang","dewi","primus","roy","dewi","melati","kumbara","dentoto","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy"];
+var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa",
+"bela","baran","bambang","bogard",
+"chandra","clone","camb","chantika","chikaku",
+"dika","delon",
+"ethes",
+"flanella","fu","faiq","flo","feronika",
+"gates","gita",
+"hefi","hartono",
+"jaguar","junior","jie","jewels","jess","je pe",
+"lawu","lowati",
+"kembar","kaphal","kumbara","kusnandar","kamado","khawn",
+"lasmana","laaelaay","loetoe","liu","langit","luvika",
+"mang","melati","megaways","miira","meilani",
+"nella","neman","nyelot","naumi","nattacha",
+"own","offcial",
+"punama","prediction","priqittyu",
+"ran","ria","rm","rizal","raangkuti",
+"shiokelinci","sari","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
+"tink","tatang","toto","teamoe","toyib","terpecaya","triana",
+"uuch","ujang",
+"vargas",
+"xabiru",
+"yansah","yana"];
+
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
