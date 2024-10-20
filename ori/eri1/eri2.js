@@ -38,7 +38,7 @@ var Comment7 = 'ASEPTOGEL LALILA29 01*96*86';
 var namagroup8 = 'Pasar';
 var Comment8 = 'PAJAKTOTO(LAINNYA19) : 01*96';
 
-var namagroup9 = 'G1LA';
+var namagroup9 = 'GIL4';
 var Comment9 = 'GILA4D=LUWAK38=44*37*15'; 
 
 var namagroup10 = 'JNE';
