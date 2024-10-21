@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.39
+// @version      1.40
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -116,7 +116,7 @@ var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","ara
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
 "xabiru",
 "yuli","yosephine","yeti","yanto","yoky",
-"zhelonk","zurrotul"];
+"zhelonk","zimbabwe","zurrotul"];
 
 
 var keyword1 = "ROOM"
