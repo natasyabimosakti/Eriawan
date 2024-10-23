@@ -60,7 +60,7 @@ var namagroup15 = 'JPMANIA';
 var Comment15 = '#JPMANIA*XYOU555*05*15*29*';
 
 var namagroup16 = 'Hoho';
-var Comment16 = 'XENIA950 : 05*15*00 #HOHOTOGEL';
+var Comment16 = 'XIKPRO34 : 05*15*00 #HOHOTOGEL';
 
 var namagroup17 = 'KADALLLAL';
 var Comment17 = '#BUNTUNG = 65*50';
