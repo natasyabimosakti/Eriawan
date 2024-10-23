@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.01
+// @version      1.02
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -38,7 +38,7 @@ var Comment7 = 'ASEPTOGEL WINXXX99 11*01*62';
 var namagroup8 = 'Pasar';
 var Comment8 = 'PAJAKTOTO(WEKLOSE09) : 11*01'; 
 
-var namagroup9 = 'G1LA';
+var namagroup9 = 'GIL4';
 var Comment9 = 'GILA4D=WHAWHA24=07*40*79'; 
 
 var namagroup10 = 'JNETOOTO';
