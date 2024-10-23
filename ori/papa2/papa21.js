@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.00
+// @version      1.01
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -70,7 +70,7 @@ var namagroup18 = 'Jawatengah';
 var Comment18 = 'Bosku1';
 
 
-var refresh = 30;
+var refresh = 40;
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
