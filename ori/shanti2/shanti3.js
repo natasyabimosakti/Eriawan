@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.38
+// @version      1.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
@@ -97,7 +97,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
-"base","boboho","bogard","bmkg","bonar","barbar","bawah",
+"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
 "erlangga","elmina","erina","elisa",
@@ -111,7 +111,7 @@ var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","ara
 "mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
 "naumi","na","nada","nyamark","natalia",
 "ori","odgj","oscar","over","ouschan",
-"priqittyu","putra","pasaran","prissia","pey","paw","putri","pratama","prediksi","pram",
+"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell",
 "togel","toto","tan",
