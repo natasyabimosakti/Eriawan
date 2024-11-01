@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.37
+// @version      2.38
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -93,7 +93,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa",
+var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
 "bela","baran","bambang","bogard",
 "chandra","clone","camb","chantika","chikaku",
 "dika","delon",
@@ -101,12 +101,12 @@ var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adi
 "flanella","fu","faiq","flo","feronika",
 "gates","gita",
 "hefi","hartono",
-"jaguar","junior","jie","jewels","jess","je pe",
+"jaguarr","junior","jie","jewels","jess","je pe",
 "lawu","lowati",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara",
 "lasmana","laaelaay","loetoe","liu","langit","luvika",
-"mang","melati","megaways","miira","meilani",
-"nella","neman","nyelot","naumi","nattacha",
+"mang","melati","megaways","miira","meilani","macau",
+"nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial",
 "punama","prediction","priqittyu",
 "ran","ria","rm","rizal","raangkuti",
@@ -128,7 +128,7 @@ var keyword8 = "R00M"
 var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "ROOM"
-var keyword12 = "ROOM"
+var keyword12 = "ℝ𝕆𝕆𝕄"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
