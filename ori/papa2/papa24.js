@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.02
+// @version      1.03
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -93,40 +93,43 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa",
-"bela","baran","bambang","bogard",
-"chandra","clone","camb","chantika","chikaku",
-"dika","delon",
-"ethes",
-"flanella","fu","faiq","flo","feronika",
-"gates","gita",
-"hefi","hartono",
-"jaguar","junior","jie","jewels","jess","je pe",
-"lawu","lowati",
-"kembar","kaphal","kumbara","kusnandar","kamado","khawn",
-"lasmana","laaelaay","loetoe","liu","langit","luvika",
-"mang","melati","megaways","miira","meilani",
-"nella","neman","nyelot","naumi","nattacha",
-"own","offcial",
-"punama","prediction","priqittyu",
-"ran","ria","rm","rizal","raangkuti",
-"shiokelinci","sari","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
-"tink","tatang","toto","teamoe","toyib","terpecaya","triana",
-"uuch","ujang",
-"vargas",
+var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
+"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps",
+"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
+"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
+"erlangga","elmina","erina","elisa",
+"fischer","ferlita","fahresa","fais","febia","fatimm","fox",
+"gates","gandul","geboyy","gene","gita",
+"hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki",
+"inisial","ilmi","ika",
+"jhon","jasmine","jeremy","judi","jodi","jesika","junior","jhing",
+"karas","kembar","kakakemon","kusmayanti",
+"langit","lomba","laura","lowati","lisna","lomba",
+"mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
+"naumi","na","nada","nyamark","natalia",
+"ori","odgj","oscar","over","ouschan",
+"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
+"rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
+"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell",
+"togel","toto","tan",
+"vasquez","vina",
+"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
 "xabiru",
-"yansah","yana"];
+"yuli","yosephine","yeti","yanto","yoky",
+"zhelonk","zimbabwe","zurrotul"];
+
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
 var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
-var keyword6 = "LIMBA"
+var keyword6 = "Lomba"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "login"
+var keyword9 = "R0M"
 var keyword10 = "𝐑𝐎𝐎𝐌"
+var keyword11 = "Ro0M"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -137,9 +140,8 @@ var Backlist6 = "result";
 var Backlist7 = "result";
 
 
-var jitter = 0
+
 var myrefresh = setInterval(function(){
- window.scroll(0,100)
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
@@ -149,73 +151,352 @@ var myrefresh = setInterval(function(){
         }
         GM.setValue("time", hour);
     }
-    for (let ntv = 0; ntv < document.querySelectorAll('[data-tracking-duration-id').length; ntv++) {
-        if (document.querySelectorAll('[data-tracking-duration-id')[ntv]){
-            // Nama FB
-            var namafb = document.querySelectorAll('[data-tracking-duration-id]')[ntv].getElementsByClassName('native-text')[0];
-            //Jam
-            var jamposting = document.querySelectorAll('[data-tracking-duration-id]')[ntv].getElementsByClassName('native-text')[1];
-            //Postingan
-            var postingan =document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[3];
-            //Comment Box
-            var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
-            // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
-            if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
-                console.log("Jam Ditemukan " + ret)
-                if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword2.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword3.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword4.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword5.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword6.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
-                    console.log("Keyword Ditemukan " + postingan.textContent);
-                    // Cek Backlist
-                    if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist2.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist3.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist4.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist5.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist6.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist7.toLowerCase())){
-                        console.log("Terdaftar Backlist...!  ");
-                        return;
-                    }
-                    console.log("Proses dilanjutkan tidak ada Backlist");
-                    // Cek Admin
-                    for (var adm in admin){
-                        if(namafb.textContent.toLowerCase().includes(admin[adm].toLowerCase())||jamposting.textContent.toLowerCase().includes("admin")||jamposting.textContent.toLowerCase().includes("moderator")){
-                            // Tampilkan Siapa Yang Memposting
-                            if(jamposting.textContent.toLowerCase().includes("admin")||jamposting.textContent.toLowerCase().includes("moderator")){
-                                console.log("Admin yang Memosting = Admin/Moderator");
-                            }else{
-                                console.log("Admin yang Memosting = " + admin[adm]);
+    var jam1 = document.querySelectorAll('[data-tracking-duration-id]')[0].children[0].getElementsByTagName('span')[1].textContent
+    var jam2 = document.querySelectorAll('[data-tracking-duration-id]')[0].children[0].getElementsByTagName('span')[2].textContent
+    var namaadmin = document.querySelectorAll('[data-tracking-duration-id]')[0].children[0].getElementsByTagName('span')[0].textContent
+    var postingan = document.querySelectorAll('[data-tracking-duration-id]')[0].children[1].textContent
+
+    if (jam1.includes("Baru")||jam1.slice(0,7).includes("1 menit")||jam1.slice(0,7).includes("2 menit")||jam1.slice(0,7).includes("3 menit")||jam1.slice(0,7).includes("4 menit")||jam1.slice(0,7).includes("4 menit")||jam2.includes("Baru")||jam2.slice(0,7).includes("1 menit")||jam2.slice(0,7).includes("2 menit")||jam2.slice(0,7).includes("3 menit")||jam2.slice(0,7).includes("4 menit")||jam2.slice(0,7).includes("4 menit")){
+        console.log("Jam Ditemukan " + jam1)
+        if(postingan.toLowerCase().includes(keyword1.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword2.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword3.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword4.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword5.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword6.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword7.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword8.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword9.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword10.toLowerCase())
+           ||postingan.toLowerCase().includes(keyword11.toLowerCase())){
+            console.log("Keyword Ditemukan " + postingan.textContent);
+            // Cek Backlist
+            if(postingan.toLowerCase().includes(Backlist1.toLowerCase())
+               ||postingan.toLowerCase().includes(Backlist2.toLowerCase())
+               ||postingan.toLowerCase().includes(Backlist3.toLowerCase())
+               ||postingan.toLowerCase().includes(Backlist4.toLowerCase())
+               ||postingan.toLowerCase().includes(Backlist5.toLowerCase())
+               ||postingan.toLowerCase().includes(Backlist6.toLowerCase())
+               ||postingan.toLowerCase().includes(Backlist7.toLowerCase())){
+                console.log("Terdaftar Backlist...!  ");
+                return;
+                return;
+                return;
+            }
+            console.log("Proses dilanjutkan tidak ada Backlist");
+            // Click Comment Box
+            document.querySelectorAll('[data-tracking-duration-id]')[0].children[3].querySelectorAll('[data-type="text"]')[1].click()
+            console.log("Click Posting box")
+
+            if(document.getElementsByClassName("multi-line-floating-textbox").length > 0 ){
+                var ceknamagroup
+                var ceknamagroup1
+                var ceknamagroup2
+                var ceknamagroup3
+                var ceknamagroup4
+                'use strict';
+                if( document.getElementsByClassName("fixed-container")[0]){
+                    ceknamagroup = document.getElementsByClassName("fixed-container")[0].textContent;
+                }
+                if( document.getElementsByClassName('native-text')[5]){
+                    ceknamagroup1 = document.getElementsByClassName('native-text')[5].textContent;
+                }
+                if( document.getElementsByClassName('native-text')[6]){
+                    ceknamagroup2 = document.getElementsByClassName('native-text')[6].textContent;
+                }
+                if( document.getElementsByClassName('native-text')[7]){
+                    ceknamagroup3 = document.getElementsByClassName('native-text')[7].textContent;
+                }
+                if( document.getElementsByClassName('native-text')[8]){
+                    ceknamagroup4 = document.getElementsByClassName('native-text')[8].textContent;
+                }
+                for (var adm in admin){
+                    if(namaadmin.toLowerCase().includes(admin[adm].toLowerCase())||jam1.toLowerCase().includes("admin")||jam1.toLowerCase().includes("moderator")){
+
+                        if (ceknamagroup.includes(namagroup1) == true||ceknamagroup1.includes(namagroup1) == true||ceknamagroup2.includes(namagroup1) == true||ceknamagroup3.includes(namagroup1) == true||ceknamagroup4.includes(namagroup1) == true) {
+                            if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 1,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment1;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
                             }
-                            // Click Comment Box
-                            for (var clk = 0; clk < commentbox.length; clk++) {
-                                if(commentbox[clk]){
-                                    if(commentbox[clk].textContent.toLowerCase().includes("jawab")|| commentbox[clk].textContent.toLowerCase().includes("tulis")){
-                                        
-                                        clearInterval(myrefresh);
-                                        console.log("Click Posting box")
-                                        jitter = 0
-                                        commentbox[clk].click()
-                                        game.start()
-                                        return;
-                                    }
-                                }
-                            }
-                            return;
                         }
+                        if (ceknamagroup.includes(namagroup2) == true||ceknamagroup1.includes(namagroup2) == true||ceknamagroup2.includes(namagroup2) == true||ceknamagroup3.includes(namagroup2) == true||ceknamagroup4.includes(namagroup2) == true) {
+                            if (id2 == "" || id2 == undefined || id2 == null ||id2 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 2,1);
+                                /*cek nama group dan tulis commntar*/
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup3) == true||ceknamagroup1.includes(namagroup3) == true||ceknamagroup2.includes(namagroup3) == true||ceknamagroup3.includes(namagroup3) == true||ceknamagroup4.includes(namagroup3) == true) {
+                            if (id3 == "" || id3 == undefined || id3 == null ||id3 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 3,1);
+                                /*cek nama group dan tulis commntar*/
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment3;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup4) == true||ceknamagroup1.includes(namagroup4) == true||ceknamagroup2.includes(namagroup4) == true||ceknamagroup3.includes(namagroup4) == true||ceknamagroup4.includes(namagroup4) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id4 == "" || id4 == undefined || id4 == null ||id4 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 4,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup5) == true||ceknamagroup1.includes(namagroup5) == true||ceknamagroup2.includes(namagroup5) == true||ceknamagroup3.includes(namagroup5) == true||ceknamagroup4.includes(namagroup5) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id5 == "" || id5 == undefined || id5 == null ||id5 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 5,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup6) == true||ceknamagroup1.includes(namagroup6) == true||ceknamagroup2.includes(namagroup6) == true||ceknamagroup3.includes(namagroup6) == true||ceknamagroup4.includes(namagroup6) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id6 == "" || id6 == undefined || id6 == null ||id6 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 6,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment6;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup7) == true||ceknamagroup1.includes(namagroup7) == true||ceknamagroup2.includes(namagroup7) == true||ceknamagroup3.includes(namagroup7) == true||ceknamagroup4.includes(namagroup7) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id7 == "" || id7 == undefined || id7 == null ||id7 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 7,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment7;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup8) == true||ceknamagroup1.includes(namagroup8) == true||ceknamagroup2.includes(namagroup8) == true||ceknamagroup3.includes(namagroup8) == true||ceknamagroup4.includes(namagroup8) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id8 == "" || id8 == undefined || id8 == null ||id8 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 8,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment8;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id9 == "" || id9 == undefined || id9 == null ||id9 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 9,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup10) == true||ceknamagroup1.includes(namagroup10) == true||ceknamagroup2.includes(namagroup10) == true||ceknamagroup3.includes(namagroup10) == true||ceknamagroup4.includes(namagroup10) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id10 == "" || id10 == undefined || id10 == null ||id10 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 10,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment10;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup11) == true||ceknamagroup1.includes(namagroup11) == true||ceknamagroup2.includes(namagroup11) == true||ceknamagroup3.includes(namagroup11) == true||ceknamagroup4.includes(namagroup11) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id11 == "" || id11 == undefined || id11 == null ||id11 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 11,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment11;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup12) == true||ceknamagroup1.includes(namagroup12) == true||ceknamagroup2.includes(namagroup12) == true||ceknamagroup3.includes(namagroup12) == true||ceknamagroup4.includes(namagroup12) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id12 == "" || id12 == undefined || id12 == null ||id12 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 12,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment12;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup13) == true||ceknamagroup1.includes(namagroup13) == true||ceknamagroup2.includes(namagroup13) == true||ceknamagroup3.includes(namagroup13) == true||ceknamagroup4.includes(namagroup13) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id13 == "" || id13 == undefined || id13 == null ||id13 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 13,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment13;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup14) == true||ceknamagroup1.includes(namagroup14) == true||ceknamagroup2.includes(namagroup14) == true||ceknamagroup3.includes(namagroup14) == true||ceknamagroup4.includes(namagroup14) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id14 == "" || id14 == undefined || id14 == null ||id14 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 14,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment14;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+
+                        if (ceknamagroup.includes(namagroup15) == true||ceknamagroup1.includes(namagroup15) == true||ceknamagroup2.includes(namagroup15) == true||ceknamagroup3.includes(namagroup15) == true||ceknamagroup4.includes(namagroup15) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id15 == "" || id15 == undefined || id15 == null ||id15 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 15,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment15;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+
+                        if (ceknamagroup.includes(namagroup16) == true||ceknamagroup1.includes(namagroup16) == true||ceknamagroup2.includes(namagroup16) == true||ceknamagroup3.includes(namagroup16) == true||ceknamagroup4.includes(namagroup16) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id16 == "" || id16 == undefined || id16 == null ||id16 == "0") {
+                                /*cek nama group dan tulis commntar*/
+                                GM.setValue( 16,1);
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment16;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup17) == true||ceknamagroup1.includes(namagroup17) == true||ceknamagroup2.includes(namagroup17) == true||ceknamagroup3.includes(namagroup17) == true||ceknamagroup4.includes(namagroup17) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id7 == "" || id17 == undefined || id17 == null ||id17 == "0") {
+                                /*cek nama group dan tulis commntar*/
+
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment17;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+
+
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        if (ceknamagroup.includes(namagroup18) == true||ceknamagroup1.includes(namagroup18) == true||ceknamagroup2.includes(namagroup18) == true||ceknamagroup3.includes(namagroup18) == true||ceknamagroup4.includes(namagroup18) == true) {
+                            /*cek nama group dan tulis commntar*/
+                            if (id18 == "" || id18 == undefined || id18 == null ||id18 == "0") {
+                                /*cek nama group dan tulis commntar*/
+
+                                document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment18;
+                                console.log("Sudah Comment")
+                                clearInterval(myrefresh);
+                                clicksend();
+                                throw new Error();
+
+
+                                return;
+                            } else {
+                                location.href = "about:blank"
+                            }
+                        }
+                        return;
+                        return;
+                        return;
                     }
                 }
             }
         }
     }
+
 
     var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
     var waktupost = document.getElementsByClassName("native-text");
@@ -241,311 +522,10 @@ var myrefresh = setInterval(function(){
         }
     }
 
-
 }, refresh * 10)
 
 
-function gameClosure() {
-    function game() {
-        console.log('The game is Start')
-        if(jitter == 1){
-            return;
-        }
-        console.log('The game is running')
-        /* This is just an example, replace this with the body of gameInit() */
-        if(document.getElementsByClassName("multi-line-floating-textbox").length > 0 ){
-            var ceknamagroup
-            var ceknamagroup1
-            var ceknamagroup2
-            var ceknamagroup3
-            var ceknamagroup4
-            'use strict';
-            if( document.getElementsByClassName("fixed-container")[0]){
-                ceknamagroup = document.getElementsByClassName("fixed-container")[0].textContent;
-            }
-            if( document.getElementsByClassName('native-text')[5]){
-                ceknamagroup1 = document.getElementsByClassName('native-text')[5].textContent;
-            }
-            if( document.getElementsByClassName('native-text')[6]){
-                ceknamagroup2 = document.getElementsByClassName('native-text')[6].textContent;
-            }
-            if( document.getElementsByClassName('native-text')[7]){
-                ceknamagroup3 = document.getElementsByClassName('native-text')[7].textContent;
-            }
-            if( document.getElementsByClassName('native-text')[8]){
-                ceknamagroup4 = document.getElementsByClassName('native-text')[8].textContent;
-            }
-
-            if (ceknamagroup.includes(namagroup1) == true||ceknamagroup1.includes(namagroup1) == true||ceknamagroup2.includes(namagroup1) == true||ceknamagroup3.includes(namagroup1) == true||ceknamagroup4.includes(namagroup1) == true) {
-                if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 1,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment1;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup2) == true||ceknamagroup1.includes(namagroup2) == true||ceknamagroup2.includes(namagroup2) == true||ceknamagroup3.includes(namagroup2) == true||ceknamagroup4.includes(namagroup2) == true) {
-                if (id2 == "" || id2 == undefined || id2 == null ||id2 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 2,1);
-                    /*cek nama group dan tulis commntar*/
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup3) == true||ceknamagroup1.includes(namagroup3) == true||ceknamagroup2.includes(namagroup3) == true||ceknamagroup3.includes(namagroup3) == true||ceknamagroup4.includes(namagroup3) == true) {
-                if (id3 == "" || id3 == undefined || id3 == null ||id3 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 3,1);
-                    /*cek nama group dan tulis commntar*/
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment3;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup4) == true||ceknamagroup1.includes(namagroup4) == true||ceknamagroup2.includes(namagroup4) == true||ceknamagroup3.includes(namagroup4) == true||ceknamagroup4.includes(namagroup4) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id4 == "" || id4 == undefined || id4 == null ||id4 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 4,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup5) == true||ceknamagroup1.includes(namagroup5) == true||ceknamagroup2.includes(namagroup5) == true||ceknamagroup3.includes(namagroup5) == true||ceknamagroup4.includes(namagroup5) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id5 == "" || id5 == undefined || id5 == null ||id5 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 5,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup6) == true||ceknamagroup1.includes(namagroup6) == true||ceknamagroup2.includes(namagroup6) == true||ceknamagroup3.includes(namagroup6) == true||ceknamagroup4.includes(namagroup6) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id6 == "" || id6 == undefined || id6 == null ||id6 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 6,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment6;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup7) == true||ceknamagroup1.includes(namagroup7) == true||ceknamagroup2.includes(namagroup7) == true||ceknamagroup3.includes(namagroup7) == true||ceknamagroup4.includes(namagroup7) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id7 == "" || id7 == undefined || id7 == null ||id7 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 7,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment7;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup8) == true||ceknamagroup1.includes(namagroup8) == true||ceknamagroup2.includes(namagroup8) == true||ceknamagroup3.includes(namagroup8) == true||ceknamagroup4.includes(namagroup8) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id8 == "" || id8 == undefined || id8 == null ||id8 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 8,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment8;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id9 == "" || id9 == undefined || id9 == null ||id9 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 9,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup10) == true||ceknamagroup1.includes(namagroup10) == true||ceknamagroup2.includes(namagroup10) == true||ceknamagroup3.includes(namagroup10) == true||ceknamagroup4.includes(namagroup10) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id10 == "" || id10 == undefined || id10 == null ||id10 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 10,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment10;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1;
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup11) == true||ceknamagroup1.includes(namagroup11) == true||ceknamagroup2.includes(namagroup11) == true||ceknamagroup3.includes(namagroup11) == true||ceknamagroup4.includes(namagroup11) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id11 == "" || id11 == undefined || id11 == null ||id11 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 11,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment11;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1;
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup12) == true||ceknamagroup1.includes(namagroup12) == true||ceknamagroup2.includes(namagroup12) == true||ceknamagroup3.includes(namagroup12) == true||ceknamagroup4.includes(namagroup12) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id12 == "" || id12 == undefined || id12 == null ||id12 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 12,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment12;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup13) == true||ceknamagroup1.includes(namagroup13) == true||ceknamagroup2.includes(namagroup13) == true||ceknamagroup3.includes(namagroup13) == true||ceknamagroup4.includes(namagroup13) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id13 == "" || id13 == undefined || id13 == null ||id13 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 13,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment13;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup14) == true||ceknamagroup1.includes(namagroup14) == true||ceknamagroup2.includes(namagroup14) == true||ceknamagroup3.includes(namagroup14) == true||ceknamagroup4.includes(namagroup14) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id14 == "" || id14 == undefined || id14 == null ||id14 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 14,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment14;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-
-            if (ceknamagroup.includes(namagroup15) == true||ceknamagroup1.includes(namagroup15) == true||ceknamagroup2.includes(namagroup15) == true||ceknamagroup3.includes(namagroup15) == true||ceknamagroup4.includes(namagroup15) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id15 == "" || id15 == undefined || id15 == null ||id15 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 15,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment15;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-
-            if (ceknamagroup.includes(namagroup16) == true||ceknamagroup1.includes(namagroup16) == true||ceknamagroup2.includes(namagroup16) == true||ceknamagroup3.includes(namagroup16) == true||ceknamagroup4.includes(namagroup16) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id16 == "" || id16 == undefined || id16 == null ||id16 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 16,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment16;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup17) == true||ceknamagroup1.includes(namagroup17) == true||ceknamagroup2.includes(namagroup17) == true||ceknamagroup3.includes(namagroup17) == true||ceknamagroup4.includes(namagroup17) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id7 == "" || id17 == undefined || id17 == null ||id17 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 17,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment17;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-            if (ceknamagroup.includes(namagroup18) == true||ceknamagroup1.includes(namagroup18) == true||ceknamagroup2.includes(namagroup18) == true||ceknamagroup3.includes(namagroup18) == true||ceknamagroup4.includes(namagroup18) == true) {
-                /*cek nama group dan tulis commntar*/
-                if (id18 == "" || id18 == undefined || id18 == null ||id18 == "0") {
-                    /*cek nama group dan tulis commntar*/
-                    GM.setValue( 18,1);
-                    document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment18;
-                    console.log("Sudah Comment")
-                    clicksend();
-                     jitter = 1
-                    return;
-                } else {
-                    location.href = "about:blank"
-                }
-            }
-        }
-    }
-    var currentGame;
-    return {
-        start() {
-            currentGame = setInterval(game, 0)
-        },
-        stop() {
-            clearInterval(currentGame)
-        }
-    }
-}
-var game = gameClosure()
-
 function clicksend() {
-    game.stop()
-    jitter = 1
     /*Tampilkan TOMBOL SEND*/
     if(document.getElementsByClassName("textbox-submit-button")[0]){
         document.getElementsByClassName("textbox-submit-button")[0].style.display=""
@@ -562,8 +542,22 @@ function clicksend() {
     }
 }
 
+
+
 function closer() {
     setTimeout(function(){location.href = "about:blank"},100)
 
 
 }
+var lasturlku
+var jar = setInterval(function(){
+
+    if(location.href.includes("group")){
+        lasturlku = location.href;
+       
+    }
+    if(location.href.length <= 30 ){
+        location.href = lasturlku
+    }
+
+},1000)
