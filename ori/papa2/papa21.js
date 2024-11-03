@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.04
+// @version      1.05
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -45,8 +45,8 @@ var Comment9 = 'GILA4D=ZONARED44=41*61*86';
 var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(ZUKAZUKA01)*41*61*86'; 
 
-var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
-var Comment11 = '#TA*ZONGG000*67*82*22*'; 
+var namagroup11 = 'INSTANTOTO';
+var Comment11 = '#INSTANTOTO (ZONGG000) = 67*82';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY ZUMIE22 67*82*22'; 
@@ -94,29 +94,30 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["ajosultan87","abys","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
+var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
 "bela","baran","bambang","bogard",
 "chandra","clone","camb","chantika","chikaku",
 "dika","delon",
-"ethes",
+"ethes","elok",
 "flanella","fu","faiq","flo","feronika",
 "gates","gita",
 "hefi","hartono",
 "jaguarr","junior","jie","jewels","jess","je pe",
-"lawu","lowati",
+"lawu","lowati","lubis","loren",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara",
 "lasmana","laaelaay","loetoe","liu","langit","luvika",
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
-"own","offcial",
+"own","offcial","ozawa",
 "punama","prediction","priqittyu",
 "ran","ria","rm","rizal","raangkuti",
-"shiokelinci","sari","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
+"shiokelinci","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
 "tink","tatang","toto","teamoe","toyib","terpecaya","triana",
 "uuch","ujang",
 "vargas",
 "xabiru",
-"yansah","yana"];
+"yansah","yana","zhie"];
+
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
