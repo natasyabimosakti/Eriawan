@@ -96,7 +96,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
 "bela","baran","bambang","bogard",
-"chandra","clone","camb","chantika","chikaku",
+"chandra","clone","camb","chantika","chikaku","cintya",
 "dika","delon",
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
@@ -116,7 +116,7 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "uuch","ujang",
 "vargas",
 "xabiru",
-"yansah","yana","zhie"];
+"yansah","yana","yoonk","zhie"];
 
 
 var keyword1 = "ROOM"
