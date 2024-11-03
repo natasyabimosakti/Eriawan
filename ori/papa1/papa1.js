@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.41
+// @version      1.42
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -56,8 +56,8 @@ var Comment13 = 'GOHTOGEL=ZUZIE08=49*35*74';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 49*35*74';
 
-var namagroup15 = 'MAINTOGEL';
-var Comment15 = '#(MAINTOGEL365) (ZUMBA78) : 72*68*51';
+var namagroup15 = 'TASIKTOTO';
+var Comment15 = '##TASIKTOTO(ZUMBA78) = 72*68';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
@@ -93,13 +93,13 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
-"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps",
+var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
+"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
-"erlangga","elmina","erina","elisa",
+"erlangga","elmina","erina","elisa","elok",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
-"gates","gandul","geboyy","gene","gita",
+"gates","gandul","geboyy","gene","gita","ghefira",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki",
 "inisial","ilmi","ika",
 "jhon","jasmine","jeremy","judi","jodi","jesika","junior","jhing",
@@ -107,17 +107,16 @@ var admin = ["angeline","aprillia","aza","azura","ace","ajosultan87","aimi","ara
 "langit","lomba","laura","lowati","lisna","lomba",
 "mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
 "naumi","na","nada","nyamark","natalia",
-"ori","odgj","oscar","over","ouschan",
+"ori","odgj","oscar","over","ouschan","ozawa",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell",
-"togel","toto","tan",
+"togel","toto","tan","ten",
 "vasquez","vina",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
-"xabiru",
+"xabiru","105166432041525",
 "yuli","yosephine","yeti","yanto","yoky",
-"zhelonk","zimbabwe","zurrotul"];
-
+"zhelonk","zimbabwe","zhie","zurrotul"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
