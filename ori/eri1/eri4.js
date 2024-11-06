@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.40
+// @version      2.41
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -105,15 +105,15 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "hefi","hartono",
 "jaguarr","junior","jie","jewels","jess","je pe",
 "lawu","lowati","lubis","loren",
-"kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara",
+"kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
 "lasmana","laaelaay","loetoe","liu","langit","luvika",
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa",
 "punama","prediction","priqittyu",
-"ran","ria","rm","rizal","raangkuti",
-"shiokelinci","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa",
-"tink","tatang","toto","teamoe","toyib","terpecaya","triana",
+"ran","ria","rm","rizal","raangkuti","rahman",
+"shiokelinci","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
+"tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang",
 "uuch","ujang",
 "vargas",
 "xabiru",
