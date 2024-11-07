@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.41
+// @version      2.42
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -51,8 +51,8 @@ var Comment11 = '#INSTANTOTO (NARINA28) = 23*59';
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY NASTINA19 47*45*00'; 
 
-var namagroup13 = 'JPMANIA';
-var Comment13 = '#JPMANIA*NABURI21*24*66*80*'
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (NARITA74) : 24*66*80';
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
@@ -95,9 +95,9 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
+var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
 "bela","baran","bambang","bogard",
-"chandra","clone","camb","chantika","chikaku","cintya",
+"chandra","clone","camb","chantika","chikaku","cintya","casaundra",
 "dika","delon",
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
@@ -112,12 +112,12 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "own","offcial","ozawa",
 "punama","prediction","priqittyu",
 "ran","ria","rm","rizal","raangkuti","rahman",
-"shiokelinci","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
-"tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang",
+"shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
+"tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang","tungkal",
 "uuch","ujang",
 "vargas",
 "xabiru",
-"yansah","yana","yoonk","zhie"];
+"yansah","yana","yoonk","zion","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
@@ -129,8 +129,10 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "ROOM"
-var keyword12 = "ℝ𝕆𝕆𝕄"
+var keyword11 = "HONGKONG"
+var keyword12 = "SINGAPUR"
+var keyword13 = "SYDNEY"
+var keyword14 = "ℝ𝕆𝕆𝕄"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -138,7 +140,7 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
-var Backlist7 = "result";
+var Backlist7 = "commen";
 
 var myrefresh = setInterval(function(){
 
@@ -217,7 +219,9 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword14.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
