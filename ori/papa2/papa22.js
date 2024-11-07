@@ -630,7 +630,7 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
     }
 
