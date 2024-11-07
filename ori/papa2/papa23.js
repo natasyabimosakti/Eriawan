@@ -56,8 +56,8 @@ var Comment13 = '#TOYIBSLOT ( XMAX999 ) : 13*68*18';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 13*68*18 ( XMIN111 )'; 
 
-var namagroup15 = 'JPMANIA';
-var Comment15 = '#JPMANIA*XYOU555*05*15*29*';
+var namagroup15 = 'NEMO';
+var Comment15 = 'NEMO4D (XYOU555) : 05*15*29';
 
 var namagroup16 = 'Hoho';
 var Comment16 = 'XIKPRO34 : 05*15*00 #HOHOTOGEL';
