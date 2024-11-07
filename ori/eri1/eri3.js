@@ -50,8 +50,9 @@ var Comment11 = '#INSTANTOTO (MASIKA12) = 85*98';
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
 
-var namagroup13 = 'JPMANIA';
-var Comment13 = '#JPMANIA*MERKURI25*41*93*71*'
+
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (MADSOLAR77) : 41*93*71';
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 41*93*71 ( MALIMUN39 )'; 
