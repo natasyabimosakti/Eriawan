@@ -57,8 +57,8 @@ var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19*80';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 36*19*80 ( YOUPUB33 )'; 
 
-var namagroup15 = 'JPMANIA';
-var Comment15 = '#JPMANIA*ZUMBA78*71*74*48*';
+var namagroup15 = 'NEMO';
+var Comment15 = 'NEMO4D (ZUMBA78) : 71*74*48';
 
 var namagroup16 = 'Hoho';
 var Comment16 = 'ZUZUZU88 : 71*74*99 #HOHOTOGEL';
