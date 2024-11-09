@@ -97,7 +97,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
-"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
+"cila","casaundra","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
 "erlangga","elmina","erina","elisa","elok",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
@@ -112,7 +112,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "ori","odgj","oscar","over","ouschan","ozawa",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
-"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
+"sijitogel","sakura","sa","syaqeena","sydney","sidebar","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
 "vasquez","vina",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
