@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.41
+// @version      1.42
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
@@ -127,12 +127,15 @@ var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
 var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
-var keyword6 = "Lomba"
+var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "R0M"
+var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "Ro0M"
+var keyword11 = "HONGKONG"
+var keyword12 = "SINGAPUR"
+var keyword13 = "SYDNEY"
+var keyword14 = "ℝ𝕆𝕆𝕄"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -140,9 +143,10 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
-var Backlist7 = "result";
+var Backlist7 = "commen";
 
 var myrefresh = setInterval(function(){
+
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
@@ -204,7 +208,7 @@ var myInterval = setInterval(function(){
             var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
 
             // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
+            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
             if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
                 console.log("Jam Ditemukan " + ret)
                 if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
@@ -217,7 +221,10 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword14.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
