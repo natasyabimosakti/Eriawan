@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.42
+// @version      1.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
@@ -118,18 +118,45 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "yuli","yosephine","yeti","yanto","yoky",
 "zhelonk","zimbabwe","zhie","zurrotul"];
 
+var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
+"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
+"cila","casaundra","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
+"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
+"erlangga","elmina","erina","elisa","elok",
+"fischer","ferlita","fahresa","fais","febia","fatimm","fox",
+"gates","gandul","geboyy","gene","gita","ghefira",
+"hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki","har",
+"inisial","ilmi","ika",
+"jhon","jasmine","jeremy","judi","jodi","jesika","junior","jhing",
+"karas","kembar","kakakemon","kusmayanti",
+"langit","lomba","laura","lowati","lisna","lomba",
+"mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
+"naumi","na","nada","nyamark","natalia",
+"ori","odgj","oscar","over","ouschan","ozawa",
+"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
+"rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
+"sijitogel","sakura","sa","syaqeena","sydney","sidebar","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
+"togel","toto","tan","ten",
+"vasquez","vina",
+"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
+"xabiru","105166432041525",
+"yuli","yosephine","yeti","yanto","yoky",
+"zhelonk","zimbabwe","zhie","zurrotul"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
 var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
-var keyword6 = "Lomba"
+var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "R0M"
+var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "Ro0M"
+var keyword11 = "HONGKONG"
+var keyword12 = "SINGAPUR"
+var keyword13 = "SYDNEY"
+var keyword14 = "ℝ𝕆𝕆𝕄"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -137,9 +164,10 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
-var Backlist7 = "result";
+var Backlist7 = "commen";
 
 var myrefresh = setInterval(function(){
+
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
@@ -201,7 +229,7 @@ var myInterval = setInterval(function(){
             var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
 
             // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
+            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
             if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
                 console.log("Jam Ditemukan " + ret)
                 if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
@@ -214,7 +242,10 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword14.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
