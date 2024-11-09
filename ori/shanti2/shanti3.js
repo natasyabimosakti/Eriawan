@@ -32,9 +32,8 @@ var Comment5 = 'SIJITOGEL RAMPOK84 61*35*98';
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (REALIS147) 18*75*17';
 
-var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (ROLOKAB111) 41*91*29 BETTING';
-
+var namagroup7 = 'NEMO';
+var Comment7 = 'NEMO4D (ROOM29) : 41*91*29';
 
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( RUZAK676 ) : 42*91*29';
