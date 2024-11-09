@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.42
+// @version      2.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -632,7 +632,7 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
     }
 
