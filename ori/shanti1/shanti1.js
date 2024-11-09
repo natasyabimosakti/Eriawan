@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      4.03
+// @version      4.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -555,7 +555,7 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
     }
 
