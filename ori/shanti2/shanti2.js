@@ -33,9 +33,8 @@ var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (QWANDU66) 77*43*93';
 
-var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (QONCCER88) 31*53*22 BETTING';
-
+var namagroup7 = 'NEMO';
+var Comment7 = 'NEMO4D (QUARTZ8) : 31*53*22';
 
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 31*53*22';
@@ -99,7 +98,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
-"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
+"cila","casaundra","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
 "erlangga","elmina","erina","elisa","elok",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
@@ -114,7 +113,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "ori","odgj","oscar","over","ouschan","ozawa",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
-"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
+"sijitogel","sakura","sa","syaqeena","sydney","sidebar","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
 "vasquez","vina",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
