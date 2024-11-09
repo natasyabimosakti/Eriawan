@@ -32,8 +32,8 @@ var Comment5 = 'SIJITOGEL SOSWEET87 70*92*38';
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (SEALION99) 83*12*80';
 
-var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (SHINY111) 54*33*13 BETTING';
+var namagroup7 = 'NEMO';
+var Comment7 = 'NEMO4D (SQUASH387) : 54*33*13';
 
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( SOMERSET34 ) : 54*33*13';
