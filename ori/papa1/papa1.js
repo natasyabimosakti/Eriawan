@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.43
+// @version      1.44
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -97,7 +97,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
-"erlangga","elmina","erina","elisa","elok",
+"erlangga","elmina","erina","elisa","elok","eviana",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki","har",
