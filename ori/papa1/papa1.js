@@ -44,8 +44,8 @@ var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
 var namagroup10 = 'RNR303';
 var Comment10 = '#RNR303(ZZZZZZ66) : 76*45*34';
 
-var namagroup17 = 'KIKO';
-var Comment17 = '#KIKOTOTO (ZUMBA78) = 78*94';
+var namagroup11 = 'KIKO';
+var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'ZUMIE22 : 78*94*99 #BESTOTO88';
