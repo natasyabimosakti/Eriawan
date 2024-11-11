@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.44
+// @version      1.45
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -44,8 +44,8 @@ var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
 var namagroup10 = 'RNR303';
 var Comment10 = '#RNR303(ZZZZZZ66) : 76*45*34';
 
-var namagroup11 = 'XX1TOTO';
-var Comment11 = '#XX1TOTO (ZUMBA78) 78*94*99 BETTING';
+var namagroup17 = 'KIKO';
+var Comment17 = '#KIKOTOTO (ZUMBA78) = 78*94';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'ZUMIE22 : 78*94*99 #BESTOTO88';
@@ -96,7 +96,7 @@ var id18 = await GM.getValue(18);
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
-"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
+"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done",
 "erlangga","elmina","erina","elisa","elok","eviana",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
@@ -612,19 +612,7 @@ function clicksend() {
 }
 
 function closer() {
-    setTimeout(function(){location.href = "about:blank"},5)
+    setTimeout(function(){location.href = "about:blank"},600)
 
 
 }
-var lasturlku
-var jar = setInterval(function(){
-
-    if(location.href.includes("group")){
-        lasturlku = location.href;
-       
-    }
-    if(location.href.length <= 30 ){
-        location.href = lasturlku
-    }
-
-},1000)
