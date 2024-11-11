@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA3
 // @namespace    http://tampermonkey.net/
-// @version      1.44
+// @version      1.45
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa3.js
@@ -44,8 +44,8 @@ var Comment9 = 'OTUSLOT*XERABUT22*39*60*29*BETTING';
 var namagroup10 = 'RNR303';
 var Comment10 = '#RNR303(XBOGV6) : 05*82*03';
 
-var namagroup11 = 'XX1TOTO';
-var Comment11 = '#XX1TOTO (XYOU555) 39*98*08 BETTING';
+var namagroup11 = 'KIKO';
+var Comment11 = '#KIKOTOTO (XYOU555) = 39*98';
 
 var namagroup12 = 'BESTOTO88';
 var Comment12 = 'XKEYPAS34 : 23*60*29 #BESTOTO88';
@@ -98,7 +98,7 @@ var id18 = await GM.getValue(18);
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
-"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
+"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done",
 "erlangga","elmina","erina","elisa","elok","eviana",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
@@ -626,7 +626,7 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
     }
 
