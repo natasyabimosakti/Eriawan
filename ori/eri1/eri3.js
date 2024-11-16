@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.42
+// @version      2.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -26,7 +26,7 @@ var Comment3 = 'Tiktaktogel / MALUKU12 / 87 , 57 , 05';
 var namagroup4 = 'GAIB';
 var Comment4 = 'GAIB4D=MALAY12=87*57*05'; 
 
-var namagroup5 = 'KEITOGEL';
+var namagroup5 = 'HOTBET77';
 var Comment5 = '#keitogel = (MANIA30) = 73*94*06'; 
 
 var namagroup6 = 'MENARA';
@@ -109,7 +109,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "lasmana","laaelaay","loetoe","liu","langit","luvika",
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
-"own","offcial","ozawa",
+"own","offcial","ozawa","ofc",
 "punama","prediction","priqittyu",
 "ran","ria","rm","rizal","raangkuti","rahman",
 "shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
