@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.40
+// @version      2.41
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -26,7 +26,7 @@ var Comment3 = 'Tiktaktogel / SUMMER84 / 62 , 37 , 15';
 var namagroup4 = 'GAIB';
 var Comment4 = 'GAIB4D=SEMANGAT45=60*59*40'; 
 
-var namagroup5 = 'KEITOGEL';
+var namagroup5 = 'HOTBET77';
 var Comment5 = '#keitogel = (SANRIO123) = 57*72*80'; 
 
 var namagroup6 = 'Pasar';
