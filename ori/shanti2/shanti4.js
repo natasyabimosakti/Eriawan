@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.44
+// @version      1.45
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
@@ -95,34 +95,9 @@ var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
-"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
-"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
-"erlangga","elmina","erina","elisa","elok","eviana",
-"fischer","ferlita","fahresa","fais","febia","fatimm","fox",
-"gates","gandul","geboyy","gene","gita","ghefira",
-"hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki","har",
-"inisial","ilmi","ika",
-"jhon","jasmine","jeremy","judi","jodi","jesika","junior","jhing",
-"karas","kembar","kakakemon","kusmayanti",
-"langit","lomba","laura","lowati","lisna","lomba",
-"mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
-"naumi","na","nada","nyamark","natalia",
-"ori","odgj","oscar","over","ouschan","ozawa",
-"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram",
-"rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
-"sijitogel","sakura","sa","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
-"togel","toto","tan","ten",
-"vasquez","vina",
-"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
-"xabiru","105166432041525",
-"yuli","yosephine","yeti","yanto","yoky",
-"zhelonk","zimbabwe","zhie","zurrotul"];
-
-var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","as","ab","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
-"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","casaundra","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
-"erlangga","elmina","erina","elisa","elok",
+"erlangga","elmina","erina","elisa","elok","eviana",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki","har",
