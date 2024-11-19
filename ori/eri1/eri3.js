@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.44
+// @version      2.45
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -44,8 +44,8 @@ var Comment9 = 'GILA4D=MANDRA39=03*27*91';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
 
-var namagroup11 = 'INSTANTOTO';
-var Comment11 = '#INSTANTOTO (MASIKA12) = 85*98';
+var namagroup11 = 'LICIN';
+var Comment11 = '#LICIN4D (MASIKA12) 85*98*30';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
@@ -102,7 +102,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
 "gates","gita",
-"hefi","hartono",
+"hefi","hartono","haikal","intan",
 "jaguarr","junior","jie","jewels","jess","je pe",
 "lawu","lowati","lubis","loren",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
@@ -111,11 +111,11 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa","ofc",
 "punama","prediction","priqittyu",
-"ran","ria","rm","rizal","raangkuti","rahman",
+"ran","ria","rm","rizal","raangkuti","rahman","rangga",
 "shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
 "tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang","tungkal",
 "uuch","ujang",
-"vargas",
+"vargas","wed",
 "xabiru",
 "yansah","yana","yoonk","zion","zhie"];
 
