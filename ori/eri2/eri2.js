@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.41
+// @version      2.42
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
@@ -50,8 +50,8 @@ var Comment11 = '#TOYIBSLOT ( QERBAU04 ) : 58*96*00';
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY QURBAN05 82*68*61'; 
 
-var namagroup13 = 'INSTANTOTO';
-var Comment13 = '#INSTANTOTO (QERBAU04) = 67*49';
+var namagroup13 = 'LICIN';
+var Comment13 = '#LICIN4D (QERBAU04) 36*18*39';
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 58*96*00 ( QERJA99 )'; 
@@ -100,7 +100,7 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
 "gates","gita",
-"hefi","hartono",
+"hefi","hartono","haikal","intan",
 "jaguarr","junior","jie","jewels","jess","je pe",
 "lawu","lowati","lubis","loren",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
@@ -109,11 +109,11 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa",
 "punama","prediction","priqittyu",
-"ran","ria","rm","rizal","raangkuti","rahman",
+"ran","ria","rm","rizal","raangkuti","rahman","rangga",
 "shiokelinci","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
 "tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang",
 "uuch","ujang",
-"vargas",
+"vargas","wed",
 "xabiru",
 "yansah","yana","yoonk","zhie"];
 
@@ -628,7 +628,7 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
     }
 
