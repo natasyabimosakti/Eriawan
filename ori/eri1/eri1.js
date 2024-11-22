@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.49
+// @version      2.50
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -138,7 +138,7 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
-var Backlist7 = "Juara";
+var Backlist7 = "juara";
 
 var myrefresh = setInterval(function(){
 
