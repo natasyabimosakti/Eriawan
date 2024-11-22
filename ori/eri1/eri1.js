@@ -99,7 +99,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "dika","delon",
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
-"gates","gita",
+"gates","gita","gratis",
 "hefi","hartono","haikal","intan",
 "jaguarr","junior","jie","jewels","jess","je pe",
 "lawu","lowati","lubis","loren",
