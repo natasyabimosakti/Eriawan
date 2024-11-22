@@ -103,7 +103,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "flanella","fu","faiq","flo","feronika",
 "gates","gita","gratis",
 "hefi","hartono","haikal","intan","hanabi",
-"jaguarr","junior","jie","jewels","jess","je pe",
+"jaguarr","junior","jie","jewels","jess","je pe","jessica",
 "lawu","lowati","lubis","loren",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
 "lasmana","laaelaay","loetoe","liu","langit","luvika",
