@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.53
+// @version      2.54
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -108,7 +108,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa",
-"punama","prediction","priqittyu",
+"punama","prediction","priqittyu","poetry",
 "ran","ria","rm","rizal","raangkuti","rahman","rangga",
 "shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
 "tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang","tungkal",
