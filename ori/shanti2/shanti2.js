@@ -23,9 +23,8 @@ var Comment2 = 'K86TOTO ( QQCHERY88 ) : 65*26*24';
 var namagroup3 = 'SILA';
 var Comment3 = '‌#SILATOGEL*QIBAAT50*44*03*46*BETTING';
 
-
-var namagroup4 = 'TEMPOTOTO';
-var Comment4 = 'QIQIK38 : 63*34*87 #TEMPOTOTO';
+var namagroup4 = 'MAYAPADA';
+var Comment4 = 'BETT*Mayapada4D(BO)*QERJA99*63*34*87';
 
 var namagroup5 = 'Wellz';
 var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
@@ -96,7 +95,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
+var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda","artanti","artha","andinincy",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","casaundra","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
@@ -111,7 +110,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
 "naumi","nada","nyamark","natalia",
 "ori","odgj","oscar","over","ouschan","ozawa",
-"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait",
+"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait","priyanti",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","syaqeena","sydney","sidebar","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
