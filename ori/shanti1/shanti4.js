@@ -24,8 +24,8 @@ var Comment2 = 'K86TOTO ( HUJAN749 ) : 50*38*94';
 var namagroup3 = 'SILA';
 var Comment3 = '‌#SILATOGEL*HIYAS680*93*70*95*BETTING';
 
-var namagroup4 = 'TEMPO';
-var Comment4 = 'HAYO456 : 88*20*68 #TEMPOTOTO';
+var namagroup4 = 'MAYAPADA';
+var Comment4 = 'BETT*Mayapada4D(BO)*HINA738*88*20*68';
 
 var namagroup5 = 'VESPA7093L';
 var Comment5 = 'VESPATOGEL (NARITA74) 08*56*24';
@@ -94,7 +94,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
+var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","artanti","artha","andinincy","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
@@ -106,13 +106,13 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "jhon","jasmine","jeremy","judi","jodi","jesika","junior","jhing",
 "karas","kembar","kakakemon","kusmayanti",
 "langit","lomba","laura","lowati","lisna","lomba",
-"mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
+"mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei","marimarshell",
 "naumi","nada","nyamark","natalia",
 "ori","odgj","oscar","over","ouschan","ozawa",
-"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait",
+"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait","priyanti",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
-"togel","toto","tan","ten",
+"togel","tania","toto","tan","ten",
 "vasquez","vina",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
 "xabiru","105166432041525",
