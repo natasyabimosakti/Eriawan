@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.47
+// @version      2.48
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -117,7 +117,7 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "uuch","ujang",
 "vargas","wed",
 "xabiru",
-"yansah","yana","yoonk","zhie"];
+"yansah","yana","yoonk","yoky","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
