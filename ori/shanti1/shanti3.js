@@ -115,7 +115,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "sijitogel","sakura","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
 "vasquez","vina",
-"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
+"waslo","wulandari","wiena","wndtfny","wardani","wikasalim","wijaya",
 "xabiru","105166432041525",
 "yuli","yosephine","yeti","yanto","yoky",
 "zhelonk","zimbabwe","zhie","zurrotul"];
