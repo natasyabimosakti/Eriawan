@@ -24,8 +24,8 @@ var Comment1 = 'SIJITOGEL JERUJI111 74*13*14';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( JUKIRR777 ) : 48*07*27'; 
 
-var namagroup3 = 'SILA';
-var Comment3 = '‌#SILATOGEL*JARWO333*89*25*76*BETTING';
+var namagroup3 = 'ISTANA';
+var Comment3 = 'JANGKAUTOTO(JARWO333) : 89*25*76';
 
 var namagroup4 = 'MAYAPADA';
 var Comment4 = 'BETT*Mayapada4D(BO)*JEJER999*90*26*65';
