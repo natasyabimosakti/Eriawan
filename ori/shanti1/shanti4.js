@@ -21,8 +21,8 @@ var Comment1 = 'SIJITOGEL HUHUK202 00*99*37';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( HUJAN749 ) : 50*38*94';
 
-var namagroup3 = 'SILA';
-var Comment3 = '‌#SILATOGEL*HIYAS680*93*70*95*BETTING';
+var namagroup3 = 'ISTANA';
+var Comment3 = 'JANGKAUTOTO(HIYAS680) : 93*70*95';
 
 var namagroup4 = 'MAYAPADA';
 var Comment4 = 'BETT*Mayapada4D(BO)*HINA738*88*20*68';
