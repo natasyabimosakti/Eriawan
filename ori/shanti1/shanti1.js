@@ -21,8 +21,8 @@ var Comment1 = 'SIJITOGEL PETRUK99 62*72*12';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( PAKBULL576 ) : 62*75*61';
 
-var namagroup3 = 'SILA';
-var Comment3 = '‌#SILATOGEL*POKEK909*47*52*42*BETTING';
+var namagroup3 = 'ISTANA';
+var Comment3 = 'JANGKAUTOTO(POKEK909) : 47*52*42';
 
 var namagroup4 = 'MAYAPADA';
 var Comment4 = 'BETT*Mayapada4D(BO)*PIANG212*46*80*79';
