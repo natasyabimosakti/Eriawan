@@ -95,7 +95,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","artanti","artha","andinincy","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda",
-"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
+"base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella","bogard",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika",
 "erlangga","elmina","erina","elisa","elok","eviana",
@@ -114,7 +114,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "sijitogel","sakura","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","tania","toto","tan","ten",
 "vasquez","vina",
-"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
+"waslo","wulandari","wiena","wndtfny","wardani","wikasalim","wijaya",
 "xabiru","105166432041525",
 "yuli","yosephine","yeti","yanto","yoky",
 "zhelonk","zimbabwe","zhie","zurrotul"];
