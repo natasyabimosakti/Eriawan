@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.48
+// @version      2.49
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -60,9 +60,8 @@ var Comment14 = '#DENTOTO 19*35*02 ( RORO363 )';
 var namagroup15 = 'Hoho';
 var Comment15 = 'RAKBAR355 : 99*73*98 #HOHOTOGEL';
 
-var namagroup16 = 'MALAM';
-var Comment16 = 'C';
-
+var namagroup16 = 'NEMO';
+var Comment16 = 'NEMO4D (ROOM29) : 91*99*73';
 
 var namagroup17 = 'BENTAR';
 var Comment17 = 'C';
@@ -95,9 +94,9 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
+var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
 "bela","baran","bambang","bogard",
-"chandra","clone","camb","chantika","chikaku","cintya",
+"chandra","clone","camb","chantika","cintya","casaundra",
 "dika","delon",
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
@@ -110,14 +109,14 @@ var admin = ["ajosultan87","abys","adianti","adm","angeline","arang","aza","anat
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa",
-"punama","prediction","priqittyu","pram","poetry",
+"punama","prediction","priqittyu","poetry",
 "ran","ria","rm","rizal","raangkuti","rahman","rangga",
-"shiokelinci","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
-"tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang",
+"shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
+"tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang","tungkal",
 "uuch","ujang",
 "vargas","wed",
 "xabiru",
-"yansah","yana","yoonk","yoky","zhie"];
+"yansah","yana","yoonk","yoky","zion","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
