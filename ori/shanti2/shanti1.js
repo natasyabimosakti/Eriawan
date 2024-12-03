@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      1.56
+// @version      1.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -33,8 +33,8 @@ var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 var namagroup6 = 'PUSAT';
 var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78';
 
-var namagroup7 = 'NEMO';
-var Comment7 = 'NEMO4D (TAS99) : 37*25*47';
+var namagroup7 = 'ISTANA';
+var Comment7 = 'JANGKAUTOTO(TAS999) : 37*25*47';
 
 var namagroup8 = 'TOK99T0T0';
 var Comment8 = 'Tok99Toto ( TASTY89 ) : 37*25*47';
@@ -96,7 +96,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda","artanti","artha","andinincy",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
-"cila","casaundra","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa","canz",
+"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa","canz",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done",
 "erlangga","elmina","erina","elisa","elok","eviana",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
@@ -111,10 +111,10 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "ori","odgj","oscar","over","ouschan","ozawa",
 "priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait","priyanti",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
-"sijitogel","sakura","syaqeena","sydney","sidebar","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
+"sijitogel","sakura","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
 "vasquez","vina",
-"waslo","wulandari","wiena","wndtfny","wardani","wikasalim",
+"waslo","wulandari","wiena","wndtfny","wardani","wikasalim","wijaya",
 "xabiru","105166432041525",
 "yuli","yosephine","yeti","yanto","yoky",
 "zhelonk","zimbabwe","zhie","zurrotul"];
