@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.56
+// @version      1.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -110,7 +110,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "mimi","maharani","martadirja","megaways","manu","muh","mark","marcia","minions","mei",
 "naumi","nada","nyamark","natalia",
 "ori","odgj","oscar","over","ouschan","ozawa",
-"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait","priyanti",
+"priqittyu","putra","pasaran","prissia","pey","paw","putri","puspita","pratama","prediksi","pram","pait","priyanti","penambang",
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
