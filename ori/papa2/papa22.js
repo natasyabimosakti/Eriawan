@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA22
 // @namespace    http://tampermonkey.net/
-// @version      1.09
+// @version      1.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
@@ -44,8 +44,8 @@ var Comment9 = 'GILA4D=YUKWIN09=88*26*97';
 var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(YUKJUM35)*88*26*97'; 
 
-var namagroup11 = 'INSTANTOTO';
-var Comment11 = '#INSTANTOTO (YELIGUK88) = 63*47';
+var namagroup11 = 'LICIN';
+var Comment11 = '#LICIN4D (YELIGUK88) 63*47*96';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY YEYEK001 63*47*96'; 
@@ -93,29 +93,29 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku",
+var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
 "bela","baran","bambang","bogard",
-"chandra","clone","camb","chantika","chikaku","cintya","casaundra",
+"chandra","clone","camb","chantika","cintya","casaundra",
 "dika","delon",
 "ethes","elok",
 "flanella","fu","faiq","flo","feronika",
-"gates","gita",
-"hefi","hartono",
-"jaguarr","junior","jie","jewels","jess","je pe",
+"gates","gita","gratis",
+"hefi","hartono","haikal","hanabi","intan",
+"jaguarr","junior","jie","jewels","jess","je pe","jessica",
 "lawu","lowati","lubis","loren",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
 "lasmana","laaelaay","loetoe","liu","langit","luvika",
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa",
-"punama","prediction","priqittyu",
-"ran","ria","rm","rizal","raangkuti","rahman",
-"shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa",
+"punama","prediction","priqittyu","poetry",
+"ran","ria","rm","rizal","raangkuti","rahman","rangga",
+"shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
 "tink","tatang","toto","teamoe","toyib","terpecaya","triana","tatang","tungkal",
 "uuch","ujang",
-"vargas",
+"vargas","wed",
 "xabiru",
-"yansah","yana","yoonk","zion","zhie"];
+"yansah","yana","yoonk","yoky","zion","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
