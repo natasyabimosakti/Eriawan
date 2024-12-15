@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      1.45
+// @version      1.46
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 var namagroup1 = 'BLITAR4D';
-var Comment1 = '#BLITAR4D ( WINDOW98 ) : 53*91*33';
+var Comment1 = '#BLITAR4D (WINDOW98) = 53*91';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( WINDI55 ) : 41*54*09';
@@ -27,7 +27,7 @@ var namagroup4 = 'ISTANA';
 var Comment4 = 'JANGKAUTOTO(WORRIE21) : 95*62*85';
 
 var namagroup5 = 'MAYAPADA';
-var Comment5 = 'BETT*Mayapada4D(BO)*WAIVE444*53*91*33';
+var Comment5 = 'BETT*SingasariTOTO(BO)*WAIVE444*53*91*33';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (WONDER65) = 41*54*09';
