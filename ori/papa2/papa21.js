@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.09
+// @version      1.10
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -118,6 +118,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza
 "xabiru",
 "yansah","yana","yoonk","yoky","zion","zhie"];
 
+
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
@@ -128,9 +129,9 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "HONGKONG"
-var keyword12 = "SINGAPUR"
-var keyword13 = "SYDNEY"
+var keyword11 = "SINGAPORE"
+var keyword12 = "SINGAPURA"
+var keyword13 = "HONGKONG"
 var keyword14 = "ℝ𝕆𝕆𝕄"
 
 var Backlist1 = "pemenang lomba";
