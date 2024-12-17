@@ -35,7 +35,7 @@ var Comment6 = '#DIVA4D (WONDER65) = 41*54*09';
 var namagroup7 = 'Wellz';
 var Comment7 = 'SIJITOGEL WINXXX99 20*97*21';
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( WEKLOSE09 ) : 95*62*85';
 
 var namagroup9 = 'VESPA7093L';
