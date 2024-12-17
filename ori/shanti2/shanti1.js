@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      1.63
+// @version      1.64
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -57,8 +57,8 @@ var Comment13 = 'GOHTOGEL=TRUST898=40*57*01';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (TORNADO13) 94*96*99';
 
-var namagroup15 = 'TASIKTOTO';
-var Comment15 = '#TASIKTOTO(TONGKOL65) = 21*84';
+var namagroup15 = 'JOGJATOTO';
+var Comment15 = '#JOGJATOTO (TONGKOL65)= 21-84';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*TIGERS387*55*19*20';
@@ -96,9 +96,9 @@ var id18 = await GM.getValue(18);
 
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda","artanti","artha","andinincy","asyati",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
-"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa","canz",
+"cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa","canz","chinostia",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done",
-"erlangga","elmina","erina","elisa","elok","eviana",
+"erlangga","elmina","erina","elisa","elok","eviana","eryna",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki","har",
