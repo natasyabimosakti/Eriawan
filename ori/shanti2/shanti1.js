@@ -36,7 +36,7 @@ var Comment6 = 'Shiotogel4d (TIRAMISU37) 90*97*78';
 var namagroup7 = 'ISTANA';
 var Comment7 = 'JANGKAUTOTO(TAS999) : 37*25*47';
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( TASTY89 ) : 37*25*47';
 
 var namagroup9 = 'BLITAR4D';
