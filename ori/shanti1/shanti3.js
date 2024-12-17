@@ -35,7 +35,7 @@ var Comment6 = '#DIVA4D (IKONGG90) = 10*82*21';
 var namagroup7 = 'KIKO';
 var Comment7 = '#KIKOTOTO (ICANSEE21) = 19*45';
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( IGUN900 ) : 19*45*55';
 
 var namagroup9 = 'BLITAR4D';
