@@ -98,7 +98,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa","canz","chinostia",
 "dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done",
-"erlangga","elmina","erina","elisa","elok","eviana",
+"erlangga","elmina","erina","elisa","elok","eviana","eryna",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
 "hefi","hartono","huang","hermawan","hokii","hasya","hurren","hoki","har",
