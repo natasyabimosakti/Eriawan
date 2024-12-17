@@ -35,7 +35,7 @@ var Comment6 = '#DIVA4D (ZAPP313) = 26*31*67';
 var namagroup7 = 'Wellz';
 var Comment7 = 'SIJITOGEL ZUZUZU88 59*65*75';
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 59*65*75';
 
 var namagroup9 = 'VESPA7093L';
