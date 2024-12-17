@@ -35,7 +35,7 @@ var Comment6 = '#DIVA4D (YELYEL02) = 80*42*22';
 var namagroup7 = 'Wellz';
 var Comment7 = 'SIJITOGEL YUPPIE54 12*25*37';
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( YUYU666 ) : 80*42*22';
 
 var namagroup9 = 'VESPA7093L';
