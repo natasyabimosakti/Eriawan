@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.66
+// @version      1.67
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -24,8 +24,8 @@ var Comment1 = 'SIJITOGEL JERUJI111 74*13*14';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( JUKIRR777 ) : 48*07*27'; 
 
-var namagroup3 = 'ISTANA';
-var Comment3 = 'JANGKAUTOTO(JARWO333) : 89*25*76';
+var namagroup3 = 'RIATOTO';
+var Comment3 = '#RIATOTO JARWO333 = 89*25*76';
 
 var namagroup4 = 'MAYAPADA';
 var Comment4 = 'BETT*SingasariTOTO(BO)*JEJER999*90*26*65';
@@ -100,7 +100,7 @@ var id18 = await GM.getValue(18);
 var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosultan87","aimi","arang","amoy","amzi","angka","amzii","arang","angka","adita","anggara","anggraini","adm","alicia","ayesha","adelya","aprove","angelica","agatha","aulia","amelia","andika","ayunda","artanti","artha","andinincy","canz","asyati",
 "base","boboho","bogard","bmkg","bonar","barbar","bawah","bungaps","bella",
 "cila","cindy","cantika","claudia","cucu","cintiya","chandra","chiyaa","chinostia",
-"dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done","eryna",
+"damara","dina","dewi","deva","dodda","debby","daniell","dens","depan","dewi","dika","done","eryna",
 "erlangga","elmina","erina","elisa","elok","eviana",
 "fischer","ferlita","fahresa","fais","febia","fatimm","fox",
 "gates","gandul","geboyy","gene","gita","ghefira",
@@ -116,7 +116,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "rm","ratu","rambo","renada","ramadansyah","recceh","resti","roh","riko","riyanti","reborn","rahmawati","rania",
 "sijitogel","sakura","syaqeena","sydney","suhendra","sarah","simanjuntak","sutanti","supyati","saputra","surya","shinta","simaremare","sch","siregar","samuel","sanchez","sandiego","scatter","sahla","shell","sundawa",
 "togel","toto","tan","ten",
-"vasquez","vina",
+"vasquez","vina","valencia",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim","wijaya",
 "xabiru","105166432041525",
 "yuli","yosephine","yeti","yanto","yoky",
