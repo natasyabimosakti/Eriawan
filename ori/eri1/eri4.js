@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.56
+// @version      2.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri4.js
@@ -32,12 +32,11 @@ var Comment5 = '#keitogel = (NARINA10) = 46*33*21';
 var namagroup6 = 'MENARA';
 var Comment6 = '#MENARA4D=NASITA19= 46*33';
 
-
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL NAMIRA10 11*78*56'; 
 
-var namagroup8 = 'Pasar';
-var Comment8 = 'PAJAKTOTO(NAMBIA30) : 11*78';
+var namagroup8 = 'PEDRO';
+var Comment8 = '#PEDRO4D (NAMBIA30*11*78*56)';
 
 var namagroup9 = 'GIL4';
 var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
@@ -95,7 +94,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
+var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
 "bela","baran","bambang","bogard",
 "chandra","clone","camb","chantika","chikaku","cintya","casaundra",
 "dika","delon",
