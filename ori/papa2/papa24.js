@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.14
+// @version      1.15
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -35,8 +35,8 @@ var Comment6 = '#MENARA4D=WONDER65= 65*83*81';
 var namagroup7 = '453P VIP';
 var Comment7 = 'ASEPTOGEL WINXXX99 07*40*79'; 
 
-var namagroup8 = 'Pasar';
-var Comment8 = 'PAJAKTOTO(WEKLOSE09) : 07*40'; 
+var namagroup8 = 'PEDRO';
+var Comment8 = '#PEDRO4D (WEKLOSE09*07*40*79)';
 
 var namagroup9 = 'GIL4';
 var Comment9 = 'GILA4D=WHAWHA24=11*01*62'; 
@@ -94,7 +94,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
+var admin = ["ajosultan87","azahra","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
 "bela","baran","bambang","bogard",
 "chandra","clone","camb","chantika","cintya","casaundra",
 "dika","delon",
