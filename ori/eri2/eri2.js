@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.53
+// @version      2.54
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
@@ -125,7 +125,7 @@ var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "LIMBA"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "login"
+var keyword9 = "ROom"
 var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "SINGAPORE"
 var keyword12 = "SINGAPURA"
