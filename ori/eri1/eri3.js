@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.58
+// @version      2.59
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -95,7 +95,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","azahra","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
+var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","anisa","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah",
 "bela","baran","bambang","bogard",
 "chandra","clone","camb","chantika","chikaku","cintya","casaundra",
 "dika","delon",
