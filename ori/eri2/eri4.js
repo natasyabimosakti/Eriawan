@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.57
+// @version      2.58
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -102,7 +102,7 @@ var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","ar
 "flanella","fu","faiq","flo","feronika",
 "gates","gita","gratis",
 "hefi","hartono","haikal","hanabi","intan",
-"jaguarr","junior","jie","jewels","jess","je pe","jessica",
+"jaguarr","junior","jie","jewels","jess","je pe","jessica","jenifer",
 "lawu","lowati","lubis","loren",
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
 "lasmana","laaelaay","loetoe","liu","langit","luvika","lalla",
