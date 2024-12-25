@@ -51,7 +51,7 @@ var namagroup12 = 'BESTOTO88';
 var Comment12 = 'XKEYPAS34 : 23*60*29 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=XMAX999=63*36*30';
+var Comment13 = 'GOHTOGEL=XMAX999=39*60*29';
 
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (XMIN111) 86*48*96';
@@ -66,7 +66,7 @@ var namagroup17 = 'LING';
 var Comment17 = 'LING77 (XCONE55) 55*96';
 
 var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL (XERABUT22) 39*60*29';
+var Comment18 = 'VESPATOGEL (XERABUT22) 63*36*30';
 
 
 
