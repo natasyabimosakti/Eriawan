@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.56
+// @version      1.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -41,8 +41,8 @@ var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 59*65*75';
 var namagroup9 = 'VESPA7093L';
 var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
 
-var namagroup10 = 'RNR303';
-var Comment10 = '#RNR303(ZZZZZZ66) : 76*45*34';
+var namagroup10 = 'BENIHTOTO';
+var Comment10 = '#BENIHTOTO(ZZZZZZ66) : 76*45*34';
 
 var namagroup11 = 'KIKO';
 var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
