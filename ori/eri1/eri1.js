@@ -109,7 +109,7 @@ var admin = ["ajosultan87","aldy","abys","adianti","azahra","adm","angeline","ar
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa",
 "punama","prediction","priqittyu","poetry",
-"ria","rm","rizal","raangkuti","rahman","rangga",
+"rm","rizal","raangkuti","rahman","rangga",
 "shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
 "tink","tatang","toto","toyib","terpecaya","triana","tatang","tungkal",
 "uuch","ujang",
