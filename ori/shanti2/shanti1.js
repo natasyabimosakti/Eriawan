@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      1.69
+// @version      1.70
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -30,8 +30,8 @@ var Comment4 = 'BETT*SingasariTOTO(BO)*TORNADO13*40*57*01';
 var namagroup5 = 'Wellz';
 var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 
-var namagroup6 = 'KOITOTO';
-var Comment6 = '#KOITOTO ( TIRAMISU37 ) 90*97';
+var namagroup6 = 'TARUNG';
+var Comment6 = '#TARUNGTOTO (TIRAMISU37)=90_97';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO TAS999 = 37*25*47';
