@@ -29,8 +29,8 @@ var Comment4 = 'BETT*SingasariTOTO(BO)*SOS999*51*48*16';
 var namagroup5 = 'Wellz';
 var Comment5 = 'SIJITOGEL SOSWEET87 70*92*38';
 
-var namagroup6 = 'KOITOTO';
-var Comment6 = '#KOITOTO ( SEALION99 ) 83*12';
+var namagroup6 = 'TARUNG';
+var Comment6 = '#TARUNGTOTO (SEALION99)=83_12';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO SQUASH387 = 54*33*13';
