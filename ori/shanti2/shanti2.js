@@ -29,8 +29,8 @@ var Comment4 = 'BETT*SingasariTOTO(BO)*QERJA99*63*34*87';
 var namagroup5 = 'Wellz';
 var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
 
-var namagroup6 = 'KOITOTO';
-var Comment6 = '#KOITOTO ( QWANDU66 ) 77*43';
+var namagroup6 = 'TARUNG';
+var Comment6 = '#TARUNGTOTO (QWANDU66)=77_43';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO QUARTZ8 = 31*53*22';
