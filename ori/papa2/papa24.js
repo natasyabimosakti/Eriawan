@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.19
+// @version      1.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -56,7 +56,7 @@ var Comment13 = '#TOYIBSLOT ( WULLING234 ) : 52*33*25';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 52*33*25 ( WAIVE444 )'; 
 
-var namagroup15 = 'NEMO';
+var namagroup15 = 'Nemo4d';
 var Comment15 = 'NEMO4D (WINTER360) : 02*55*69';
 
 var namagroup16 = 'Hoho';
