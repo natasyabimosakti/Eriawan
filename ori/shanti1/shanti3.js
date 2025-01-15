@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.67
+// @version      1.68
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -116,7 +116,7 @@ var admin = ["angeline","aprillia","aza","ami","adianti","azura","ace","ajosulta
 "vasquez","vina","valencia",
 "waslo","wulandari","wiena","wndtfny","wardani","wikasalim","wijaya",
 "xabiru","105166432041525",
-"yuli","yosephine","yeti","yanto","yoky",
+"yuli","yosephine","yeti","yanto","yoky","yati",
 "zhelonk","zimbabwe","zhie","zurrotul"];
 
 var keyword1 = "ROOM"
