@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.62
+// @version      2.64
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -15,10 +15,10 @@
 // ==/UserScript==
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*LAMDAL36*07*82'; 
+var Comment1 = '#shiokelinci4d*LAMDAL36*76*53'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO LANDAK19 07*82*62'; 
+var Comment2 = 'IYATOTO LANDAK19 76*53*67'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / LANDI72 / 16 , 97 , 08'; 
@@ -45,10 +45,10 @@ var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(LUWIN40)*44*37*15';
 
 var namagroup11 = 'LICIN';
-var Comment11 = '#LICIN4D (LIANDAN99) 76*53*67';
+var Comment11 = '#LICIN4D (LIANDAN99) 07*82*62';
 
 var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY LIMAU94 76*53*67'; 
+var Comment12 = 'TOGELKUY LIMAU94 07*82*63'; 
 
 var namagroup13 = 'Nemo4d';
 var Comment13 = 'NEMO4D (LIAMBA32) : 36*43*95';
