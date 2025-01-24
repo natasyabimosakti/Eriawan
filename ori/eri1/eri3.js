@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.62
+// @version      2.63
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -44,8 +44,8 @@ var Comment9 = 'GILA4D=MANDRA39=03*27*91';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
 
-var namagroup11 = 'LICIN';
-var Comment11 = '#LICIN4D (MASIKA12) 85*98*30';
+var namagroup11 = 'GROUP PREDIKSI';
+var Comment11 = '# ( MASIKA12 ) : 85*98*30';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
@@ -110,7 +110,7 @@ var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","ar
 "mang","melati","megaways","miira","meilani","macau",
 "nella","neman","nyelot","naumi","nattacha","noor",
 "own","offcial","ozawa","ofc",
-"punama","prediction","priqittyu","poetry",
+"punama","prediction","priqittyu","poetry","pertama",
 "rm","rizal","raangkuti","rahman","rangga",
 "shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
 "tink","tatang","toto","toyib","terpecaya","triana","tatang","tungkal",
