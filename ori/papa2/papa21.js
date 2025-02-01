@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.17
+// @version      1.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -107,7 +107,7 @@ var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","ar
 "kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
 "lasmana","laaelaay","loetoe","liu","langit","luvika","lalla",
 "mang","melati","megaways","miira","meilani","macau","mbah",
-"nella","neman","nyelot","naumi","nattacha","noor",
+"nella","neman","nyelot","naumi","nattacha","noor","noah",
 "own","offcial","ozawa",
 "punama","prediction","priqittyu","poetry",
 "rm","rizal","raangkuti","rahman","rangga",
