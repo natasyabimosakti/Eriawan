@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.18
+// @version      1.19
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -94,7 +94,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","anisa","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah","audi",
+var admin = ["ajosultan87","aldy","azahra","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ani","anisa","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah","audi","ardiansyah",
 "bela","baran","bambang","bogard",
 "chandra","clone","camb","chantika","cintya","casaundra",
 "dika","delon",
