@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.61
+// @version      2.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -94,29 +94,29 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["ajosultan87","aldy","abys","adianti","adm","angeline","arang","aza","anatasya","adinda","arum","ayesha","alicia","ardiansyah","anisa","anto","aruna","amore","angka","aleantika","alifa","abangku","amirah","audi",
-"bela","baran","bambang","bogard",
-"chandra","clone","camb","chantika","cintya","casaundra",
-"dika","delon",
-"ethes","elok",
-"flanella","fu","faiq","flo","feronika",
-"gates","gita","gratis",
-"hefi","hartono","haikal","hanabi","intan",
-"jaguarr","junior","jie","jewels","jess","je pe","jessica","jenifer",
-"lawu","lowati","lubis","loren",
-"kembar","kaphal","kumbara","kusnandar","kamado","khawn","kertanegara","kei",
-"lasmana","laaelaay","loetoe","liu","langit","luvika","lalla",
-"mang","melati","megaways","miira","meilani","macau","mbah",
-"nella","neman","nyelot","naumi","nattacha","noor","noah",
-"own","offcial","ozawa",
-"punama","prediction","priqittyu","poetry",
-"rm","rizal","raangkuti","rahman","rangga",
-"shiokelinci","sidebar","shanin","safitri","sanz","sastikha","setia","sari","sarii","sakura","sch","sandiego","sanitizer","suryo","saputra","slot","sudibjo","syaqeena","sudibjo","sundawa","syifa","shell",
-"tink","tatang","toto","toyib","terpecaya","triana","tatang","tungkal",
-"uuch","ujang",
-"vargas","wed",
-"xabiru",
-"yansah","yana","yoonk","yoky","zion","zhie"];
+var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia",
+             "audi","andre","arem","alyn","alicia","asri",
+             "ban nee","bella","biru",
+             "chandra","cengkiledu","chintya","clone","casaundra","chikaku",
+             "dika","dewa","dea",
+             "ethes",
+             "faiq","fania",
+             "gita","gania","global",
+             "hefi","howel","hoi","hokage","haikal",
+             "iyatoto","ikan","inem","ivan","ichaa","intan",
+             "jesica","jne","jenifer","jessica",
+             "kembar","keysha","kotna",
+             "lalla","lenkova","loetoe","laura",
+             "maharani","maley","mrdepowd",
+             "nella","nadia",
+             "putri","pedro",
+             "rangga",
+             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya",
+             "tink","tesa",
+             "uuch",
+             "vonny",
+             "wijaya",
+             "yoky"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
