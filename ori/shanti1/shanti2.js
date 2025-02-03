@@ -124,7 +124,6 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "xabiru",
              "yoky"];
 
-
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
@@ -133,7 +132,7 @@ var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "Lomba"
 var keyword7 = "ROM"
 var keyword8 = "R00M"
-var keyword9 = "R0M"
+var keyword9 = "Room"
 var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "Ro0M"
 
