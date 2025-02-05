@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      4.38
+// @version      4.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -93,7 +93,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
+var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","alicia",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka",
              "boboho","bogard","boss","bungaps","bawah",
              "catherine","cristina","claura","cindy","chinostia","chandra",
@@ -103,7 +103,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "gebby","gita",
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
-             "javeline","jovanka","junior","jasmine",
+             "javeline","junior","jasmine",
              "kimberly","kasino","kembar","kumbara",
              "laura","lidya","leon","lomba",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana",
