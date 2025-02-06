@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.20
+// @version      1.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -94,28 +94,28 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia",
-             "audi","andre","arem","alyn","alicia","asri",
-             "ban nee","bella","biru",
+var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya",
+             "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
+             "ban nee","bella","biru","bela",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku",
              "dika","dewa","dea",
              "ethes",
              "faiq","fania",
-             "gita","gania","global",
+             "gita","gania","global","gambrong",
              "hefi","howel","hoi","hokage","haikal",
              "iyatoto","ikan","inem","ivan","ichaa","intan",
-             "jesica","jne","jenifer","jessica",
-             "kembar","keysha","kotna",
-             "lalla","lenkova","loetoe","laura",
-             "maharani","maley","mrdepowd",
+             "jesica","jne","jenifer","jessica","jovanca",
+             "kembar","keysha","kotna","kris bee",
+             "lalla","lenkova","loetoe","laura","luthfi",
+             "maharani","maley","mrdepowd","mad rm","miira",
              "nella","nadia",
-             "putri","pedro",
-             "rangga",
-             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya",
+             "putri","pedro","puput",
+             "rangga","ria",
+             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa",
              "tink","tesa",
-             "uuch",
              "vonny",
              "wijaya",
+             "xabiru",
              "yoky"];
 
 var keyword1 = "ROOM"
