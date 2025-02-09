@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.70
+// @version      2.71
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -95,7 +95,7 @@ var refresh = 50;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
-             "ban nee","bella","biru","bela",
+             "ban nee","bella","biru","bela","baran",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku",
              "dika","dewa","dea",
              "ethes",
