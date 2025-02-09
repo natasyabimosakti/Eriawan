@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.64
+// @version      2.65
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -45,8 +45,7 @@ var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(RUNNING765)*78*75*92'; 
 
 var namagroup11 = 'TOYIBSLOT';
-var Comment11 = 
-'#TOYIBSLOT ( RUMM009 ) : 19*35*02';
+var Comment11 = '#TOYIBSLOT ( RUMM009 ) : 19*35*02';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY REOTKAB475 20*03*89'; 
@@ -95,7 +94,7 @@ var refresh = 50;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
-             "ban nee","bella","biru","bela",
+             "ban nee","bella","biru","bela","baran",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku",
              "dika","dewa","dea",
              "ethes",
