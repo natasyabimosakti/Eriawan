@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.71
+// @version      1.72
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
@@ -42,7 +42,7 @@ var namagroup9 = 'BLITAR4D';
 var Comment9 = '#BLITAR4D (ROTTAN131) = 49*60';
 
 var namagroup10 = 'BENIHTOTO';
-var Comment10 = '#BENIHTOTO(RAPID393) : 18*75*17';
+var Comment10 = 'BENIHTOTO(RAPID393) : 18*75*17';
 
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (RAKNYAM777) = 49*60*23';
