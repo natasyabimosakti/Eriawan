@@ -90,7 +90,7 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
-var refresh = 50;
+var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora",
