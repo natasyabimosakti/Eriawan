@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      1.62
+// @version      1.63
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -56,8 +56,8 @@ var Comment13 = 'GOHTOGEL=WULLING234=73*44*92';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 77*01*64';
 
-var namagroup15 = 'JOGJATOTO';
-var Comment15 = '#JOGJATOTO (WINTER360)= 88-28';
+var namagroup15 = 'NONGKRONG';
+var Comment15 = '#AMAVI5D ( WINTER360 ) : 88*28*89';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*WIGEN919*56*10*00';
@@ -91,16 +91,16 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
-var refresh = 50;
+var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka",
+             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora",
              "boboho","bogard","boss","bungaps","bawah",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
              "evelyn","erwin","elisa","eryna","echa",
              "fira","felicia","fillea",
-             "gebby","gita",
+             "gebby","gita","gacor",
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine",
