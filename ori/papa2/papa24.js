@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.27
+// @version      1.28
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -91,7 +91,7 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
-var refresh = 50;
+var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
