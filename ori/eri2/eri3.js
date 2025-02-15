@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.65
+// @version      2.66
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -41,7 +41,7 @@ var Comment8 = '#MENARA4D=RUZAK676= 66*95';
 var namagroup9 = 'GIL4';
 var Comment9 = 'GILA4D=ROTTAN131=66*95*29'; 
 
-var namagroup10 = 'JNE';
+var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(RUNNING765)*78*75*92'; 
 
 var namagroup11 = 'TOYIBSLOT';
@@ -90,7 +90,7 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
-var refresh = 50;
+var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
@@ -110,7 +110,7 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "putri","pedro","puput",
              "rangga","ria",
              "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa",
-             "tink","tesa",
+             "tink","tesa","toto",
              "vonny",
              "wijaya",
              "xabiru",
