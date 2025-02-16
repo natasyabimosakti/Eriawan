@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.85
+// @version      1.86
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -42,8 +42,8 @@ var Comment7 = '#KIKOTOTO (JONGKOK222) = 60*51';
 var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( JURANG888 ) : 69*36*78'; 
 
-var namagroup9 = 'BLITAR4D';
-var Comment9 = '#BLITAR4D (JUALAN666) = 69*77';
+var namagroup9 = 'Ultratogel88';
+var Comment9 = 'ULTRATOGEL88 = (JAGOAN77) 69*77*78';
 
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(JARWO333) : 60*51*36';
@@ -96,7 +96,7 @@ var id18 = await GM.getValue(18);
 var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora",
+             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
              "boboho","bogard","boss","bungaps","bawah",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
@@ -107,14 +107,14 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine",
              "kimberly","kasino","kembar","kumbara",
-             "laura","lidya","leon","lomba",
+             "laura","lidya","leon","lomba","lopez",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana",
              "new9eneration","nurlena","nasharu",
              "ozawa","otong","oscar","ouschan",
              "pencari","putri","pricilia","putra","putu",
              "queen",
              "riatoto","ruang","rani","rohmanu","rinx","rambo","rio",
-             "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
+             "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan","safitri",
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego",
              "toto","thonex",
              "vero",
