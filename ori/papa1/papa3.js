@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA3
 // @namespace    http://tampermonkey.net/
-// @version      1.68
+// @version      1.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa3.js
@@ -14,8 +14,8 @@
 // @grant        window.close
 // ==/UserScript==
 
-var namagroup1 = 'BLITAR4D';
-var Comment1 = '#BLITAR4D (XRAY0909) = 57*24';
+var namagroup1 = 'Ultratogel88';
+var Comment1 = 'ULTRATOGEL88 = (XBAR02) 57*24*90';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( XBAY875 ) : 52*43*04';
@@ -94,7 +94,7 @@ var id18 = await GM.getValue(18);
 var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora",
+             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
              "boboho","bogard","boss","bungaps","bawah",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
@@ -105,7 +105,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine",
              "kimberly","kasino","kembar","kumbara",
-             "laura","lidya","leon","lomba",
+             "laura","lidya","leon","lomba","lopez",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana",
              "new9eneration","nurlena","nasharu",
              "ozawa","otong","oscar","ouschan",
@@ -113,7 +113,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "queen",
              "riatoto","ruang","rani","rohmanu","rinx","rambo","rio",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
-             "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego",
+             "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
              "wulan","wei",
