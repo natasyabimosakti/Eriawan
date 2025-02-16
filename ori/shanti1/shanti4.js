@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.73
+// @version      1.74
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -39,8 +39,8 @@ var Comment7 = '#KIKOTOTO (HOPENG596) = 49*11';
 var namagroup8 = '𝐕𝐈𝐏';
 var Comment8 = 'Tok99Toto ( HAIBER757 ) : 83*04*44';
 
-var namagroup9 = 'BLITAR4D';
-var Comment9 = '#BLITAR4D (HOMBRENG898) = 83*04';
+var namagroup9 = 'Ultratogel88';
+var Comment9 = 'ULTRATOGEL88 = (HOKI212) 83*04*44';
 
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(HIYAS680) = 49*11*92';
@@ -93,7 +93,7 @@ var id18 = await GM.getValue(18);
 var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora",
+             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
              "boboho","bogard","boss","bungaps","bawah",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
@@ -104,7 +104,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine",
              "kimberly","kasino","kembar","kumbara",
-             "laura","lidya","leon","lomba",
+             "laura","lidya","leon","lomba","lopez",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana",
              "new9eneration","nurlena","nasharu",
              "ozawa","otong","oscar","ouschan",
@@ -112,7 +112,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "queen",
              "riatoto","ruang","rani","rohmanu","rinx","rambo","rio",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
-             "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego",
+             "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
              "wulan","wei",
