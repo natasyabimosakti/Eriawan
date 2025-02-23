@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.75
+// @version      2.76
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -44,8 +44,8 @@ var Comment9 = 'GILA4D=PUSING777=99*60*92';
 var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(PAYAH999)*99*60*92'; 
 
-var namagroup11 = 'GROUP PREDIKSI';
-var Comment11 = '# ( PUNK888 ) : 52*35*19';
+var namagroup11 = 'KOITOTO';
+var Comment11 = '#KOITOTO ( PUNK888 ) 52*35';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY PUSH565 52*35*19'; 
@@ -95,7 +95,7 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
              "ban nee","bella","biru","bela","baran",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku",
-             "dika","dewa","dea",
+             "dika","dewa","dea","damara",
              "ethes",
              "faiq","fania",
              "gita","gania","global","gambrong",
