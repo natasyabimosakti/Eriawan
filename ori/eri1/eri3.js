@@ -44,12 +44,11 @@ var Comment9 = 'GILA4D=MANDRA39=03*27*91';
 var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
 
-var namagroup11 = 'KOITOTO';
-var Comment11 = '#KOITOTO ( MASIKA12 ) 85*98';
+var namagroup11 = 'Tukangtoto';
+var Comment11 = '( TUKANGTOTO MASIKA12 : 85*98 )';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
-
 
 var namagroup13 = 'Nemo4d';
 var Comment13 = 'NEMO4D (MADSOLAR77) : 41*93*71';
@@ -98,14 +97,14 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "ban nee","bella","biru","bela","baran",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku",
              "dika","dewa","dea","damara",
-             "ethes",
+             "ethes","enzo",
              "faiq","fania",
              "gita","gania","global","gambrong",
              "hefi","howel","hoi","hokage","haikal",
              "iyatoto","ikan","inem","ivan","ichaa","intan",
              "jesica","jne","jenifer","jessica","jovanca",
              "kembar","keysha","kotna","kris bee",
-             "lalla","lenkova","loetoe","laura","luthfi",
+             "lalla","lenkova","loetoe","laura","luthfi","lupin",
              "maharani","maley","mrdepowd","mad rm","miira",
              "nella","nadia",
              "putri","pedro","puput",
