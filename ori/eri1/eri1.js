@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      2.74
+// @version      2.75
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -53,8 +53,8 @@ var Comment12 = 'TOGELKUY PUSH565 52*35*19';
 var namagroup13 = 'Nemo4d';
 var Comment13 = 'NEMO4D (PIQUE020) : 20*18*75';
 
-var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 20*18*75 ( PIANG212 )'; 
+var namagroup14 = 'STREMING';
+var Comment14 = 'SAHARA888 ( PALA212 ) 20*18*75'; 
 
 var namagroup15 = 'Hoho';
 var Comment15 = 'PAKAI333 : 63*51*29 #HOHOTOGEL';
@@ -102,14 +102,14 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "hefi","howel","hoi","hokage","haikal",
              "iyatoto","ikan","inem","ivan","ichaa","intan",
              "jesica","jne","jenifer","jessica","jovanca",
-             "kembar","keysha","kotna","kris bee",
-             "lalla","lenkova","loetoe","laura","luthfi",
-             "maharani","maley","mrdepowd","mad rm","miira",
+             "kembar","keysha","kotna","kris bee","kolong",
+             "lalla","lenkova","loetoe","laura","luthfi","lomba",
+             "maharani","maley","mrdepowd","mad rm","miira","mata",
              "nella","nadia",
              "putri","pedro","puput",
-             "rangga",
-             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa",
-             "tink","tesa","uuch","toto",
+             "rangga","rere",
+             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara",
+             "tink","tesa","uuch","toto","utarii",
              "vonny",
              "wijaya",
              "xabiru",
