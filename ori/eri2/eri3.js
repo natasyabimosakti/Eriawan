@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.66
+// @version      2.67
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri3.js
@@ -53,8 +53,8 @@ var Comment12 = 'TOGELKUY REOTKAB475 20*03*89';
 var namagroup13 = 'LICIN';
 var Comment13 = '#LICIN4D (RUMM009) 79*46*27';
 
-var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 19*35*02 ( RORO363 )';
+var namagroup14 = 'STREMING';
+var Comment14 = 'SAHARA888 ( RAIN19 ) 19*35*02';
 
 var namagroup15 = 'Hoho';
 var Comment15 = 'RAKBAR355 : 99*73*98 #HOHOTOGEL';
@@ -109,7 +109,7 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "nella","nadia",
              "putri","pedro","puput",
              "rangga","ria",
-             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa",
+             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara",
              "tink","tesa","toto",
              "vonny",
              "wijaya",
