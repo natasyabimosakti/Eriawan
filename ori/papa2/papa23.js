@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA23
 // @namespace    http://tampermonkey.net/
-// @version      1.27
+// @version      1.28
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
@@ -53,8 +53,8 @@ var Comment12 = 'TOGELKUY XKEYPAS34 24*27*91';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( XMAX999 ) : 13*68*18'; 
 
-var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 13*68*18 ( XMIN111 )'; 
+var namagroup14 = 'STREMING';
+var Comment14 = 'SAHARA888 ( XMAN111 ) 13*68*18'; 
 
 var namagroup15 = 'Nemo4d';
 var Comment15 = 'NEMO4D (XENIA950) : 05*15*29';
@@ -109,7 +109,7 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "nella","nadia",
              "putri","pedro","puput",
              "rangga","ria",
-             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa",
+             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara",
              "tink","tesa","toto",
              "vonny",
              "wijaya",
