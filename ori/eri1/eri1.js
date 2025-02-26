@@ -104,7 +104,7 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "jesica","jne","jenifer","jessica","jovanca",
              "kembar","keysha","kotna","kris bee","kolong",
              "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin",
-             "maharani","maley","mrdepowd","mad rm","miira","mata",
+             "maharani","maley","mrdepowd","mad rm","miira","mata","manu",
              "nella","nadia",
              "putri","pedro","puput",
              "rangga","rere",
