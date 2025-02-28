@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.29
+// @version      1.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -18,7 +18,7 @@
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*ZEPPIN32*14*49'; 
 
-var namagroup2 = 'Asep';
+var namagroup2 = 'BUKU';
 var Comment2 = 'IYATOTO ZOOLINE55 14*49*12'; 
 
 var namagroup3 = 'TIKTAK';
