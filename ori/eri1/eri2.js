@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.77
+// @version      2.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -17,7 +17,7 @@
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*LAMDAL36*76*53'; 
 
-var namagroup2 = 'Asep';
+var namagroup2 = 'BUKU';
 var Comment2 = 'IYATOTO LANDAK19 76*53*67'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
