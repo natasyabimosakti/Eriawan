@@ -39,8 +39,8 @@ var Comment7 = '#KIKOTOTO (PIQUE020) = 43*66';
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( PUANCEN444 ) : 06*97*33';
 
-var namagroup9 = 'Ultratogel88';
-var Comment9 = 'ULTRATOGEL88 = (PESAN007) 30*09*35';
+var namagroup9 = 'GAMELANTOGEL';
+var Comment9 = '#GAMELANTOGEL (PESAN007) : 30*09*35';
 
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(POKEK909) : 67*81*64';
