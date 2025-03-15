@@ -21,10 +21,10 @@ var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( INJURI45 ) : 17*40*16';
 
 var namagroup3 = 'RIATOTO';
-var Comment3 = '#RIATOTO ICON888 = 98*58*39';
+var Comment3 = '#RIATOTO ICON888 = 29*96*86';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*SingasariTOTO(BO)*ISEEU50*97*58*39';
+var Comment4 = 'BETT*SingasariTOTO(BO)*ISEEU50*98*58*39';
 
 var namagroup5 = 'VESPA7093L';
 var Comment5 = 'VESPATOGEL (MALIAN19) 10*82*21';
@@ -38,8 +38,8 @@ var Comment7 = '#KIKOTOTO (ICANSEE21) = 19*45';
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( IGUN900 ) : 19*45*55';
 
-var namagroup9 = 'Ultratogel88';
-var Comment9 = 'ULTRATOGEL88 = (ILHAM88) 29*96*86';
+var namagroup9 = 'GAMELANTOGEL';
+var Comment9 = '#GAMELANTOGEL (ILHAM88) : 98*58*39';
 
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(ICON888) : 59*03*84';
@@ -94,7 +94,7 @@ var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
-             "boboho","bogard","boss","bungaps","bawah",
+             "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
              "evelyn","erwin","elisa","eryna","echa",
