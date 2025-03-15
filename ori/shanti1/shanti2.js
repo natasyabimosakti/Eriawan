@@ -22,7 +22,7 @@ var namagroup1 = 'TAFSIR';
 var Comment1 = 'SIJITOGEL JERUJI111 74*13*14';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( JUKIRR777 ) : 48*07*27'; 
+var Comment2 = 'K86TOTO ( JUKIRR777 ) : 69*78*77'; 
 
 var namagroup3 = 'RIATOTO';
 var Comment3 = '#RIATOTO JARWO333 = 89*25*76';
@@ -42,8 +42,8 @@ var Comment7 = '#KIKOTOTO (JONGKOK222) = 60*51';
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( JURANG888 ) : 69*36*78'; 
 
-var namagroup9 = 'Ultratogel88';
-var Comment9 = 'ULTRATOGEL88 = (JAGOAN77) 69*77*78';
+var namagroup9 = 'GAMELANTOGEL';
+var Comment9 = '#GAMELANTOGEL (JAGOAN77) : 48*07*27';
 
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(JARWO333) : 60*51*36';
@@ -97,7 +97,7 @@ var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
-             "boboho","bogard","boss","bungaps","bawah",
+             "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
              "evelyn","erwin","elisa","eryna","echa",
