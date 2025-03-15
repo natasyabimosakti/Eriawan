@@ -40,7 +40,7 @@ var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( HAIBER757 ) : 83*04*44';
 
 var namagroup9 = 'GAMELANTOGEL';
-var Comment9 = '#GAMELANTOGEL (HOKI212) : 83*04*44';
+var Comment9 = '#GAMELANTOGEL (HOKI222) : 83*04*44';
 
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(HIYAS680) = 49*11*92';
