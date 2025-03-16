@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.68
+// @version      1.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -44,11 +44,11 @@ var Comment9 = 'VESPATOGEL (YUKWIN09) 81*79*66';
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(YIYIYI65) : 38*70*06';
 
-var namagroup11 = 'KIKO';
+var namagroup11 = 'KIKOTOTO';
 var Comment11 = '#KIKOTOTO (YOUARE05) = 81*79';
 
-var namagroup12 = 'BESTOTO88';
-var Comment12 = 'YEYEK001 : 38*70*06 #BESTOTO88';
+var namagroup12 = 'GAMELAN';
+var Comment12 = '#GAMELANTOGEL (YEYEK001) : 38*70*06';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=YAMYAM44=18*69*32';
@@ -122,7 +122,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
-var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
+var keyword4 = "▇"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "Lomba"
 var keyword7 = "ROM"
