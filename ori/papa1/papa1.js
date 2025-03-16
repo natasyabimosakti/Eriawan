@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.72
+// @version      1.73
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -44,11 +44,11 @@ var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(ZZZZZZ66) : 76*45*34';
 
-var namagroup11 = 'KIKO';
+var namagroup11 = 'KIKOTOTO';
 var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
 
-var namagroup12 = 'BESTOTO88';
-var Comment12 = 'ZUMIE22 : 78*94*99 #BESTOTO88';
+var namagroup12 = 'GAMELAN';
+var Comment12 = '#GAMELANTOGEL (ZUMIE22) : 78*94*99';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=ZUZIE08=49*35*74';
@@ -94,7 +94,7 @@ var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
-             "boboho","bogard","boss","bungaps","bawah",
+             "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
              "evelyn","erwin","elisa","eryna","echa",
@@ -122,7 +122,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
-var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
+var keyword4 = "▇"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "Lomba"
 var keyword7 = "ROM"
