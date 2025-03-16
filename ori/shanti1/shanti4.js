@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.78
+// @version      1.79
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -33,13 +33,13 @@ var Comment5 = 'VESPATOGEL (NARITA74) 08*56*24';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (HOMBRENG898) = 91*54*05';
 
-var namagroup7 = 'KIKO';
+var namagroup7 = 'KIKOTOTO';
 var Comment7 = '#KIKOTOTO (HOPENG596) = 49*11';
 
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( HAIBER757 ) : 83*04*44';
 
-var namagroup9 = 'GAMELANTOGEL';
+var namagroup9 = 'GAMELAN';
 var Comment9 = '#GAMELANTOGEL (HOKI222) : 83*04*44';
 
 var namagroup10 = 'BENIHTOTO';
@@ -122,7 +122,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
-var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
+var keyword4 = "▇"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "Lomba"
 var keyword7 = "ROM"
