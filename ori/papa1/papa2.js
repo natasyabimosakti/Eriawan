@@ -94,7 +94,7 @@ var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
-             "boboho","bogard","boss","bungaps","bawah",
+             "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
              "evelyn","erwin","elisa","eryna","echa",
