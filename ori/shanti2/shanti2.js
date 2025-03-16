@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.79
+// @version      1.80
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
@@ -20,7 +20,7 @@ var Comment1 = 'VESPATOGEL (QONCCER88) 59*50*30';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( QQCHERY88 ) : 65*26*24';
 
-var namagroup3 = 'KIKO';
+var namagroup3 = 'KIKOTOTO';
 var Comment3 = '#KIKOTOTO (QIBAAT50) = 44*03';
 
 var namagroup4 = 'MAYAPADA';
@@ -47,8 +47,8 @@ var Comment10 = 'BENIHTOTO(QIBAAT50) : 77*43*93';
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (QANWIR77) = 79*89*10';
 
-var namagroup12 = 'BESTOTO88';
-var Comment12 = 'QURBAN05 : 72*05*88 #BESTOTO88';
+var namagroup12 = 'GAMELAN';
+var Comment12 = '#GAMELANTOGEL (QUICKLY33) : 72*05*88';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87';
@@ -94,7 +94,7 @@ var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
-             "boboho","bogard","boss","bungaps","bawah",
+             "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
              "evelyn","erwin","elisa","eryna","echa",
@@ -122,7 +122,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
-var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
+var keyword4 = "▇"
 var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
 var keyword6 = "Lomba"
 var keyword7 = "ROM"
