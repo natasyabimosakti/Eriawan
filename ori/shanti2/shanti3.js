@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.77
+// @version      1.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti3.js
@@ -111,7 +111,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "ozawa","otong","oscar","ouschan",
              "pencari","putri","pricilia","putra","putu",
              "queen",
-             "riatoto","ruang","rani","rohmanu","rinx","rambo","rio",
+             "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
