@@ -22,7 +22,7 @@ var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( PAKBULL576 ) : 62*75*61';
 
 var namagroup3 = 'RIATOTO';
-var Comment3 = '#RIATOTO POKEK909 = 46*52*72';
+var Comment3 = '#RIATOTO POKEK909 = 30*52*72';
 
 var namagroup4 = 'MAYAPADA';
 var Comment4 = 'BETT*SingasariTOTO(BO)*PIANG212*47*46*42';
