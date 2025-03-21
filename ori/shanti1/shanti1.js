@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      4.50
+// @version      4.51
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -16,19 +16,19 @@
 
 
 var namagroup1 = 'TAFSIR';
-var Comment1 = 'SIJITOGEL PETRUK99 62*72*12';
+var Comment1 = 'SIJITOGEL PETRUK99 32*71*52';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( PAKBULL576 ) : 62*75*61';
 
 var namagroup3 = 'RIATOTO';
-var Comment3 = '#RIATOTO POKEK909 = 47*52*42';
+var Comment3 = '#RIATOTO POKEK909 = 46*52*72';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*SingasariTOTO(BO)*PIANG212*46*80*79';
+var Comment4 = 'BETT*SingasariTOTO(BO)*PIANG212*47*46*42';
 
-var namagroup5 = 'OTU';
-var Comment5 = 'OTUSLOT*POSYAN676*06*97*33*BETTING';
+var namagroup5 = 'VESPA7093L';
+var Comment5 = 'VESPATOGEL (PIQUE020) 06*97*33';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (PERAK689) = 43*66*01';
@@ -39,35 +39,35 @@ var Comment7 = '#KIKOTOTO (PIQUE020) = 43*66';
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( PUANCEN444 ) : 06*97*33';
 
-var namagroup9 = 'GAMELAN';
-var Comment9 = '#GAMELANTOGEL (PESAN007) : 30*09*35';
+var namagroup9 = 'BENIHTOTO';
+var Comment9 = 'BENIHTOTO(POKEK909) : 67*81*64';
 
-var namagroup10 = 'BENIHTOTO';
-var Comment10 = 'BENIHTOTO(POKEK909) : 67*81*64';
+var namagroup10 = 'TARUNG';
+var Comment10 = '#TARUNGTOTO (PERAK689)=47_46';
 
-var namagroup11 = 'TARUNG';
-var Comment11 = '#TARUNGTOTO (PERAK689)=47_46';
+var namagroup11 = 'Ultratogel88';
+var Comment11 = 'ULTRATOGEL88 = (PESAN007) 67*81*64';
 
-var namagroup12 = 'Ultratogel88';
-var Comment12 = 'ULTRATOGEL88 = (PESAN007) 67*81*64';
+var namagroup12 = 'GOHT0G3L';
+var Comment12 = 'GOHTOGEL=PUCHER333=12*80*79';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=PUCHER333=12*80*79';
+var namagroup13 = '(WARTO)';
+var Comment13 = '#(WARUNGTOTO) = (PIANG212) 30*09*35';
 
-var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (PIANG212) 30*09*35';
+var namagroup14 = 'NONGKRONG';
+var Comment14 = '#AMAVI5D ( PIQUE020 ) : 62*75*61';
 
-var namagroup15 = 'NONGKRONG';
-var Comment15 = '#AMAVI5D ( PIQUE020 ) : 72*75*61';
+var namagroup15 = 'UJI KECERDASAN';
+var Comment15 = 'CITA4D*PONTA670*12*80*79';
 
-var namagroup16 = 'UJI KECERDASAN';
-var Comment16 = 'CITA4D*PONTA670*32*71*52';
+var namagroup16 = 'LING';
+var Comment16 = 'LING77 (PIQUE020) 32*71';
 
-var namagroup17 = 'LING';
-var Comment17 = 'LING77 (PIQUE020) 32*71';
+var namagroup17 = 'cobasajakoogn';
+var Comment17 = 'Blank';
 
-var namagroup18 = 'VESPA7093L';
-var Comment18 = 'VESPATOGEL (PIQUE020) 06*97*33';
+var namagroup18 = 'cobasajakosokng';
+var Comment18 = 'Blank';
 
 var d = new Date();
 var hour = d.getHours();
@@ -90,6 +90,7 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
+
 var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
@@ -156,7 +157,9 @@ var myrefresh = setInterval(function(){
         }
         GM.setValue("time", hour);
     }
-    window.scroll(0,100)
+    if(document.location.href.includes("group")){
+    window.scroll(0,200)
+    }
     if(Cutter == 1){
         location.href = "about:blank"
     }
@@ -173,17 +176,18 @@ var myrefresh = setInterval(function(){
         }
         if (document.querySelectorAll('[data-tracking-duration-id')[ntv]){
             // Nama FB
-            var namafb = document.querySelectorAll('[data-tracking-duration-id]')[ntv].getElementsByClassName('native-text')[0];
-            //Jam
-            var jamposting = document.querySelectorAll('[data-tracking-duration-id]')[ntv].getElementsByClassName('native-text')[1];
-            //Postingan
-            var postingan =document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[3];
-            //Comment Box
-            var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
-            // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
-            if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
-                console.log("Jam Ditemukan " + ret)
+            var namafb = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByTagName("span")[0];
+        //Jam
+        var jamposting1 = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByTagName("span")[1].textContent;
+        var jamposting2 = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByTagName("span")[2].textContent;
+        //Postingan
+        var postingan =document.querySelectorAll('[data-tracking-duration-id')[ntv]
+        //Comment Box
+        var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
+        // Cek Jam
+
+        if (jamposting1.includes("Baru")||jamposting1.slice(0,7).includes("1 men")||jamposting1.slice(0,7).includes("2 men")||jamposting1.slice(0,7).includes("3 men")||jamposting1.slice(0,7).includes("4 men")||jamposting1.slice(0,7).includes("5 men")||jamposting2.includes("Baru")||jamposting2.slice(0,7).includes("1 men")||jamposting2.slice(0,7).includes("2 men")||jamposting2.slice(0,7).includes("3 men")||jamposting2.slice(0,7).includes("4 men")||jamposting2.slice(0,7).includes("5 men")){
+            console.log("Jam Ditemukan " + jamposting1)
                 if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(Backlist2.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(Backlist3.toLowerCase())
@@ -217,14 +221,14 @@ var myrefresh = setInterval(function(){
                         if(jitter == 1){
                             return;
                         }
-                        if(namafb.textContent.toLowerCase().includes(admin[adm].toLowerCase())||jamposting.textContent.toLowerCase().includes("admin")||jamposting.textContent.toLowerCase().includes("moderator")){
+                        if(namafb.textContent.toLowerCase().includes(admin[adm].toLowerCase())||jamposting2.toLowerCase().includes("admin")||jamposting2.toLowerCase().includes("moderator")){
                             // Tampilkan Siapa Yang Memposting
-                            if(jamposting.textContent.toLowerCase().includes("admin")||jamposting.textContent.toLowerCase().includes("moderator")){
+                            if(jamposting2.toLowerCase().includes("admin")||jamposting2.toLowerCase().includes("moderator")){
                                 console.log("Admin yang Memosting = Admin/Moderator");
                             }else{
                                 console.log("Admin yang Memosting = " + admin[adm]);
                             }
-                            
+
                             // Click Comment Box
                             for (var clk = 0; clk < commentbox.length; clk++) {
                                 if(commentbox[clk]){
@@ -595,7 +599,7 @@ function gameClosure() {
     var currentGame;
     return {
         start() {
-            currentGame = setInterval(game, 50)
+            currentGame = setInterval(game, 20)
         },
         stop() {
             clearInterval(currentGame)
