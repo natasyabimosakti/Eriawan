@@ -63,8 +63,8 @@ var Comment15 = 'CITA4D*PONTA670*12*80*79';
 var namagroup16 = 'LING';
 var Comment16 = 'LING77 (PIQUE020) 32*71';
 
-var namagroup17 = 'cobasajakoogn';
-var Comment17 = 'Blank';
+var namagroup17 = 'OPUNG';
+var Comment17 = 'OPUNG4D ( PESAN007 ) : 72*42*35';
 
 var namagroup18 = 'cobasajakosokng';
 var Comment18 = 'Blank';
@@ -93,17 +93,17 @@ var id18 = await GM.getValue(18);
 
 var refresh = 40;
 
-var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha",
+var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","amzi","arabelle",
              "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
-             "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika",
+             "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
              "fira","felicia","fillea",
              "gebby","gita","gacor",
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
-             "javeline","jovanka","junior","jasmine",
+             "javeline","jovanka","junior","jasmine","jati",
              "kimberly","kasino","kembar","kumbara",
              "laura","lidya","leon","lomba","lopez",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana",
