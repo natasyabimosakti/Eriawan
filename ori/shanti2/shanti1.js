@@ -49,7 +49,7 @@ var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (TUNAI123) = 02*58*15';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( TRUST898 ) : 74*68*55';
+var Comment12 = 'OPUNG4D ( TERMOS88 ) : 74*68*55';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=TRUST898=40*57*01';
