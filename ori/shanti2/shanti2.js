@@ -48,7 +48,7 @@ var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (QANWIR77) = 79*89*10';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( QERBAU04 ) : 72*05*88';
+var Comment12 = 'OPUNG4D ( QUICKLY33 ) : 72*05*88';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87';
