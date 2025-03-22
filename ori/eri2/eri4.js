@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.77
+// @version      2.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -50,8 +50,8 @@ var Comment11 = '#TOYIBSLOT ( SODA168 ) : 90*23*12';
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY SOUP88 60*59*40'; 
 
-var namagroup13 = 'Tukangtoto';
-var Comment13 = '( TUKANGTOTO SODA168 : 93*55 )';
+var namagroup13 = 'PASAR';
+var Comment13 = 'DAGELAN4D(SODA168) : 93*55*05';
 
 var namagroup14 = 'STREMING';
 var Comment14 = 'SAHARA888 ( SMILE38 ) 90*23*12';
@@ -94,21 +94,21 @@ var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya","azahra","aini",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
-             "ban nee","bella","biru","bela","baran",
+             "ban nee","bella","biru","bela","baran","bogard",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku","callista",
              "dika","dewa","dea","damara",
              "ethes","enzo",
-             "faiq","fania",
+             "faiq","fania","ferlita",
              "gita","gania","global","gambrong",
              "hefi","howel","hoi","hokage","haikal",
              "iyatoto","ikan","inem","ivan","ichaa","intan",
              "jesica","jne","jenifer","jessica","jovanca","jati",
              "kembar","keysha","kotna","kris bee","kolong",
-             "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin",
+             "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin","langit",
              "maharani","maley","mrdepowd","mad rm","miira","mata","manu",
              "nella","nadia",
              "putri","pedro","puput",
-             "rangga","rere",
+             "rangga","rere","rambo","ratuliu",
              "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara","sembroh",
              "tink","tesa","uuch","toto","utarii","tiar",
              "vonny",
