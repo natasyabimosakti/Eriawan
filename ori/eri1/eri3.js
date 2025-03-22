@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.83
+// @version      2.84
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -44,8 +44,8 @@ var Comment9 = 'GILA4D=MANDRA39=03*27*91';
 var namagroup10 = 'JNETOOTO';
 var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
 
-var namagroup11 = 'Tukangtoto';
-var Comment11 = '( TUKANGTOTO MASIKA12 : 85*98 )';
+var namagroup11 = 'PASAR';
+var Comment11 = 'DAGELAN4D(MASIKA12) : 85*98*30';
 
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
@@ -95,21 +95,21 @@ var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya","azahra","aini",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
-             "ban nee","bella","biru","bela","baran",
+             "ban nee","bella","biru","bela","baran","bogard",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku","callista",
              "dika","dewa","dea","damara",
              "ethes","enzo",
-             "faiq","fania",
+             "faiq","fania","ferlita",
              "gita","gania","global","gambrong",
              "hefi","howel","hoi","hokage","haikal",
              "iyatoto","ikan","inem","ivan","ichaa","intan",
              "jesica","jne","jenifer","jessica","jovanca","jati",
              "kembar","keysha","kotna","kris bee","kolong",
-             "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin",
+             "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin","langit",
              "maharani","maley","mrdepowd","mad rm","miira","mata","manu",
              "nella","nadia",
              "putri","pedro","puput",
-             "rangga","rere",
+             "rangga","rere","rambo","ratuliu",
              "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara","sembroh",
              "tink","tesa","uuch","toto","utarii","tiar",
              "vonny",
