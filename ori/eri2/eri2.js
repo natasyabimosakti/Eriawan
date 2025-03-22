@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.76
+// @version      2.77
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri2.js
@@ -50,8 +50,8 @@ var Comment11 = '#TOYIBSLOT ( QERBAU04 ) : 58*96*00';
 var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY QURBAN05 82*68*61'; 
 
-var namagroup13 = 'Tukangtoto';
-var Comment13 = '( TUKANGTOTO QERBAU04 : 36*18 )';
+var namagroup13 = 'PASAR';
+var Comment13 = 'DAGELAN4D(QERBAU04) : 36*18*39';
 
 var namagroup14 = 'STREMING';
 var Comment14 = 'SAHARA888 ( QUICKLY8 ) 58*96*00';
@@ -95,28 +95,27 @@ var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya","azahra","aini",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
-             "ban nee","bella","biru","bela","baran",
+             "ban nee","bella","biru","bela","baran","bogard",
              "chandra","cengkiledu","chintya","clone","casaundra","chikaku","callista",
              "dika","dewa","dea","damara",
              "ethes","enzo",
-             "faiq","fania",
+             "faiq","fania","ferlita",
              "gita","gania","global","gambrong",
              "hefi","howel","hoi","hokage","haikal",
              "iyatoto","ikan","inem","ivan","ichaa","intan",
              "jesica","jne","jenifer","jessica","jovanca","jati",
              "kembar","keysha","kotna","kris bee","kolong",
-             "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin",
+             "lalla","lenkova","loetoe","laura","luthfi","lomba","lupin","langit",
              "maharani","maley","mrdepowd","mad rm","miira","mata","manu",
              "nella","nadia",
              "putri","pedro","puput",
-             "rangga","rere",
+             "rangga","rere","rambo","ratuliu",
              "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara","sembroh",
              "tink","tesa","uuch","toto","utarii","tiar",
              "vonny",
              "wijaya","wawan",
              "xabiru",
              "yoky"];
-
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
