@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.72
+// @version      1.73
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -115,7 +115,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
-             "wulan","wei",
+             "wulan","wei","wawan",
              "xabiru",
              "yoky"];
 
