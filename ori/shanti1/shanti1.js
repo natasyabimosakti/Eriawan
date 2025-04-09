@@ -46,7 +46,7 @@ var namagroup10 = 'TARUNG';
 var Comment10 = '#TARUNGTOTO (PERAK689)=47_46';
 
 var namagroup11 = 'KIOST0T0';
-var Comment11 = 'KIOSTOTO=PESAN007=67*81*64';
+var Comment11 = 'KIOSTOTO=PERAK689=67*81*64';
 
 var namagroup12 = 'GOHT0G3L';
 var Comment12 = 'GOHTOGEL=PUCHER333=12*80*79';
