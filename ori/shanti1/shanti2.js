@@ -52,7 +52,7 @@ var namagroup11 = 'TARUNG';
 var Comment11 = '#TARUNGTOTO (JEPANG999)=87_89';
 
 var namagroup12 = 'KIOST0T0';
-var Comment12 = 'KIOSTOTO=JAGOAN77=15*73*28';
+var Comment12 = 'KIOSTOTO=LANYO19=15*73*28';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=JIJIK777=02*41*22'; 
