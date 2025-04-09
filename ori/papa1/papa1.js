@@ -14,8 +14,9 @@
 // @grant        window.close
 // ==/UserScript==
 
-var namagroup1 = 'Ultratogel88';
-var Comment1 = 'ULTRATOGEL88 = (ZAMBO88) 11*61*27';
+
+var namagroup1 = 'KIOST0T0';
+var Comment1 = 'KIOSTOTO=ZAPP313=11*61*27';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*71*27';
