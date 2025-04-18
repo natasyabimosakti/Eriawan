@@ -43,7 +43,7 @@ var namagroup9 = 'KIOST0T0';
 var Comment9 = 'KIOSTOTO=TIRAMISU37=02*58*15';
 
 var namagroup10 = 'ANGKER';
-var Comment10 = 'ANGKER4D=ZOMBIE22=90*97*78';
+var Comment10 = 'ANGKER4D=TASTY89=90*97*78';
 
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (TUNAI123) = 02*58*15';
