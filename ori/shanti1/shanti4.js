@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.86
+// @version      1.87
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -42,8 +42,8 @@ var Comment8 = 'Tok99Toto ( HAIBER757 ) : 83*04*44';
 var namagroup9 = 'OPUNG';
 var Comment9 = 'OPUNG4D ( HOKI222 ) : 83*04*44';
 
-var namagroup10 = 'BENIHTOTO';
-var Comment10 = 'BENIHTOTO(HIYAS680) = 08*56*24';
+var namagroup10 = 'ANGKER';
+var Comment10 = 'ANGKER4D=NAMBIA30=08*56*24';
 
 var namagroup11 = 'TARUNG';
 var Comment11 = '#TARUNGTOTO (HANTAR999)=85_93';
