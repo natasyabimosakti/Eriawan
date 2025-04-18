@@ -24,7 +24,7 @@ var namagroup3 = 'KIKOTOTO';
 var Comment3 = '#KIKOTOTO (QIBAAT50) = 44*03';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETTMAYAPADA4D(BO)QERJA9963*34*87';
+var Comment4 = 'BETTMAYAPADA4D(BO)QERJA99*63*34*87';
 
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
@@ -42,7 +42,7 @@ var namagroup9 = 'KIOST0T0';
 var Comment9 = 'KIOSTOTO=QWANDU66=79*89*10';
 
 var namagroup10 = 'ANGKER';
-var Comment10 = 'ANGKER4D=YUYU666=77*43*93';
+var Comment10 = 'ANGKER4D=QWERTYY28=77*43*93';
 
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (QANWIR77) = 79*89*10';
