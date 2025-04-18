@@ -25,7 +25,7 @@ var namagroup3 = 'KIKOTOTO';
 var Comment3 = '#KIKOTOTO (THANKYOU99) = 94*96';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETTMAYAPADA4D(BO)TORNADO1340*57*01';
+var Comment4 = 'BETTMAYAPADA4D(BO)TORNADO13*40*57*01';
 
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
