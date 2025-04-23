@@ -25,7 +25,7 @@ var namagroup3 = 'RIATOTO';
 var Comment3 = '#RIATOTO POKEK909 = 30*52*72';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETTMAYAPADA4D(BO)PIANG21247*46*42';
+var Comment4 = 'BETT*Mayapada4D(BO)*PIANG212*47*46*42';
 
 var namagroup5 = 'VESPA7093L';
 var Comment5 = 'VESPATOGEL (PIQUE020) 06*97*33';
