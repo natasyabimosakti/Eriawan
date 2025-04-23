@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.78
+// @version      1.79
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -20,14 +20,14 @@ var Comment1 = 'KIOSTOTO=YELYEL02=19*46*93';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( YUMIE88 ) : 15*47*58';
 
-var namagroup3 = 'TARUNG';
-var Comment3 = '#TARUNGTOTO (YEEZZ35)=19_46';
+var namagroup3 = 'LTDTOTO';
+var Comment3 = '#LTDTOTO =(YEEZZ35)= 19*46*';
 
 var namagroup4 = 'RIATOTO';
 var Comment4 = '#RIATOTO YONGMAS88 = 15*47*25';
 
 var namagroup5 = 'MAYAPADA';
-var Comment5 = 'BETTMAYAPADA4D(BO)YOUPUB3312*58*37';
+var Comment5 = 'BETT*Mayapada4D(BO)*YOUPUB33*12*58*37';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (YELYEL02) = 80*42*22';
@@ -103,7 +103,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine","jati",
-             "kimberly","kasino","kembar","kumbara",
+             "kimberly","kasino","kembar","kumbara","keluarga",
              "laura","lidya","leon","lomba","lopez","lehman",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
