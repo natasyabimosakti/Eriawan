@@ -103,7 +103,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine","jati",
-             "kimberly","kasino","kembar","kumbara",
+             "kimberly","kasino","kembar","kumbara","keluarga",
              "laura","lidya","leon","lomba","lopez","lehman",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
