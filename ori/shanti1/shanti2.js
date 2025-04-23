@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      1.98
+// @version      1.99
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -48,8 +48,8 @@ var Comment9 = 'ANGKER4D=LAINNYA19=60*51*36';
 var namagroup10 = 'BENIHTOTO';
 var Comment10 = 'BENIHTOTO(JARWO333) : 60*51*36';
 
-var namagroup11 = 'TARUNG';
-var Comment11 = '#TARUNGTOTO (JEPANG999)=87_89';
+var namagroup11 = 'LTDTOTO';
+var Comment11 = '#LTDTOTO =(JAPAN808)= 87*89*';
 
 var namagroup12 = 'KIOST0T0';
 var Comment12 = 'KIOSTOTO=LANYO19=15*73*28';
@@ -107,7 +107,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine","jati",
-             "kimberly","kasino","kembar","kumbara",
+             "kimberly","kasino","kembar","kumbara","keluarga",
              "laura","lidya","leon","lomba","lopez","lehman",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
