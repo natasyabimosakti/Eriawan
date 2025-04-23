@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.87
+// @version      1.88
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -25,7 +25,7 @@ var namagroup3 = 'RIATOTO';
 var Comment3 = '#RIATOTO HIYAS680 = 93*70*95';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETTMAYAPADA4D(BO)HINA73888*20*68';
+var Comment4 = 'BETT*Mayapada4D(BO)*HINA738*88*20*68';
 
 var namagroup5 = 'VESPA7093L';
 var Comment5 = 'VESPATOGEL (NARITA74) 08*56*24';
@@ -45,8 +45,8 @@ var Comment9 = 'OPUNG4D ( HOKI222 ) : 83*04*44';
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=NAMBIA30=08*56*24';
 
-var namagroup11 = 'TARUNG';
-var Comment11 = '#TARUNGTOTO (HANTAR999)=85_93';
+var namagroup11 = 'LTDTOTO';
+var Comment11 = '#LTDTOTO =(HANTAR999)= 85*93*';
 
 var namagroup12 = 'KIOST0T0';
 var Comment12 = 'KIOSTOTO=NASITA19=49*11*92';
@@ -104,7 +104,7 @@ var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayes
              "hilda","haruka","hokii","hoki","hartono","hefi",
              "irine","ishaura","ichaa","indah","iman","ikan","inem",
              "javeline","jovanka","junior","jasmine","jati",
-             "kimberly","kasino","kembar","kumbara",
+             "kimberly","kasino","kembar","kumbara","keluarga",
              "laura","lidya","leon","lomba","lopez","lehman",
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
