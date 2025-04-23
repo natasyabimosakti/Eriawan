@@ -28,7 +28,7 @@ var namagroup3 = 'RIATOTO';
 var Comment3 = '#RIATOTO JARWO333 = 89*25*76';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETTMAYAPADA4D(BO)JEJER99990*26*65';
+var Comment4 = 'BETT*Mayapada4D(BO)*JEJER999*90*26*65';
 
 var namagroup5 = 'OPUNG';
 var Comment5 = 'OPUNG4D ( JAGOAN77 ) : 48*07*27';
