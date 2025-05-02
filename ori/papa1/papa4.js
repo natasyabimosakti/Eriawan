@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      1.79
+// @version      1.80
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -20,8 +20,8 @@ var Comment1 = 'KIOSTOTO=WONDER65=53*91*33';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( WINDI55 ) : 41*54*09';
 
-var namagroup3 = 'LTDTOTO';
-var Comment3 = '#LTDTOTO =(WUJONIE56)= 20*97*';
+var namagroup3 = 'KASTOTO';
+var Comment3 = '#KASTOTO(WUJONIE56) = 20*97*33 #AGENTOGELTERPERCAYA';
 
 var namagroup4 = 'RIATOTO';
 var Comment4 = '#RIATOTO WORRIE21 = 95*62*85';
@@ -98,7 +98,7 @@ var refresh = 40;
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
              "boboho","bogard","boss","bungaps","bawah","botack",
-             "catherine","cristina","claura","cindy","chinostia","chandra",
+             "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
              "fira","felicia","fillea",
