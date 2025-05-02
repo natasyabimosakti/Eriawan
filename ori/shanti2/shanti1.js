@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      1.95
+// @version      1.96
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -94,7 +94,7 @@ var id18 = await GM.getValue(18);
 var refresh = 40;
 
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle",
+             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
              "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
