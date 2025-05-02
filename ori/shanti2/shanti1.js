@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      1.96
+// @version      1.98
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -30,8 +30,8 @@ var Comment4 = 'BETT*Mayapada4D(BO)*TORNADO13*40*57*01';
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 
-var namagroup6 = 'LTDTOTO';
-var Comment6 = '#LTDTOTO =(TIRAMISU37)= 90*97*';
+var namagroup6 = 'KASTOTO';
+var Comment6 = '#KASTOTO(TIRAMISU37) = 90*97*78 #AGENTOGELTERPERCAYA';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO TAS999 = 37*25*47';
@@ -96,7 +96,7 @@ var refresh = 40;
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
              "boboho","bogard","boss","bungaps","bawah","botack",
-             "catherine","cristina","claura","cindy","chinostia","chandra",
+             "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
              "fira","felicia","fillea",
