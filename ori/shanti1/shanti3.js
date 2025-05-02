@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      1.93
+// @version      1.94
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -44,8 +44,8 @@ var Comment9 = 'OPUNG4D ( ILHAM88 ) : 98*58*39';
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=MASIBAN30=59*03*84';
 
-var namagroup11 = 'LTDTOTO';
-var Comment11 = '#LTDTOTO =(INDAH007)= 29*96*';
+var namagroup11 = 'KASTOTO';
+var Comment11 = '#KASTOTO(INDAH007) = 29*96*86 #AGENTOGELTERPERCAYA';
 
 var namagroup12 = 'KIOST0T0';
 var Comment12 = 'KIOSTOTO=MALIBU31=59*03*84';
@@ -96,7 +96,7 @@ var refresh = 40;
 var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
              "boboho","bogard","boss","bungaps","bawah","botack",
-             "catherine","cristina","claura","cindy","chinostia","chandra",
+             "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
              "fira","felicia","fillea",
