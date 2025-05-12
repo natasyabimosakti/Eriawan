@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.43
+// @version      1.44
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -97,7 +97,7 @@ var refresh = 40;
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya","azahra","aini",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
              "ban nee","bella","biru","bela","baran","bogard",
-             "chandra","cengkiledu","chintya","clone","casaundra","chikaku","callista","ccwek",
+             "chandra","cengkiledu","chintya","clone","casaundra","chikaku","callista","ccwek","chow",
              "dika","dewa","dea","damara",
              "ethes","enzo","eryna",
              "faiq","fania","ferlita",
