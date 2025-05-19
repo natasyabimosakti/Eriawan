@@ -14,8 +14,8 @@
 // @grant        window.close
 // ==/UserScript==
 
-var namagroup1 = 'KIOST0T0';
-var Comment1 = 'KIOSTOTO=YELYEL02=19*46*93';
+var namagroup1 = 'TARUNG';
+var Comment1 = '#TARUNGTOTO (YEEZZ35)=19_46';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( YUMIE88 ) : 15*47*58';
