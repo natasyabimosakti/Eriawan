@@ -211,7 +211,8 @@ var myrefresh = setInterval(function(){
                        ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
+                       ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(keyword14.toLowerCase())){
                         console.log("Keyword Ditemukan " + postingan.textContent);
                     }else{
                         continue;
