@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA22
 // @namespace    http://tampermonkey.net/
-// @version      1.03
+// @version      1.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
@@ -90,7 +90,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var refresh = 50;
+var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya","azahra","aini",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
@@ -109,7 +109,7 @@ var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alici
              "nella","nadia",
              "putri","pedro","puput",
              "rangga","rere","rambo","ratuliu",
-             "sila","sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara","sembroh",
+             "sari","sinta","syaqeena","sandiego","sadewa","serena","kardova","sidebar","saya","sundawa","sahara","sembroh",
              "tink","tesa","uuch","toto","utarii","tiar",
              "vonny",
              "wijaya","wawan",
