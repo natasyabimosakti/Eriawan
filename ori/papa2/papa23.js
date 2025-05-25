@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA23
 // @namespace    http://tampermonkey.net/
-// @version      1.04
+// @version      1.05
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
@@ -68,8 +68,6 @@ var Comment17 = '#BUNTUNG = 65*50';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Bosku1';
-
-
 var d = new Date();
 var hour = d.getHours();
 var tm = await GM.getValue("time");
@@ -92,7 +90,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var refresh = 50;
+var refresh = 40;
 
 var admin = ["andika","anto","angelina","aura","anisa","aprilia","ayesha","alicia","ajosultan87","aqisya","azahra","aini",
              "audi","andre","arem","alyn","alicia","asri","aldi","abys","angeline",
