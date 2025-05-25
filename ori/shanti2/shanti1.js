@@ -72,7 +72,7 @@ var Comment18 = 'KOSONG';
 
 var refresh = 40;
 
-var admin = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
+var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
              "boboho","bogard","boss","bungaps","bawah","botack",
              "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
