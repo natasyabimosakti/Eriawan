@@ -88,7 +88,7 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
              "ozawa","otong","oscar","ouschan",
-             "pencari","putri","pricilia","putra","putu",
+             "pencari","pricilia","putra","putu",
              "queen",
              "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
