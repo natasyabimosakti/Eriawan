@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA2
 // @namespace    http://tampermonkey.net/
-// @version      1.87
+// @version      1.88
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa2.js
@@ -86,7 +86,7 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
              "ozawa","otong","oscar","ouschan",
-             "pencari","putri","pricilia","putra","putu",
+             "pencari","pricilia","putra","putu",
              "queen",
              "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
@@ -97,7 +97,7 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "xabiru",
              "yoky"];
 
-var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","ℝ𝕆𝕆𝕄","nemo"]
+var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPORE","ℝ𝕆𝕆𝕄","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","totomacau"]
 var isCommenting = false;
 var isDound = false;
