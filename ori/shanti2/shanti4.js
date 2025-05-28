@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      1.97
+// @version      1.98
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
@@ -89,7 +89,7 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
              "new9eneration","nurlena","nasharu",
              "ozawa","otong","oscar","ouschan",
-             "pencari","putri","pricilia","putra","putu",
+             "pencari","pricilia","putra","putu",
              "queen",
              "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
@@ -100,36 +100,7 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "xabiru",
              "yoky"];
 
-var refresh = 40;
-
-var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
-             "boboho","bogard","boss","bungaps","bawah","botack",
-             "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
-             "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
-             "evelyn","erwin","elisa","eryna","echa",
-             "fira","felicia","fillea",
-             "gebby","gita","gacor",
-             "hilda","haruka","hokii","hoki","hartono","hefi",
-             "irine","ishaura","ichaa","indah","iman","ikan","inem","inisial",
-             "javeline","jovanka","junior","jasmine","jati",
-             "kimberly","kasino","kembar","kumbara","keluarga",
-             "laura","lidya","leon","lomba","lopez","lehman",
-             "mad","mas har","michelle","marimarshell","monicha","manu","mayangsari","marcia","megan","mirana","monica",
-             "new9eneration","nurlena","nasharu",
-             "ozawa","otong","oscar","ouschan",
-             "pencari","putri","pricilia","putra","putu",
-             "queen",
-             "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu",
-             "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
-             "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
-             "toto","thonex",
-             "vero",
-             "wulan","wei","wawan",
-             "xabiru",
-             "yoky"];
-
-var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","ℝ𝕆𝕆𝕄","nemo"]
+var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPORE","ℝ𝕆𝕆𝕄","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","totomacau"]
 var isCommenting = false;
 var isDound = false;
