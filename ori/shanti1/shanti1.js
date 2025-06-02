@@ -42,8 +42,8 @@ var Comment8 = 'Tok99Toto ( PUANCEN444 ) : 06*97*33';
 var namagroup9 = 'ANGKER';
 var Comment9 = 'ANGKER4D=PUANCEN444=67*81*64';
 
-var namagroup10 = 'KASTOTO';
-var Comment10 = '#KASTOTO(PERAK689) = 47*46*09 #AGENTOGELTERPERCAYA';
+var namagroup10 = 'GTO';
+var Comment10 = '(GUDANGTOTO) = (PERAK689) 47*46*09';
 
 var namagroup11 = 'TARUNG';
 var Comment11 = '#TARUNGTOTO (PERAK689)=67_81';
