@@ -20,8 +20,8 @@ var Comment1 = '#TARUNGTOTO (ZAMBORE77)=11_61';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*71*27';
 
-var namagroup3 = 'KASTOTO';
-var Comment3 = '#KASTOTO(ZAMBORE77) = 14*50*71 #AGENTOGELTERPERCAYA';
+var namagroup3 = 'GTO';
+var Comment3 = '(GUDANGTOTO) = (ZAMBORE77) 14*50*71
 
 var namagroup4 = 'RIATOTO';
 var Comment4 = '#RIATOTO ZIGZAG66 = 14*61*50';
@@ -56,8 +56,8 @@ var Comment13 = 'GOHTOGEL=ZUZIE08=49*35*74';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 49*35*74';
 
-var namagroup15 = 'NONGKRONG';
-var Comment15 = '#AMAVI5D ( ZUMBA78 ) : 72*68*51';
+var namagroup15 = 'S4MS0NT0T0';
+var Comment15 = '#SAMSONTOTO/ZUMBA78/72*68';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
