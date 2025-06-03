@@ -29,8 +29,8 @@ var Comment4 = 'BETT*Mayapada4D(BO)*QERJA99*63*34*87';
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
 
-var namagroup6 = 'KASTOTO';
-var Comment6 = '#KASTOTO(QWANDU66) = 77*43*93 #AGENTOGELTERPERCAYA';
+var namagroup6 = 'GTO';
+var Comment6 = '(GUDANGTOTO) = (QWANDU66) 77*43*93';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO QUARTZ8 = 31*53*22';
@@ -56,8 +56,8 @@ var Comment13 = 'GOHTOGEL=QERBAU04=63*34*87';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (QERJA99) 44*03*46';
 
-var namagroup15 = 'NONGKRONG';
-var Comment15 = '#AMAVI5D ( QONCCER88 ) : 65*26*24';
+var namagroup15 = 'S4MS0NT0T0';
+var Comment15 = '#SAMSONTOTO/QONCCER88/65*26';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*QUEEN710*88*85*30';
