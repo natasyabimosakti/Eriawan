@@ -46,7 +46,7 @@ var namagroup10 = 'GTO';
 var Comment10 = '(GUDANGTOTO) = (PERAK689) 47*46*09';
 
 var namagroup11 = 'TARUNG';
-var Comment11 = '#TARUNGTOTO (PERAK689)=62_75';
+var Comment11 = '#TARUNGTOTO (PERAK689)=67_81';
 
 var namagroup12 = 'GOHT0G3L';
 var Comment12 = 'GOHTOGEL=PUCHER333=12*80*79';
@@ -54,8 +54,8 @@ var Comment12 = 'GOHTOGEL=PUCHER333=12*80*79';
 var namagroup13 = '(WARTO)';
 var Comment13 = '#(WARUNGTOTO) = (PIANG212) 30*09*35';
 
-var namagroup14 = 'CUBIT4D';
-var Comment14 = '#CUBIT4D(PIQUE020) = 62*75*61 #CUBIT4DTERPERCAYA';
+var namagroup14 = 'S4MS0NT0T0';
+var Comment14 = '#SAMSONTOTO/PIQUE020/62*75';
 
 var namagroup15 = 'UJI KECERDASAN';
 var Comment15 = 'CITA4D*PONTA670*12*80*79';
@@ -73,7 +73,7 @@ var refresh = 40;
 
 var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","anggel","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle",
-             "boboho","bogard","boss","bungaps","bawah","botack",
+             "boboho","bogard","boss","bungaps","bawah","botack","bear",
              "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
@@ -94,12 +94,12 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
-             "wulan","wei","wawan",
+             "wulan","wei","wawan","walid",
              "xabiru",
              "yoky"];
 
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPORE","ℝ𝕆𝕆𝕄","nemo"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","totomacau"]
+var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","pools","totomacau"]
 var isCommenting = false;
 var isDound = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
