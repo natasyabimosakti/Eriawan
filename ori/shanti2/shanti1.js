@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      2.03
+// @version      2.04
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -30,8 +30,8 @@ var Comment4 = 'BETT*Mayapada4D(BO)*TORNADO13*40*57*01';
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 
-var namagroup6 = 'KASTOTO';
-var Comment6 = '#KASTOTO(TIRAMISU37) = 90*97*78 #AGENTOGELTERPERCAYA';
+var namagroup6 = 'GTO';
+var Comment6 = '(GUDANGTOTO) = (TIRAMISU37) 90*97*78';
 
 var namagroup7 = 'RIATOTO';
 var Comment7 = '#RIATOTO TAS999 = 37*25*47';
@@ -57,8 +57,8 @@ var Comment13 = 'GOHTOGEL=TRUST898=40*57*01';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (TORNADO13) 94*96*99';
 
-var namagroup15 = 'NONGKRONG';
-var Comment15 = '#AMAVI5D ( TONGKOL65 ) : 21*84*64';
+var namagroup15 = 'S4MS0NT0T0';
+var Comment15 = '#SAMSONTOTO/TONGKOL65/21*84';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*TIGERS387*55*19*20';
@@ -72,9 +72,9 @@ var Comment18 = 'KOSONG';
 
 var refresh = 40;
 
-var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
-             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
-             "boboho","bogard","boss","bungaps","bawah","botack",
+var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","anggel","azahra",
+             "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle",
+             "boboho","bogard","boss","bungaps","bawah","botack","bear",
              "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
@@ -90,16 +90,16 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "ozawa","otong","oscar","ouschan",
              "pencari","pricilia","putra","putu",
              "queen",
-             "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu",
+             "riatoto","ruang","rani","rohmanu","rinx","rambo","rio","ratuliu","ratsa","riko",
              "sasa","sintia","syaqeena","susannah","sundawa","sanz","suzanawati","satria","setiawan",
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
-             "wulan","wei","wawan",
+             "wulan","wei","wawan","walid",
              "xabiru",
              "yoky"];
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPORE","ℝ𝕆𝕆𝕄","nemo"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","totomacau"]
+var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","pools","totomacau"]
 var isCommenting = false;
 var isDound = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
