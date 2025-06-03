@@ -20,8 +20,8 @@ var Comment1 = '#TARUNGTOTO (WUJONIE56)=53_91';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( WINDI55 ) : 41*54*09';
 
-var namagroup3 = 'KASTOTO';
-var Comment3 = '#KASTOTO(WUJONIE56) = 20*97*33 #AGENTOGELTERPERCAYA';
+var namagroup3 = 'GTO';
+var Comment3 = '(GUDANGTOTO) = (WUJONIE56) 20*97*33';
 
 var namagroup4 = 'RIATOTO';
 var Comment4 = '#RIATOTO WORRIE21 = 95*62*85';
@@ -44,7 +44,6 @@ var Comment9 = 'VESPATOGEL (WHAWHA24) 73*44*16';
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=WEKLOSE09=88*01*64';
 
-
 var namagroup11 = 'KIKOTOTO';
 var Comment11 = '#KIKOTOTO (WINTER360) = 77*28';
 
@@ -57,8 +56,8 @@ var Comment13 = 'GOHTOGEL=WULLING234=73*44*92';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 77*01*64';
 
-var namagroup15 = 'NONGKRONG';
-var Comment15 = '#AMAVI5D ( WINTER360 ) : 56*10*00';
+var namagroup15 = 'S4MS0NT0T0';
+var Comment15 = '#SAMSONTOTO/WINTER360/56*10';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*WIGEN919*88*28*89';
