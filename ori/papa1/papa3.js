@@ -20,8 +20,8 @@ var Comment1 = '#TARUNGTOTO (XXXAGE30)=57_24';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( XBAY875 ) : 52*43*04';
 
-var namagroup3 = 'KASTOTO';
-var Comment3 = '#KASTOTO(XXXAGE30) = 02*13*08 #AGENTOGELTERPERCAYA';
+var namagroup3 = 'GTO';
+var Comment3 = '(GUDANGTOTO) = (XXXAGE30) 02*13*08';
 
 var namagroup4 = 'RIATOTO';
 var Comment4 = '#RIATOTO XLXL456 = 57*24*90';
@@ -56,8 +56,8 @@ var Comment13 = 'GOHTOGEL=XMAX999=39*60*29';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (XMIN111) 86*48*96';
 
-var namagroup15 = 'NONGKRONG';
-var Comment15 = '#AMAVI5D ( XYOU555 ) : 63*36*30';
+var namagroup15 = 'S4MS0NT0T0';
+var Comment15 = '#SAMSONTOTO/XYOU555/63*36';
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*XENIA950*86*48*96';
