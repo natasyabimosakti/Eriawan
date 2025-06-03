@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      2.04
+// @version      2.05
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -48,7 +48,7 @@ var namagroup11 = 'GTO';
 var Comment11 = '(GUDANGTOTO) = (INDAH007) 29*96*86';
 
 var namagroup12 = 'TARUNG';
-var Comment12 = '#TARUNGTOTO (INDAH007)=63_53';
+var Comment12 = '#TARUNGTOTO (INDAH007)=59_03';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=ICECREAM35=34*23*18';
@@ -56,8 +56,8 @@ var Comment13 = 'GOHTOGEL=ICECREAM35=34*23*18';
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (ISEEU50) 34*23*18';
 
-var namagroup15 = 'CUBIT4D';
-var Comment15 = '#CUBIT4D(ICANSEE21) = 63*53*31 #CUBIT4DTERPERCAYA';
+var namagroup15 = 'S4MS0NT0T0';
+var Comment15 = '#SAMSONTOTO/ICANSEE21/63*53';
 
 var namagroup16 = 'UJI';
 var Comment16 = 'CITA4D*IHSARU724*63*53*57';
@@ -74,7 +74,7 @@ var refresh = 50;
 
 var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle","anggel",
-             "boboho","bogard","boss","bungaps","bawah","botack",
+             "boboho","bogard","boss","bungaps","bawah","botack","bear",
              "catherine","cristina","claura","cindy","chinostia","chandra","cincai",
              "damara","done","dani","dina","dewa","dewi","desi","deva","denis","depan","dika","debby",
              "evelyn","erwin","elisa","eryna","echa",
@@ -95,11 +95,11 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
-             "wulan","wei","wawan",
+             "wulan","wei","wawan","walid",
              "xabiru",
              "yoky"];
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","ℝ𝕆𝕆𝕄","SINGAPORE","nemo"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","totomacau"]
+var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","ttm","pools","totomacau"]
 var isCommenting = false;
 var isDound = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
