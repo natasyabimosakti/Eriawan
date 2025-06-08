@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      2.15
+// @version      2.16
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -63,7 +63,7 @@ var Comment14 = '#(WARUNGTOTO) = (JEJER999) 02*41*22';
 var namagroup15 = 'S4MS0NT0T0';
 var Comment15 = '#SAMSONTOTO/JONGKOK222/48*07';
 
-var namagroup16 = 'UJI';
+var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*JASAD555*74*13*15';
 
 var namagroup17 = 'LING';
@@ -74,7 +74,7 @@ var Comment18 = 'VESPATOGEL (LIAMBA32) 87*73*28';
 
 
 
-var refresh = 50;
+var refresh = 40;
 
 var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","ayesha","anggel","azahra",
              "adelya","ayunda","aurel","ardiansyah","angga","aldo","angelica","angka","aurora","arabelle",
