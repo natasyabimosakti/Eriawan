@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      4.78
+// @version      4.79
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -94,7 +94,7 @@ var adminList = ["angeline","ardiyanti","astrina","andinincy","asyati","alika","
              "shell","sutanti","salsabila","saya","simaremare","sanchez","sydney","sandiego","safitri",
              "toto","thonex",
              "vero",
-             "wulan","wei","wawan","walid",
+             "wulan","wei","wawan","walid","wakgenk",
              "xabiru","yansah",
              "yoky"];
 
