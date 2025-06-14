@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      4.80
+// @version      4.81
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti1.js
@@ -18,55 +18,55 @@
 
 
 var namagroup1 = 'TAFSIR';
-var Comment1 = 'SIJITOGEL PETRUK99 32*71*52';
+var Comment1 = 'SIJITOGEL PETRUK99 47*32*62';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( PAKBULL576 ) : 62*75*61';
+var Comment2 = 'K86TOTO ( PAKBULL576 ) : 47*32*62';
 
 var namagroup3 = 'RIATOTO';
-var Comment3 = '#RIATOTO POKEK909 = 30*52*72';
+var Comment3 = '#RIATOTO POKEK909 = 71*75*46';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*Mayapada4D(BO)*PIANG213*47*46*42';
+var Comment4 = 'BETT*Mayapada4D(BO)*PIANG213*71*75*46';
 
 var namagroup5 = 'VESPA7093L';
-var Comment5 = 'VESPATOGEL (PIQUE020) 06*97*33';
+var Comment5 = 'VESPATOGEL (PIQUE020) 52*61*42';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (PERAK689) = 43*66*01';
+var Comment6 = '#DIVA4D (PERAK689) = 52*61*42';
 
 var namagroup7 = 'KIKOTOTO';
-var Comment7 = '#KIKOTOTO (PIQUE020) = 43*66';
+var Comment7 = '#KIKOTOTO (PIQUE020) = 06*43';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( PUANCEN444 ) : 06*97*33';
+var Comment8 = 'Tok99Toto ( PUANCEN444 ) : 06*43*12';
 
 var namagroup9 = 'ANGKER';
-var Comment9 = 'ANGKER4D=PUANCEN444=67*81*64';
+var Comment9 = 'ANGKER4D=PUANCEN444=97*66*80';
 
 var namagroup10 = 'GTO';
-var Comment10 = '(GUDANGTOTO) = (PERAK689) 47*46*09';
+var Comment10 = '(GUDANGTOTO) = (PERAK689) 33*01*79';
 
 var namagroup11 = 'TARUNG';
-var Comment11 = '#TARUNGTOTO (PERAK689)=67_81';
+var Comment11 = '#TARUNGTOTO (PERAK689)=33_01';
 
 var namagroup12 = 'GOHT0G3L';
-var Comment12 = 'GOHTOGEL=PUCHER333=12*80*79';
+var Comment12 = 'GOHTOGEL=PUCHER333=67*72*30';
 
 var namagroup13 = '(WARTO)';
-var Comment13 = '#(WARUNGTOTO) = (PIANG212) 30*09*35';
+var Comment13 = '#(WARUNGTOTO) = (PIANG212) 67*72*30';
 
 var namagroup14 = 'S4MS0NT0T0';
-var Comment14 = '#SAMSONTOTO/PIQUE020/62*75';
+var Comment14 = '#SAMSONTOTO/PIQUE020/81*35';
 
 var namagroup15 = 'CITA-4D';
-var Comment15 = 'CITA4D*PONTA670*12*80*79';
+var Comment15 = 'CITA4D*PONTA670*81*35*09';
 
 var namagroup16 = 'LING';
-var Comment16 = 'LING77 (PIQUE020) 32*71';
+var Comment16 = 'LING77 (PIQUE020) 64*12';
 
 var namagroup17 = 'OPUNG';
-var Comment17 = 'OPUNG4D ( PESAN007 ) : 72*42*35';
+var Comment17 = 'OPUNG4D ( PESAN007 ) : 97*66*80';
 
 var namagroup18 = 'cobasajakosokng';
 var Comment18 = 'Blank';
