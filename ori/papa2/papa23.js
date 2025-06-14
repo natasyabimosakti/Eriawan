@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA23
 // @namespace    http://tampermonkey.net/
-// @version      1.09
+// @version      1.10
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa23.js
@@ -12,6 +12,8 @@
 // @grant        GM.setValue
 // @grant        GM.getValue
 // @grant        window.close
+// @grant        GM_xmlhttpRequest
+// @connect      raw.githubusercontent.com
 // ==/UserScript==
 
 var namagroup1 = 'SHIOKELINCII';
