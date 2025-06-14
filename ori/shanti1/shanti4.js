@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      2.08
+// @version      2.09
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti4.js
@@ -12,6 +12,8 @@
 // @grant        GM.setValue
 // @grant        GM.getValue
 // @grant        window.close
+// @grant        GM_xmlhttpRequest
+// @connect      raw.githubusercontent.com
 // ==/UserScript==
 
 
