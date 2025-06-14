@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      1.96
+// @version      1.97
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -12,6 +12,8 @@
 // @grant        GM.setValue
 // @grant        GM.getValue
 // @grant        window.close
+// @grant        GM_xmlhttpRequest
+// @connect      raw.githubusercontent.com
 // ==/UserScript==
 
 var namagroup1 = 'TARUNG';
