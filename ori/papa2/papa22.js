@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA22
 // @namespace    http://tampermonkey.net/
-// @version      1.10
+// @version      1.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
@@ -17,13 +17,13 @@
 // ==/UserScript==
 
 var namagroup1 = 'SHIOKELINCII';
-var Comment1 = '#shiokelinci4d*YOYYO94*87*03'; 
+var Comment1 = '#shiokelinci4d*YOYYO94*46*54'; 
 
 var namagroup2 = 'BUKU';
 var Comment2 = 'IYATOTO YUMIE88 87*03*21'; 
 
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / YEEZZ35 / 46 , 54 , 85'; 
+var Comment3 = 'Tiktaktogel / YEEZZ35 / 87 , 03 , 21'; 
 
 var namagroup4 = 'GAIB';
 var Comment4 = 'GAIB4D=YONGMAS88=46*54*85'; 
