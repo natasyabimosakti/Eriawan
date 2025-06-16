@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      2.95
+// @version      2.96
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -17,52 +17,52 @@
 // ==/UserScript==
 
 var namagroup1 = 'SHIOKELINCII';
-var Comment1 = '#shiokelinci4d*LAMDAL36*16*97'; 
+var Comment1 = '#shiokelinci4d*LAMDAL36*97*76'; 
 
 var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO LANDAK19 76*53*67'; 
+var Comment2 = 'IYATOTO LANDAK19 97*76*02'; 
 
 var namagroup3 = 'TIKTAKTOGEL';
-var Comment3 = 'Tiktaktogel / LANDI72 / 76 , 53 , 67'; 
+var Comment3 = 'Tiktaktogel / LANDI72 / 08 , 53 , 22'; 
 
 var namagroup4 = 'GAIB';
-var Comment4 = 'GAIB4D=LARASTI19=16*97*08'; 
+var Comment4 = 'GAIB4D=LARASTI19=08*53*22'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (LARIKA19) = 02*22*83'; 
+var Comment5 = '#keitogel = (LARIKA19) = 16*67*83'; 
 
 var namagroup6 = 'MENARA';
-var Comment6 = '#MENARA4D=LANLAN73= 02*22';
+var Comment6 = '#MENARA4D=LANLAN73= 16*67';
 
 var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL LALILA29 01*96*86'; 
+var Comment7 = 'ASEPTOGEL LALILA29 86*44*07'; 
 
 var namagroup8 = 'PEDRO';
-var Comment8 = '#PEDRO4D (LAINNYA19*01*96*86)';
+var Comment8 = '#PEDRO4D (LAINNYA19*86*44*07)';
 
 var namagroup9 = 'GIL4';
-var Comment9 = 'GILA4D=LUWAK38=44*37*15'; 
+var Comment9 = 'GILA4D=LUWAK38=01*37*82'; 
 
 var namagroup10 = 'JNETOOTO';
-var Comment10 = '#JNETOTO(LUWIN40)*44*37*15';
+var Comment10 = '#JNETOTO(LUWIN40)*01*37*82';
 
 var namagroup11 = 'PASAR';
-var Comment11 = 'DAGELAN4D(LUMER99) : 07*82*62';
+var Comment11 = 'DAGELAN4D(LUMER99) : 86*15*62';
 
 var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY LIMAU94 07*82*63'; 
+var Comment12 = 'TOGELKUY LIMAU94 86*15*62'; 
 
 var namagroup13 = 'NEMO4D';
-var Comment13 = 'NEMO4D (LIAMBA32) : 36*43*95';
+var Comment13 = 'NEMO4D (LIAMBA32) : 36*09*79';
 
 var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( LUMBA328 ) 36*43*95';
+var Comment14 = 'SAHARA888 ( LUMBA328 ) 36*09*79';
 
 var namagroup15 = 'Hoho';
-var Comment15 = 'JAJAN777 : 79*50*09 #HOHOTOGEL';
+var Comment15 = 'JAJAN777 : 43*69*50 #HOHOTOGEL';
 
 var namagroup16 = 'TOYIBSLOT';
-var Comment16 = '#TOYIBSLOT ( LIASTI39 ) : 79*50*69';
+var Comment16 = '#TOYIBSLOT ( LIASTI39 ) : 43*69*50';
 
 var namagroup17 = 'MALAM';
 var Comment17 = 'COBA TES';
