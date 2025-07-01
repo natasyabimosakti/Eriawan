@@ -43,7 +43,7 @@ var Comment8 = '#MENARA4D=TASTY89= 22*71';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=TIKTOK2024=52*38*32'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(TOPIKU777)*64*44*24'; 
 
 var namagroup11 = 'TOYIBSLOT';
