@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO LANDAK19 97*76*02';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / LANDI72 / 08 , 53 , 22'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=LARASTI19=08*53*22'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL LALILA29 86*44*07';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (LAINNYA19*86*44*07)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=LUWAK38=01*37*82'; 
 
 var namagroup10 = 'JNETOOTO';
