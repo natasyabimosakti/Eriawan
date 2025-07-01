@@ -26,7 +26,7 @@ var Comment2 = 'IYATOTO ZOOLINE55 14*49*12';
 var namagroup3 = 'TIKTAK';
 var Comment3 = 'Tiktaktogel / ZAMBORE77 / 17 , 75 , 58'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=ZIGZAG66=17*75*58'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -41,7 +41,7 @@ var Comment7 = 'ASEPTOGEL ZUZUZU88 78*57*51';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (ZAMA737*78*57*51)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=ZONARED44=67*82*22'; 
 
 var namagroup10 = 'JNETOOTO';
