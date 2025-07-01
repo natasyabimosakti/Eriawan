@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO WINDI55 70*77*94';
 var namagroup3 = 'TIKTAK';
 var Comment3 = 'Tiktaktogel / WUJONIE56 / 70 , 77 , 94'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=WORRIE21=89*56*93'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL WINXXX99 65*83*81';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (WEKLOSE09*07*40*79)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=WHAWHA24=11*01*62'; 
 
 var namagroup10 = 'JNETOOTO';
