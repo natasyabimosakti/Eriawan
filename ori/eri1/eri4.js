@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO NAINDRA18 28*65*54';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / NARINA90 / 28 , 65 , 54'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=NAMIA30=68*14*81'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL NAMIRA10 11*78*56';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (NAMBIA30*11*78*56)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
 
 var namagroup10 = 'JNETOOTO';
