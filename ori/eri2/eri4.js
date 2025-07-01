@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO SUNRISE33 57*72*80';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / SUMMER84 / 62 , 37 , 15'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=SEMANGAT45=60*59*40'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL SUNSET245 21*88*69';
 var namagroup8 = 'MENARA';
 var Comment8 = '#MENARA4D=SOMERSET34= 96*55';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=SENADA17=07*65*50'; 
 
 var namagroup10 = 'JNETOOTO';
