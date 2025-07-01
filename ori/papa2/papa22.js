@@ -43,7 +43,7 @@ var Comment8 = '#PEDRO4D (YAMBOH22*04*45*97)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=YUKWIN09=88*26*64'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(YUKJUM35)*88*26*64'; 
 
 var namagroup11 = 'PASAR';
