@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO MANIK89 49*84*72';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / MALUKU12 / 49 , 84 , 72'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=MALAY12=87*57*05'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL MARIA72 39*13*64';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (MASIBAN30*39*13*64)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=MANDRA39=03*27*91'; 
 
 var namagroup10 = 'JNETOOTO';
