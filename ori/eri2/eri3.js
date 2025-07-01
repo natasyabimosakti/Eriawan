@@ -43,7 +43,7 @@ var Comment8 = '#MENARA4D=RUZAK676= 79*46';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=ROTTAN131=66*95*29'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(RUNNING765)*78*75*92'; 
 
 var namagroup11 = 'TOYIBSLOT';
