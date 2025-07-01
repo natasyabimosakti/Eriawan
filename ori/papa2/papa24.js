@@ -43,7 +43,7 @@ var Comment8 = '#PEDRO4D (WEKLOSE09*07*40*79)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=WHAWHA24=11*01*62'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(WHEREAM55)*11*01*62'; 
 
 var namagroup11 = 'PASAR';
