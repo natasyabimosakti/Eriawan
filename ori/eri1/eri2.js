@@ -43,7 +43,7 @@ var Comment8 = '#PEDRO4D (LAINNYA19*86*44*07)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=LUWAK38=01*37*82'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(LUWIN40)*01*37*82';
 
 var namagroup11 = 'PASAR';
