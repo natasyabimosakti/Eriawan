@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO XBAY875 34*92*20';
 var namagroup3 = 'TIKTAK';
 var Comment3 = 'Tiktaktogel / XXXAGE30 / 34 , 92 , 20'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=XLXL456=53*50*98'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL XIKPRO34 35*30*37';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (XANDAL32*35*30*37)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=XERABUT22=73*90*76'; 
 
 var namagroup10 = 'JNETOOTO';
