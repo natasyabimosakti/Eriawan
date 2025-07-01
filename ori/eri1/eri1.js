@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO PAKBULL576 25*74*61';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / POKEK909 / 25 , 74 , 61'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=POMPOM809=89*10*75'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL PAKAI333 99*52*20';
 var namagroup8 = 'PEDRO';
 var Comment8 = '#PEDRO4D (PUANCEN444*99*52*20)';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=PUSING777=60*35*18'; 
 
 var namagroup10 = 'JNETOOTO';
