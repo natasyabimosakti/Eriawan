@@ -43,7 +43,7 @@ var Comment8 = '#MENARA4D=SOMERSET34= 96*55';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=SENADA17=07*65*50'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(SOPHIA38)*62*37*15'; 
 
 var namagroup11 = 'TOYIBSLOT';
