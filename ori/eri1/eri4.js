@@ -43,7 +43,7 @@ var Comment8 = '#PEDRO4D (NAMBIA30*11*78*56)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(NAMIYA19)*23*59*12';
 
 var namagroup11 = 'PASAR';
