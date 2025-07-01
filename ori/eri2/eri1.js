@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO TUNDER18 48*16*34';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / THANKYOU99 / 64 , 44 , 24'; 
 
-var namagroup4 = 'GAIB';
+var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=TANGGO10=77*81*33'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = 'ASEPTOGEL TALKLESS100 14*76*70';
 var namagroup8 = 'MENARA';
 var Comment8 = '#MENARA4D=TASTY89= 22*71';
 
-var namagroup9 = 'GIL4';
+var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=TIKTOK2024=52*38*32'; 
 
 var namagroup10 = 'JNETOOTO';
