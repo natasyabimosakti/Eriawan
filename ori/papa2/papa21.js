@@ -44,7 +44,7 @@ var Comment8 = '#PEDRO4D (ZAMA737*78*57*51)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=ZONARED44=67*82*22'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(ZUKAZUKA01)*67*82*22'; 
 
 var namagroup11 = 'PASAR';
