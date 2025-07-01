@@ -43,7 +43,7 @@ var Comment8 = '#PEDRO4D (XANDAL32*35*30*37)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=XERABUT22=73*90*76'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(XCONE55)*73*90*76'; 
 
 var namagroup11 = 'PASAR';
