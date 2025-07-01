@@ -43,7 +43,7 @@ var Comment8 = '#PEDRO4D (MASIBAN30*39*13*64)';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=MANDRA39=03*27*91'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
 
 var namagroup11 = 'PASAR';
