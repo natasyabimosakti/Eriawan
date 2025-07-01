@@ -43,7 +43,7 @@ var Comment8 = '#MENARA4D=QWERTYY28= 36*18';
 var namagroup9 = 'G1LA';
 var Comment9 = 'GILA4D=QOPILU09=67*49*28'; 
 
-var namagroup10 = 'JNETOOTO';
+var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(QESBAH72)*85*31*63'; 
 
 var namagroup11 = 'TOYIBSLOT';
