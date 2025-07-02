@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.06
+// @version      1.07
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -54,7 +54,7 @@ var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY ZUMIE22 41*61*86'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19*80'; 
+var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19'; 
 
 var namagroup14 = 'STREMING';
 var Comment14 = 'SAHARA888 ( YOUPUB33 ) 36*19*80';
@@ -74,7 +74,7 @@ var Comment18 = 'Bosku1';
 
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer1.json"
-var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
+var keyword = ["ROOM","🎱ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
