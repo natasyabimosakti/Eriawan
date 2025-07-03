@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      2.20
+// @version      2.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -53,8 +53,8 @@ var Comment10 = '#TARUNGTOTO (JEPANG999)=14_73';
 var namagroup11 = 'GTO';
 var Comment11 = '(GUDANGTOTO) = (JAPAN808) 14*73*36';
 
-var namagroup12 = 'KIOST0T0';
-var Comment12 = 'KIOSTOTO=LANYO19=15*73*28';
+var namagroup12 = 'Move0n88';
+var Comment12 = '#moveon88 ( JIJIK777 ) : 14*73';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=JIJIK777=48*15*02'; 
@@ -77,7 +77,7 @@ var Comment18 = 'VESPATOGEL (LIAMBA32) 65*77*25';
 
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
-var keyword = ["ROOM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
+var keyword = ["ROOM","RUM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
