@@ -52,8 +52,8 @@ var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( ZUMIE22 ) : 78*94*99';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=ZUZIE08=49*35*74';
+var namagroup13 = 'Move0n88';
+var Comment13 = '#moveon88 ( ZUZIE08 ) : 11*61';
 
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 49*35*74';
@@ -73,7 +73,7 @@ var Comment18 = 'VESPATOGEL (ZONARED44) 76*45*34';
 
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
-var keyword = ["ROOM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
+var keyword = ["ROOM","RUM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
