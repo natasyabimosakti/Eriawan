@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      2.99
+// @version      3.00
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -384,15 +384,24 @@ async function botKoment(mutatin) {
                     clickEvent.initEvent("mousedown", true, true);
                     sendBtn.dispatchEvent(clickEvent);
 
-                    GM.setValue("group_" + grouptToPost, true);
-                    GM.setValue("group_"+grouptToPost+"_expire", Date.now() + EXPIRATION_MS);
+
                     console.log("✅ Komentar DIKIRIM (via dispatch):", commentToPost);
-                    showNotification("Komentar Sudah Terkirim : " + commentToPost);
+
                     isCommenting = true;
 
                     kondisiStop = true
                     observercomment.disconnect();
+                    if(document.querySelector("[role='dialog']")){
+                        if(document.querySelector("[role='dialog']").textContent.includes("Ada Masalah")){
+                            return;
+                        }
+                    }
+
+                    GM.setValue("group_" + grouptToPost, true);
+                    GM.setValue("group_"+grouptToPost+"_expire", Date.now() + EXPIRATION_MS);
+                    showNotification("Komentar Sudah Terkirim : " + commentToPost);
                     startAutoTask();
+
                     break;
                 } else {
                     showNotification("❌ Textarea atau tombol kirim tidak ditemukan");
@@ -535,4 +544,124 @@ function startAutoTask() {
     }, 10000);
 }
 
+var SCRIPT_NAME = Comment18
+var TELEGRAM_TOKEN = '7479985104:AAF-ISIxbf18g_mOasLoubBwBKgkfSFzzAw'; // GANTI
+var TELEGRAM_CHAT_ID = '-1002717306025'; // GANTI
 
+let lastMessageSent = ""; // lokal per tab/browser
+var sudahkirim = false
+function normalizeText(text) {
+    return text
+        .trim()
+        .replace(/\s+/g, ' ') // ubah tab/newline menjadi satu spasi
+        .toLowerCase(); // biar lebih toleran
+}
+
+// Fungsi menghitung jarak Levenshtein
+function levenshtein(a, b) {
+    const matrix = Array.from({ length: b.length + 1 }, (_, i) => [i]);
+    for (let j = 1; j <= a.length; j++) matrix[0][j] = j;
+
+    for (let i = 1; i <= b.length; i++) {
+        for (let j = 1; j <= a.length; j++) {
+            if (b[i - 1] === a[j - 1]) {
+                matrix[i][j] = matrix[i - 1][j - 1];
+            } else {
+                matrix[i][j] = Math.min(
+                    matrix[i - 1][j - 1] + 1, // substitusi
+                    matrix[i][j - 1] + 1,// tambah
+                    matrix[i - 1][j] + 1 // hapus
+                );
+            }
+        }
+    }
+    return matrix[b.length][a.length];
+}
+
+// Kirim ke Telegram, dengan deteksi spam berbasis kemiripan
+async function sendToTelegram(message) {
+    if (sudahkirim) return;
+ sudahkirim = true
+    const fullMessage = `📡 [${SCRIPT_NAME}]\n${message}`;
+    const normalizedMessage = normalizeText(fullMessage);
+
+    const lastSent = await GM.getValue("lastTelegramMessage", "");
+    const normalizedLast = normalizeText(lastSent);
+
+    const lastTime = await GM.getValue("lastTelegramTime", 0);
+    const now = Date.now();
+    const COOLDOWN = 5 * 60 * 1000; // 5 menit
+
+    const distance = levenshtein(normalizedMessage, normalizedLast);
+    const similarity = 1 - distance / Math.max(normalizedMessage.length, normalizedLast.length);
+
+    const SIMILARITY_THRESHOLD = 0.95; // 95% mirip → dianggap sama
+
+    if (similarity >= SIMILARITY_THRESHOLD && (now - lastTime < COOLDOWN)) {
+        console.log("⏱️ Duplikat dicegah (mirip & <5 menit):", similarity);
+        return;
+    }
+
+    GM_xmlhttpRequest({
+        method: "GET",
+        url: `https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage?chat_id=${TELEGRAM_CHAT_ID}&text=${encodeURIComponent(fullMessage)}`,
+        onload: function (res) {
+            
+            console.log("✅ Telegram terkirim:", res.responseText);
+            GM.setValue("lastTelegramMessage", fullMessage);
+            GM.setValue("lastTelegramTime", now);
+            GM.setValue("lastTelegramSame", now);
+        },
+        onerror: function (err) {
+            console.error("❌ Gagal kirim ke Telegram:", err);
+        }
+    });
+}
+
+async function cekMasalah() {
+    try {
+      if (sudahkirim) return;
+        const now = Date.now();
+        const COOLDOWNPostingan = 60 * 60 * 1000; // 5 menit
+        const lastTimepost = await GM.getValue("lastTelegramSame", 0);
+
+        if ((now - lastTimepost < COOLDOWNPostingan)) {
+             console.log("⏱️ sudah dikirim sse jam yang lalu");
+            return;
+        }else{
+             GM.setValue("lastTelegramSame", 0);
+        }
+
+        const elem = document.querySelectorAll("[data-screen-key-action-ids]")[1];
+        if (!elem) return;
+
+        const dialog = elem.getElementsByClassName("dialog-vscroller")[0];
+        if (!dialog) return;
+
+        const isi = dialog.textContent.toLowerCase();
+        if (isi.includes("masalah")) {
+            const cleanText = dialog.textContent.trim();
+            await sendToTelegram(`🛑 Ada "masalah":\n\n${cleanText}`);
+            startAutoTask()
+
+        }
+    } catch (e) {
+        console.warn("❌ Error saat cek masalah:", e);
+    }
+}
+
+async function cekLogout() {
+    try {
+        const logoutScreen = document.getElementsByClassName("wbloks_1");
+        if (logoutScreen.length > 0) {
+            await sendToTelegram("⚠️ Facebook LOGOUT.");
+        }
+    } catch (e) {
+        console.warn("❌ Error saat cek logout:", e);
+    }
+}
+const observer = new MutationObserver(() => {
+    cekMasalah();
+});
+
+observer.observe(document.body, { childList: true, subtree: true });
