@@ -13,6 +13,7 @@
 // @grant        GM.getValue
 // @grant        window.close
 // @grant        GM_xmlhttpRequest
+// @connect      api.telegram.org
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
