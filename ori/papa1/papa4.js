@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 var namagroup1 = 'LOGAMTOTO';
-var Comment1 = '#LOGAMTOTO=WUJONIE56=53*91';
+var Comment1 = '#LOGAMTOTO=WUJONIE56= 53*91#';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( WINDI55 ) : 41*54*09';
