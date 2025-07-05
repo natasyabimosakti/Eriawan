@@ -42,7 +42,7 @@ var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( SOMERSET34 ) : 54*33*13';
 
 var namagroup9 = 'LOGAMTOTO';
-var Comment9 = '#LOGAMTOTO=SEALION99=51*48';
+var Comment9 = '#LOGAMTOTO=SEALION99= 51*48#';
 
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=SOMERSET34=83*12*80';
