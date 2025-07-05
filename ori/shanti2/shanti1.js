@@ -43,7 +43,7 @@ var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( TASTY89 ) : 37*25*47';
 
 var namagroup9 = 'LOGAMTOTO';
-var Comment9 = '#LOGAMTOTO=TIRAMISU37=40*57';
+var Comment9 = '#LOGAMTOTO=TIRAMISU37= 40*57#';
 
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=TASTY89=90*97*78';
