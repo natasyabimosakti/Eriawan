@@ -51,7 +51,7 @@ var namagroup11 = 'GTO';
 var Comment11 = '(GUDANGTOTO) = (INDAH007) 29*96*86';
 
 var namagroup12 = 'LOGAMTOTO';
-var Comment12 = '#LOGAMTOTO=INDAH007=59*03';
+var Comment12 = '#LOGAMTOTO=INDAH007= 59*03#';
 
 var namagroup13 = 'POLATRIK';
 var Comment13 = '( POLATRIK ICECREAM35 : 34*23 )';
