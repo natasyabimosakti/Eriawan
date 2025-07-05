@@ -52,7 +52,7 @@ var namagroup11 = 'GTO';
 var Comment11 = '(GUDANGTOTO) = (HANTAR999) 85*93*70';
 
 var namagroup12 = 'LOGAMTOTO';
-var Comment12 = '#LOGAMTOTO=HANTAR999=49*11';
+var Comment12 = '#LOGAMTOTO=HANTAR999= 49*11#';
 
 var namagroup13 = 'POLATRIK';
 var Comment13 = '( POLATRIK HEHEHE000 : 88*20 )';
