@@ -42,7 +42,7 @@ var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 31*53*22';
 
 var namagroup9 = 'LOGAMTOTO';
-var Comment9 = '#LOGAMTOTO=QWANDU66=63*34';
+var Comment9 = '#LOGAMTOTO=QWANDU66= 63*34#';
 
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=QWERTYY28=77*43*93';
