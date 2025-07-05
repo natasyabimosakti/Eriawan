@@ -49,7 +49,7 @@ var namagroup10 = 'GTO';
 var Comment10 = '(GUDANGTOTO) = (PERAK689) 33*01*79';
 
 var namagroup11 = 'LOGAMTOTO';
-var Comment11 = '#LOGAMTOTO=PERAK689=33*01';
+var Comment11 = '#LOGAMTOTO=PERAK689= 33*01#';
 
 var namagroup12 = 'POLATRIK';
 var Comment12 = '( POLATRIK PUCHER333 : 67*72 )';
