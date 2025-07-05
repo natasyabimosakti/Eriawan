@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      2.00
+// @version      2.01
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -17,8 +17,8 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'TARUNG';
-var Comment1 = '#TARUNGTOTO (ZAMBORE77)=11_61';
+var namagroup1 = 'LOGAMTOTO';
+var Comment1 = '#LOGAMTOTO=ZAMBORE77=11*61';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*71*27';
@@ -53,8 +53,8 @@ var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( ZUMIE22 ) : 78*94*99';
 
-var namagroup13 = 'Move0n88';
-var Comment13 = '#moveon88 ( ZUZIE08 ) : 11*61';
+var namagroup13 = 'POLATRIK';
+var Comment13 = '( POLATRIK ZAPP313 : 49*35 )';
 
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 49*35*74';
