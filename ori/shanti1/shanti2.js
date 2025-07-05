@@ -49,7 +49,7 @@ var namagroup9 = 'ANGKER';
 var Comment9 = 'ANGKER4D=LAINNYA19=13*28*51';
 
 var namagroup10 = 'LOGAMTOTO';
-var Comment10 = '#LOGAMTOTO=JEPANG999=14*73';
+var Comment10 = '#LOGAMTOTO=JEPANG999= 14*73#';
 
 var namagroup11 = 'GTO';
 var Comment11 = '(GUDANGTOTO) = (JAPAN808) 14*73*36';
