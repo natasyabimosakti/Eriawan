@@ -42,7 +42,7 @@ var namagroup8 = 'VIP';
 var Comment8 = 'Tok99Toto ( RUZAK676 ) : 42*91*29';
 
 var namagroup9 = 'LOGAMTOTO';
-var Comment9 = '#LOGAMTOTO=REALIS147=76*45';
+var Comment9 = '#LOGAMTOTO=REALIS147= 76*45#';
 
 var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=RUZAK676=18*75*17';
