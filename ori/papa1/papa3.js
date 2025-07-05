@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 var namagroup1 = 'LOGAMTOTO';
-var Comment1 = '#LOGAMTOTO=XXXAGE30=57*24';
+var Comment1 = '#LOGAMTOTO=XXXAGE30= 57*24#';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( XBAY875 ) : 52*43*04';
