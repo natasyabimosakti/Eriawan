@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI2
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.02
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri2.js
@@ -48,10 +48,10 @@ var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(LUWIN40)*01*37*82';
 
 var namagroup11 = 'PASAR';
-var Comment11 = 'DAGELAN4D(LUMER99) : 86*15*62';
+var Comment11 = 'DAGELAN4D(LUMER99) : 90*15*62';
 
 var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY LIMAU94 86*15*62'; 
+var Comment12 = 'TOGELKUY LIMAU94 90*15*62'; 
 
 var namagroup13 = 'NEMO4D';
 var Comment13 = 'NEMO4D (LIAMBA32) : 36*09*79';
