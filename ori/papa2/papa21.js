@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA21
 // @namespace    http://tampermonkey.net/
-// @version      1.10
+// @version      1.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa21.js
@@ -55,7 +55,7 @@ var namagroup12 = 'MASTER';
 var Comment12 = 'TOGELKUY ZUMIE22 41*61*86'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( ZUZIE08 ) : 36*19'; 
+var Comment13 = '#TOYIBSLOT (ZUZIE08) = 36*19'; 
 
 var namagroup14 = 'STREMING';
 var Comment14 = 'SAHARA888 ( YOUPUB33 ) 36*19*80';
