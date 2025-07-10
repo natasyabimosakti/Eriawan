@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      1.98
+// @version      1.99
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -53,8 +53,8 @@ var Comment11 = '#KIKOTOTO (WINTER360) = 77*28';
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( WAOW001 ) : 56*10*00';
 
-var namagroup13 = 'POLATRIK';
-var Comment13 = '( POLATRIK WULLING234 : 73*44 )';
+var namagroup13 = 'HITO';
+var Comment13 = '#HITOGEL WULLING234 73*44*92';
 
 var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 77*01*64';
