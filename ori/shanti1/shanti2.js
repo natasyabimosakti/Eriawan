@@ -55,9 +55,9 @@ var namagroup11 = 'GTO';
 var Comment11 = '(GUDANGTOTO) = (JAPAN808) 14*73*36';
 
 var namagroup12 = 'HITO';
-var Comment12 = '#HITOGEL JIJIK777 48*15*02';
+var Comment12 = '#HITOGEL JRAKAH333 48*15*02';
 
-var namagroup13 = 'GOHT0G3L';
+var namagroup13 = 'GOHT0G3Lfgdfgdgd';
 var Comment13 = 'GOHTOGEL=JIJIK777=48*15*02'; 
 
 var namagroup14 = '(WARTO)';
