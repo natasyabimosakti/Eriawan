@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      2.04
+// @version      2.05
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -95,7 +95,7 @@ let adminListReady = false;
 let kondisiStop;
 const LOCAL_KEY = "cachedAdminList";
 const VERSION_KEY = "cachedAdminVersion";
-
+var janganclose = false
 let sedangScroll = false;
 let scrollUlang = false;
 let scrollPerCycle = 5;
@@ -178,31 +178,37 @@ fetchAdminListFromGitHub();
 
 function getCommentForGroup() {
     let commentMap = {
-        [namagroup1]: Comment1,
-        [namagroup2]: Comment2,
-        [namagroup3]: Comment3,
-        [namagroup4]: Comment4,
-        [namagroup5]: Comment5,
-        [namagroup6]: Comment6,
-        [namagroup7]: Comment7,
-        [namagroup8]: Comment8,
-        [namagroup9]: Comment9,
-        [namagroup10]: Comment10,
-        [namagroup11]: Comment11,
-        [namagroup12]: Comment12,
-        [namagroup13]: Comment13,
-        [namagroup14]: Comment14,
-        [namagroup15]: Comment15,
-        [namagroup16]: Comment16,
-        [namagroup17]: Comment17,
-        [namagroup18]: Comment18
+        [normalizeToBasicLatin(namagroup1).toLowerCase()]: Comment1,
+        [normalizeToBasicLatin(namagroup2).toLowerCase()]: Comment2,
+        [normalizeToBasicLatin(namagroup3).toLowerCase()]: Comment3,
+        [normalizeToBasicLatin(namagroup4).toLowerCase()]: Comment4,
+        [normalizeToBasicLatin(namagroup5).toLowerCase()]: Comment5,
+        [normalizeToBasicLatin(namagroup6).toLowerCase()]: Comment6,
+        [normalizeToBasicLatin(namagroup7).toLowerCase()]: Comment7,
+        [normalizeToBasicLatin(namagroup8).toLowerCase()]: Comment8,
+        [normalizeToBasicLatin(namagroup9).toLowerCase()]: Comment9,
+        [normalizeToBasicLatin(namagroup10).toLowerCase()]: Comment10,
+        [normalizeToBasicLatin(namagroup11).toLowerCase()]: Comment11,
+        [normalizeToBasicLatin(namagroup12).toLowerCase()]: Comment12,
+        [normalizeToBasicLatin(namagroup13).toLowerCase()]: Comment13,
+        [normalizeToBasicLatin(namagroup14).toLowerCase()]: Comment14,
+        [normalizeToBasicLatin(namagroup15).toLowerCase()]: Comment15,
+        [normalizeToBasicLatin(namagroup16).toLowerCase()]: Comment16,
+        [normalizeToBasicLatin(namagroup17).toLowerCase()]: Comment17,
+        [normalizeToBasicLatin(namagroup18).toLowerCase()]: Comment18
     };
     var ceknamagroup = document.getElementsByClassName("fixed-container")[0]?.textContent || '';
     var ceknamagroup1 = document.getElementsByClassName('native-text')[5]?.textContent || '';
     var ceknamagroup2 = document.getElementsByClassName('native-text')[6]?.textContent || '';
     var ceknamagroup3 = document.getElementsByClassName('native-text')[7]?.textContent || '';
     var ceknamagroup4 = document.getElementsByClassName('native-text')[8]?.textContent || '';
-    const allGroups = [ceknamagroup, ceknamagroup1, ceknamagroup2, ceknamagroup3, ceknamagroup4];
+    const allGroups = [
+        normalizeToBasicLatin(ceknamagroup).toLowerCase(),
+        normalizeToBasicLatin(ceknamagroup1).toLowerCase(),
+        normalizeToBasicLatin(ceknamagroup2).toLowerCase(),
+        normalizeToBasicLatin(ceknamagroup3).toLowerCase(),
+        normalizeToBasicLatin(ceknamagroup4).toLowerCase()
+    ];
 
     for (let groupName in commentMap) {
         if (allGroups.some(text => text.includes(groupName))) {
@@ -221,8 +227,8 @@ function tungguGroup() {
                 if (container) {
                     const result = getCommentForGroup();
                     if (result) {
-                        commentToPost = result.comment;
-                        grouptToPost = result.groupName;
+                        commentToPost = normalizeToBasicLatin(result.comment)
+                        grouptToPost = normalizeToBasicLatin(result.groupName)
                         console.log("✅ Nama grup : " + grouptToPost + " | Comment : " +commentToPost );
                         manageGroups();
                     }
@@ -290,6 +296,7 @@ async function manageGroups() {
         console.log(`❌ Diblok Grup ${grouptToPost} sudah DIKOMENTARI`);
         kondisiStop =true;
         sudahDiPanggil = true
+        if (janganclose) return;
         location.href = "about:blank";
         return;
 
@@ -304,7 +311,7 @@ async function manageGroups() {
 let sedangKlikTextbox = false;
 function CekBacklist(postinganBL) {
     for (const DataBacklist of Backlist) {
-        const kata = DataBacklist.toLowerCase();
+        const kata = normalizeToBasicLatin(DataBacklist.toLowerCase())
         if (postinganBL.toLowerCase().includes(kata)) {
             console.log(`❌ Diblok karena mengandung: "${kata}"`);
             return true;
@@ -316,7 +323,7 @@ function CekBacklist(postinganBL) {
 function CekKeyword(postingan) {
     console.log("🔍 CekKeyword untuk:", postingan);
     for (const DataKeyword of keyword) {
-        const kata = DataKeyword.toLowerCase();
+        const kata = normalizeToBasicLatin(DataKeyword.toLowerCase())
         if (postingan.toLowerCase().includes(kata)) {
             console.log(`✅ Keyword ditemukan: "${kata}"`);
             return true;
@@ -386,24 +393,15 @@ async function botKoment(mutatin) {
                     clickEvent.initEvent("mousedown", true, true);
                     sendBtn.dispatchEvent(clickEvent);
 
-
+                    GM.setValue("group_" + grouptToPost, true);
+                    GM.setValue("group_"+grouptToPost+"_expire", Date.now() + EXPIRATION_MS);
                     console.log("✅ Komentar DIKIRIM (via dispatch):", commentToPost);
-
+                    showNotification("Komentar Sudah Terkirim : " + commentToPost);
                     isCommenting = true;
 
                     kondisiStop = true
                     observercomment.disconnect();
-                    if(document.querySelector("[role='dialog']")){
-                        if(document.querySelector("[role='dialog']").textContent.includes("Ada Masalah")){
-                            return;
-                        }
-                    }
-
-                    GM.setValue("group_" + grouptToPost, true);
-                    GM.setValue("group_"+grouptToPost+"_expire", Date.now() + EXPIRATION_MS);
-                    showNotification("Komentar Sudah Terkirim : " + commentToPost);
                     startAutoTask();
-
                     break;
                 } else {
                     showNotification("❌ Textarea atau tombol kirim tidak ditemukan");
@@ -535,6 +533,7 @@ function startAutoTask() {
             for (const node of mutation.addedNodes) {
                 if (node.nodeType !== 1) continue; // Bukan elemen
                 if (node.nodeType === 1 && node.textContent.toLowerCase().includes('diposting')||node.textContent.toLowerCase().includes('berhasil')) {
+                    if (janganclose) return;
                     location.href = "about:blank";
                 }
             }
@@ -542,7 +541,9 @@ function startAutoTask() {
     });
     myObservere.observe(document.body, { childList: true, subtree: true });
     setTimeout(() => {
+        if (janganclose) return;
         location.href = "about:blank";
+
     }, 10000);
 }
 
@@ -559,7 +560,6 @@ function normalizeText(text) {
         .toLowerCase(); // biar lebih toleran
 }
 
-// Fungsi menghitung jarak Levenshtein
 function levenshtein(a, b) {
     const matrix = Array.from({ length: b.length + 1 }, (_, i) => [i]);
     for (let j = 1; j <= a.length; j++) matrix[0][j] = j;
@@ -583,8 +583,8 @@ function levenshtein(a, b) {
 // Kirim ke Telegram, dengan deteksi spam berbasis kemiripan
 async function sendToTelegram(message) {
     if (sudahkirim) return;
- sudahkirim = true
-    const fullMessage = `📡 [${SCRIPT_NAME}]\n${message}`;
+    sudahkirim = true
+    const fullMessage = `? [${SCRIPT_NAME}]\n${message}`;
     const normalizedMessage = normalizeText(fullMessage);
 
     const lastSent = await GM.getValue("lastTelegramMessage", "");
@@ -597,10 +597,10 @@ async function sendToTelegram(message) {
     const distance = levenshtein(normalizedMessage, normalizedLast);
     const similarity = 1 - distance / Math.max(normalizedMessage.length, normalizedLast.length);
 
-    const SIMILARITY_THRESHOLD = 0.95; // 95% mirip → dianggap sama
+    const SIMILARITY_THRESHOLD = 0.95; // 95% mirip ? dianggap sama
 
     if (similarity >= SIMILARITY_THRESHOLD && (now - lastTime < COOLDOWN)) {
-        console.log("⏱️ Duplikat dicegah (mirip & <5 menit):", similarity);
+        console.log("?? Duplikat dicegah (mirip & <5 menit):", similarity);
         return;
     }
 
@@ -608,30 +608,42 @@ async function sendToTelegram(message) {
         method: "GET",
         url: `https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage?chat_id=${TELEGRAM_CHAT_ID}&text=${encodeURIComponent(fullMessage)}`,
         onload: function (res) {
-            
-            console.log("✅ Telegram terkirim:", res.responseText);
+
+            console.log("? Telegram terkirim:", res.responseText);
             GM.setValue("lastTelegramMessage", fullMessage);
             GM.setValue("lastTelegramTime", now);
             GM.setValue("lastTelegramSame", now);
         },
         onerror: function (err) {
-            console.error("❌ Gagal kirim ke Telegram:", err);
+            console.error("? Gagal kirim ke Telegram:", err);
         }
     });
 }
 
+async function cekLogout() {
+    try {
+
+        setTimeout(() => {
+            if (document.getElementsByTagName("div").length < 10) {
+                sendToTelegram("?? Facebook BLANK.");
+            }
+        }, 2000)
+    } catch (e) {
+        console.warn("? Error saat cek logout:", e);
+    }
+}
 async function cekMasalah() {
     try {
-      if (sudahkirim) return;
+        if (sudahkirim) return;
         const now = Date.now();
         const COOLDOWNPostingan = 60 * 60 * 1000; // 5 menit
         const lastTimepost = await GM.getValue("lastTelegramSame", 0);
 
         if ((now - lastTimepost < COOLDOWNPostingan)) {
-             console.log("⏱️ sudah dikirim sse jam yang lalu");
+            console.log("?? sudah dikirim sse jam yang lalu");
             return;
         }else{
-             GM.setValue("lastTelegramSame", 0);
+            GM.setValue("lastTelegramSame", 0);
         }
 
         const elem = document.querySelectorAll("[data-screen-key-action-ids]")[1];
@@ -643,27 +655,46 @@ async function cekMasalah() {
         const isi = dialog.textContent.toLowerCase();
         if (isi.includes("masalah")) {
             const cleanText = dialog.textContent.trim();
-            await sendToTelegram(`🛑 Ada "masalah":\n\n${cleanText}`);
-            startAutoTask()
+            janganclose = true;
+            MsgError(SCRIPT_NAME)
+            await sendToTelegram(`? Ada "masalah":\n\n${cleanText}`);
 
         }
     } catch (e) {
-        console.warn("❌ Error saat cek masalah:", e);
+        console.warn("? Error saat cek masalah:", e);
     }
+}
+function MsgError(message) {
+    const notif = document.createElement("div");
+    notif.textContent = message;
+    notif.style.position = "fixed";
+    notif.style.bottom = "20px";
+    notif.style.left = "20px";
+    notif.style.padding = "10px 20px";
+    notif.style.backgroundColor = "black";
+    notif.style.color = "white";
+    notif.style.borderRadius = "5px";
+    notif.style.zIndex = 9999;
+    notif.style.fontSize = "16px";
+    document.body.appendChild(notif);
+    ;
 }
 
-async function cekLogout() {
-    try {
-        const logoutScreen = document.getElementsByClassName("wbloks_1");
-        if (logoutScreen.length > 0) {
-            await sendToTelegram("⚠️ Facebook LOGOUT.");
-        }
-    } catch (e) {
-        console.warn("❌ Error saat cek logout:", e);
-    }
-}
-const observer = new MutationObserver(() => {
+const observers = new MutationObserver(() => {
     cekMasalah();
+    cekLogout()
 });
 
-observer.observe(document.body, { childList: true, subtree: true });
+observers.observe(document.body, { childList: true, subtree: true });
+
+function normalizeToBasicLatin(str) {
+    return str.replace(/[\u{1D400}-\u{1D7FF}]/gu, (ch) => {
+        const boldA = 0x1D400;
+        const normalA = 0x41; // ASCII A
+        let code = ch.codePointAt(0);
+        if (code >= boldA && code <= boldA + 25) {
+            return String.fromCharCode(normalA + (code - boldA));
+        }
+        return ch;
+    });
+}
