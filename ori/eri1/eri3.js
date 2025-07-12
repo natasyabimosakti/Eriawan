@@ -68,7 +68,7 @@ var Comment16 = '#TOYIBSLOT (MANDRA16) = 38*17';
 var namagroup17 = 'MALAM';
 var Comment17 = 'Grup A3';
  
-var namagroup18 = 'BELUM';
+var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup A3'; 
 
 var refresh = 40;
