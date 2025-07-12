@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      2.17
+// @version      2.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -69,8 +69,8 @@ var Comment16 = 'CITA4D*TIGERS387*55*19*20';
 var namagroup17 = 'LING';
 var Comment17 = 'LING77 (TASMANIA2) 66*08';
 
-var namagroup18 = 'MALAM';
-var Comment18 = 'KOSONG';
+var namagroup18 = 'Jawatengan';
+var Comment18 = 'Grup D1';
 
 
 var refresh = 40;
@@ -82,9 +82,9 @@ var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
 // ✅ Daftar grup dan nilai default
 const groupNames = [
-    namagroup1, namagroup2, namagroup3, namagroup4, namagroup5, namagroup6,
-    namagroup7, namagroup8, namagroup9, namagroup10, namagroup11, namagroup12,
-    namagroup13, namagroup14, namagroup15, namagroup16, namagroup17, namagroup18
+    normalizeToBasicLatin(namagroup1).toLowerCase(), normalizeToBasicLatin(namagroup2).toLowerCase(), normalizeToBasicLatin(namagroup3).toLowerCase(), normalizeToBasicLatin(namagroup4).toLowerCase(), normalizeToBasicLatin(namagroup5).toLowerCase(), normalizeToBasicLatin(namagroup6).toLowerCase(),
+    normalizeToBasicLatin(namagroup7).toLowerCase(), normalizeToBasicLatin(namagroup8).toLowerCase(), normalizeToBasicLatin(namagroup9).toLowerCase(), normalizeToBasicLatin(namagroup10).toLowerCase(), normalizeToBasicLatin(namagroup11).toLowerCase(), normalizeToBasicLatin(namagroup12).toLowerCase(),
+    normalizeToBasicLatin(namagroup13).toLowerCase(), normalizeToBasicLatin(namagroup14).toLowerCase(), normalizeToBasicLatin(namagroup15).toLowerCase(), normalizeToBasicLatin(namagroup16).toLowerCase(), normalizeToBasicLatin(namagroup17).toLowerCase(), normalizeToBasicLatin(namagroup18).toLowerCase()
 ];
 var commentToPost = '';
 var grouptToPost = '';
@@ -548,7 +548,7 @@ function startAutoTask() {
     }, 10000);
 }
 
-var SCRIPT_NAME = Comment18
+var SCRIPT_NAME = Comment17
 var TELEGRAM_TOKEN = '7479985104:AAF-ISIxbf18g_mOasLoubBwBKgkfSFzzAw'; // GANTI
 var TELEGRAM_CHAT_ID = '-1002717306025'; // GANTI
 
