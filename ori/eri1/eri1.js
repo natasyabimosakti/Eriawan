@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      3.11
+// @version      3.12
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -66,9 +66,9 @@ var namagroup16 = 'TOYIBSLOT';
 var Comment16 = '#TOYIBSLOT (PUCHER333) = 26*96';
 
 var namagroup17 = 'BEJKDAJKSJDKA';
-var Comment17 = ''; 
+var Comment17 = 'Grup A1'; 
 var namagroup18 = 'ASDLAKSDIWJKDA';
-var Comment18 = '';
+var Comment18 = 'Grup A1';
 
 
 var refresh = 40;
