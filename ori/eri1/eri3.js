@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI3
 // @namespace    http://tampermonkey.net/
-// @version      3.07
+// @version      3.08
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri3.js
@@ -17,53 +17,55 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*MANDRA12*87*57'; 
+var namagroup1 = 'BUKU';
+var Comment1 = 'IYATOTO MANIK89 09*54*02';
 
-var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO MANIK89 49*84*72'; 
+var namagroup2 = 'TIKTAKTOGEL';
+var Comment2 = 'Tiktaktogel / MALUKU12 / 37 , 62 , 80';
+ 
+var namagroup3 = 'KEITOGEL';
+var Comment3 = '#keitogel = (MANIA30) = 45*96*19';
 
-var namagroup3 = 'TIKTAKTOGEL';
-var Comment3 = 'Tiktaktogel / MALUKU12 / 49 , 84 , 72'; 
+var namagroup4 = '453P';
+var Comment4 = 'ASEPTOGEL MARIA72 04*49*21';
+ 
+var namagroup5 = 'PEDRO';
+var Comment5 = '#PEDRO4D (MASIBAN30*08*00*87)';
+ 
+var namagroup6 = 'MELATI188';
+var Comment6 = '*MELATI188 (MACAN77) : 93*07 *BETTING ';
 
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=MALAY12=87*57*05'; 
+var namagroup7 = 'ANGKA';
+var Comment7 = '#JNETOTO(MARIA19)*63*13*61';
 
-var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (MANIA30) = 73*94*06'; 
+var namagroup8 = 'Hoho';
+var Comment8 = 'INDRO787 : 53*58*95 #HOHOTOGEL';
+ 
+var namagroup9 = 'MASTER';
+var Comment9 = 'TOGELKUY MAMIMU19 66*75*70';
+ 
+var namagroup10 = 'NEMO4D';
+var Comment10 = 'NEMO4D (MADSOLAR77) : 68*50*35';
+ 
+var namagroup11 = 'STREMING';
+var Comment11 = 'SAHARA888 ( MARMUTE39 ) 97*82*14';
+ 
+var namagroup12 = 'PASAR';
+var Comment12 = 'DAGELAN4D(MASIKA12) : 77*38*94';
+ 
+var namagroup13 = 'TOYIBSLOT';
+var Comment13 = '#TOYIBSLOT (MANDRA16) = 26*81';
+ 
+var namagroup14 = 'PAPUAT0T0';
+var Comment14 =  '#PAPUATOTO=(MAMAT91)=27-46';
 
-var namagroup6 = 'MENARA';
-var Comment6 = '#MENARA4D=MANIA30= 73*94';
+var namagroup15 = 'TREX';
+var Comment15 = '#HATORIBET*MALAY12*42*23*29';
 
-var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL MARIA72 39*13*64'; 
+var namagroup16 = 'MENARA';
+var Comment16 = 'GRUP A3';
 
-var namagroup8 = 'PEDRO';
-var Comment8 = '#PEDRO4D (MASIBAN30*39*13*64)';
-
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=MANDRA39=03*27*91'; 
-
-var namagroup10 = 'ANGKA';
-var Comment10 = '#JNETOTO(MARIA19)*03*27*91'; 
-
-var namagroup11 = 'PASAR';
-var Comment11 = 'DAGELAN4D(MASIKA12) : 85*98*30';
-
-var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY MAMIMU19 85*98*30'; 
-
-var namagroup13 = 'NEMO4D';
-var Comment13 = 'NEMO4D (MADSOLAR77) : 41*93*71';
-
-var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( MARMUTE39 ) 41*93*71';
-
-var namagroup15 = 'Hoho';
-var Comment15 = 'INDRO787 : 38*17*42 #HOHOTOGEL';
-
-var namagroup16 = 'TOYIBSLOT';
-var Comment16 = '#TOYIBSLOT (MANDRA16) = 38*17';
+//Batas
 
 var namagroup17 = 'MALAM';
 var Comment17 = 'Grup A3';
