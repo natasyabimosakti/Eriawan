@@ -57,7 +57,7 @@ var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT (LIASTI39) = 15*78';
 
 var namagroup14 = 'PAPUAT0T0';
-var Comment14 =  ''#PAPUATOTO=(LURAH22)=99-36';';
+var Comment14 =  '#PAPUATOTO=(LURAH22)=99-36';
 
 var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*LARASTI19*28*16*31';
