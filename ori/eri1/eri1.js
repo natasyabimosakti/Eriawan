@@ -44,8 +44,8 @@ var Comment8 = 'PAKAI333 : 28*16*31 #HOHOTOGEL';
 var namagroup9 = 'MASTER';
 var Comment9 =  'TOGELKUY PUSH565 43*60*57';
 
-var namagroup10 = 'MASTER';
-var Comment10 = 'TOGELKUY PUSH565 92*19*75'; 
+var namagroup10 = 'NEMO4D';
+var Comment10 = 'NEMO4D (PIQUE020) : 69*18*59'; 
 
 var namagroup11 = 'STREMING';
 var Comment11 = 'SAHARA888 ( PALA212 ) 51*86*24'; 
