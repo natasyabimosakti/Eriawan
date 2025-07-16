@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 ERI4
 // @namespace    http://tampermonkey.net/
-// @version      2.98
+// @version      2.99
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri2/eri4.js
@@ -17,8 +17,8 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*SOSWEET87*07*65'; 
+var namagroup1 = 'MELATI188';
+var Comment1 = '*MELATI188 (SOSWEET87) : 07*65 *BETTING ';
 
 var namagroup2 = 'BUKU';
 var Comment2 = 'IYATOTO SUNRISE33 57*72*80'; 
@@ -26,8 +26,8 @@ var Comment2 = 'IYATOTO SUNRISE33 57*72*80';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / SUMMER84 / 62 , 37 , 15'; 
 
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=SEMANGAT45=60*59*40'; 
+var namagroup4 = 'PAPUAT0T0';
+var Comment4 =  '#PAPUATOTO=(SEMANGAT45)=60-59';
 
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (SANRIO123) = 57*72*80'; 
@@ -41,8 +41,8 @@ var Comment7 = 'ASEPTOGEL SUNSET245 21*88*69';
 var namagroup8 = 'MENARA';
 var Comment8 = '#MENARA4D=SOMERSET34= 96*55';
 
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=SENADA17=07*65*50'; 
+var namagroup9 = 'TREX';
+var Comment9 = '#HATORIBET*SENADA17*07*65*50';
 
 var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(SOPHIA38)*62*37*15'; 
