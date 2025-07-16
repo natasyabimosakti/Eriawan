@@ -63,7 +63,7 @@ var namagroup15 = 'TREX';
 var Comment15 = '#HATORIBET*YEEZZ35*28*96*97';
 
 var namagroup16 = 'MENARA';
-var Comment16 = 'GRUP A1';
+var Comment16 = 'GRUP E2';
 
 //Batas
 
