@@ -17,8 +17,8 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*QUANTUM73*67*49'; 
+var namagroup1 = 'MELATI188';
+var Comment1 = '*MELATI188 (QUANTUM73) : 67*49 *BETTING ';
 
 var namagroup2 = 'BUKU';
 var Comment2 = 'IYATOTO QQCHERY88 86*10*47'; 
@@ -26,8 +26,8 @@ var Comment2 = 'IYATOTO QQCHERY88 86*10*47';
 var namagroup3 = 'TIKTAKTOGEL';
 var Comment3 = 'Tiktaktogel / QIBAAT50 / 85 , 31 , 63'; 
 
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=QIQIK38=82*68*61'; 
+var namagroup4 = 'PAPUAT0T0';
+var Comment4 =  '#PAPUATOTO=(QIQIK38)=82-68';
 
 var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (QUIINE91) = 86*10*47'; 
@@ -41,8 +41,8 @@ var Comment7 = 'ASEPTOGEL QRISS08 84*97*51';
 var namagroup8 = 'MENARA';
 var Comment8 = '#MENARA4D=QWERTYY28= 36*18';
 
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=QOPILU09=67*49*28'; 
+var namagroup9 = 'TREX';
+var Comment9 = '#HATORIBET*QOPILU09*67*49*28';
 
 var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(QESBAH72)*85*31*63'; 
