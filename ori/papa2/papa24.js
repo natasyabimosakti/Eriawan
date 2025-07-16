@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA24
 // @namespace    http://tampermonkey.net/
-// @version      1.13
+// @version      1.14
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa24.js
@@ -17,57 +17,58 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*WINDOW98*89*56'; 
+var namagroup1 = 'BUKU';
+var Comment1 = 'IYATOTO WINDI55 25*43*45';
 
-var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO WINDI55 70*77*94'; 
+var namagroup2 = 'TIKTAKTOGEL';
+var Comment2 = 'Tiktaktogel / WUJONIE56 / 10 , 72 , 50';
 
-var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / WUJONIE56 / 70 , 77 , 94'; 
+var namagroup3 = 'KEITOGEL';
+var Comment3 = '#keitogel = (WARZONE34) = 52*38*41';
 
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=WORRIE21=89*56*93'; 
+var namagroup4 = '453P';
+var Comment4 = 'ASEPTOGEL WINXXX99 82*84*13'; 
 
-var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (WARZONE34) = 65*83*81'; 
+var namagroup5 = 'PEDRO';
+var Comment5 = '#PEDRO4D (WEKLOSE09*92*29*47)'; 
 
-var namagroup6 = 'MENARA';
-var Comment6 = '#MENARA4D=WONDER65= 07*40';
+var namagroup6 = 'MELATI188';
+var Comment6 = '*MELATI188 (WANWAN92) : 16*02 *BETTING ';
 
-var namagroup7 = '453P VIP';
-var Comment7 = 'ASEPTOGEL WINXXX99 65*83*81'; 
+var namagroup7 = 'ANGKA';
+var Comment7 = '#JNETOTO(WHEREAM55)*06*22*99';
 
-var namagroup8 = 'TRIFHTING';
-var Comment8 = '#PEDRO4D (WEKLOSE09*07*40*79)';
+var namagroup8 = 'Hoho';
+var Comment8 = 'WINXXX99 : 64*60*61 #HOHOTOGEL';
 
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=WHAWHA24=11*01*62'; 
+var namagroup9 = 'MASTER';
+var Comment9 =  'TOGELKUY WAOW001 15*67*85';
 
-var namagroup10 = 'ANGKA';
-var Comment10 = '#JNETOTO(WHEREAM55)*11*01*62'; 
+var namagroup10 = 'NEMO4D';
+var Comment10 = 'NEMO4D (WINTER360) : 98*81*18'; 
 
-var namagroup11 = 'PASAR';
-var Comment11 = 'DAGELAN4D(WHOIS87) : 16*95*08';
+var namagroup11 = 'STREMING';
+var Comment11 = 'SAHARA888 ( WOCO444 ) 94*48*54'; 
 
-var namagroup12 = 'MASTER';
-var Comment12 = 'TOGELKUY WAOW001 16*95*08'; 
+var namagroup12 = 'PASAR';
+var Comment12 = 'DAGELAN4D(WHOIS87) : 53*66*32';
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT (WULLING234) = 52*23'; 
+var Comment13 = '#TOYIBSLOT (WULLING234) = 58*88';
 
-var namagroup14 = 'STREMING';
-var Comment14 = 'SAHARA888 ( WOCO444 ) 52*33*25'; 
+var namagroup14 = 'PAPUAT0T0';
+var Comment14 =  '#PAPUATOTO=(WAGU89)=27-00';
 
-var namagroup15 = 'NEMO4D';
-var Comment15 = 'NEMO4D (WINTER360) : 02*55*69';
+var namagroup15 = 'TREX';
+var Comment15 = '#HATORIBET*WUJONIE56*74*76*05';
 
-var namagroup16 = 'Hoho';
-var Comment16 = 'WINXXX99 : 02*55*84 #HOHOTOGEL';
+var namagroup16 = 'MENARA';
+var Comment16 = 'GRUP E4';
+
+//Batas
 
 var namagroup17 = 'KADALLLAL';
 var Comment17 = 'Grup E4';
-
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup E4';
