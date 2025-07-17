@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      2.20
+// @version      2.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -73,6 +73,8 @@ var Comment18 = 'GRUP B3';
 
 
 
+
+var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
 var keyword = ["ROOM","RUM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
@@ -228,7 +230,7 @@ function tungguGroup() {
                 if (container) {
                     const result = getCommentForGroup();
                     if (result) {
-                        commentToPost = normalizeToBasicLatin(result.comment)
+                        commentToPost = Random(result.comment)
                         grouptToPost = normalizeToBasicLatin(result.groupName)
                         console.log("✅ Nama grup : " + grouptToPost + " | Comment : " +commentToPost );
                         manageGroups();
@@ -452,10 +454,10 @@ async function botArticle(mutatin) {
                         if (tombolKirim ) {
                             console.log("TextBox komentar ditemukan:", tombolKirim);
                             function klikTextboxJikaSiap() {
+                                stopRefresh()
                                 tombolKirim.click();
                                 const textbox = document.querySelector(".multi-line-floating-textbox");
                                 if (textbox) {
-                                    stopRefresh()
                                     myObserver.disconnect();
                                     observercontetn.disconnect();
                                     console.log("✅ TextBox komentar Telah DI Klik & Muncul");
@@ -548,7 +550,7 @@ function startAutoTask() {
     }, 10000);
 }
 
-var SCRIPT_NAME = Comment17
+
 var TELEGRAM_TOKEN = '7479985104:AAF-ISIxbf18g_mOasLoubBwBKgkfSFzzAw'; // GANTI
 var TELEGRAM_CHAT_ID = '-1002717306025'; // GANTI
 
@@ -698,4 +700,53 @@ function normalizeToBasicLatin(str) {
         }
         return ch;
     });
+}
+
+function Random(comment) {
+    const numberRegex = /\d{2}/g;
+    const rawNumbers = [...comment.matchAll(numberRegex)];
+
+    // Saring hanya angka yang tidak melekat dengan huruf di kiri atau kanan
+    const validNumbers = rawNumbers.filter(match => {
+        const i = match.index;
+        const before = comment[i - 1] || '';
+        const after = comment[i + 2] || '';
+        return !(/[a-z0-9]/i.test(before)) && !(/[a-z]/i.test(after));
+    });
+
+    if (validNumbers.length < 2) return comment;
+
+    const lastCount = Math.min(3, validNumbers.length);
+    const lastNums = validNumbers.slice(-lastCount);
+    const separators = [];
+    for (let i = 0; i < lastCount - 1; i++) {
+        separators.push(comment.slice(lastNums[i].index + 2, lastNums[i + 1].index));
+    }
+
+    const angka = lastNums.map(x => x[0]);
+
+    function shuffleArray(arr) {
+        const copy = [...arr];
+        for (let i = copy.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [copy[i], copy[j]] = [copy[j], copy[i]];
+        }
+        return copy;
+    }
+
+    const rotated = lastCount === 2
+        ? [angka[1], angka[0]]
+        : shuffleArray(angka);
+
+    const start = comment.slice(0, lastNums[0].index);
+    const end = comment.slice(lastNums[lastCount - 1].index + 2);
+
+    let result = start;
+    for (let i = 0; i < lastCount; i++) {
+        result += rotated[i];
+        if (i < lastCount - 1) result += separators[i];
+    }
+    result += end;
+
+    return result;
 }
