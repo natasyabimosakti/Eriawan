@@ -68,7 +68,7 @@ var Comment15 = 'CITA4D*PONTA670*81*35*09';
 var namagroup16 = 'BENTOELLLL';
 var Comment16 = 'GRUP B1';
 
-var namagroup17 = 'OPUNG';
+var namagroup17 = 'SIALAN';
 var Comment17 = 'GRUP B1';
 
 var namagroup18 = 'Jawatengah';
