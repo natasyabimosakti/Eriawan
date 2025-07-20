@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI ERI1
 // @namespace    http://tampermonkey.net/
-// @version      3.18
+// @version      3.19
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/eri1/eri1.js
@@ -32,8 +32,8 @@ var Comment4 = 'ASEPTOGEL PAKAI333 12*22*85';
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (PUANCEN444*33*98*90)'; 
 
-var namagroup6 = 'MELATI188';
-var Comment6 = '*MELATI188 (PUCHER333) : 01*72 *BETTING ';
+var namagroup6 = 'VESPA7093L';
+var Comment6 = 'VESPATOGEL (PIQUE020) 01*72*17';
 
 var namagroup7 = 'ANGKA';
 var Comment7 = '#JNETOTO(PAYAH999)*71*74*65';
@@ -53,6 +53,8 @@ var Comment11 = 'SAHARA888 ( PALA212 ) 51*86*24';
 var namagroup12 = 'PASAR';
 var Comment12 = 'DAGELAN4D(PUNK888) : 20*55*64';
 
+
+//BATAS BO 1
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT (PUCHER333) = 03*32';
 
