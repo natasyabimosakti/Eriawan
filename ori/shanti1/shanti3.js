@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI3
 // @namespace    http://tampermonkey.net/
-// @version      2.21
+// @version      2.22
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti3.js
@@ -17,56 +17,58 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-var namagroup1 = 'TAFSIR';
-var Comment1 = 'SIJITOGEL ILOVE96 17*40*16';
+var namagroup1 = 'DIVA4D';
+var Comment1 = '#DIVA4D (IKONGG90) = 26*81*83';
 
-var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( INJURI45 ) : 17*40*16';
+var namagroup2 = 'TAFSIR';
+var Comment2 = 'SIJITOGEL ILOVE96 27*46*89';
 
-var namagroup3 = 'RIATOTO';
-var Comment3 = '#RIATOTO ICON888 = 29*96*86';
+var namagroup3 = 'GTO';
+var Comment3 = '(GUDANGTOTO) = (INDAH007) 42*23*29';
 
-var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*Mayapada4D(BO)*ISEEU50*98*58*39';
+var namagroup4 = 'VIP';
+var Comment4 = 'Tok99Toto ( IGUN900 ) : 47*73*05';
 
-var namagroup5 = 'VESPA7093L';
-var Comment5 = 'VESPATOGEL (MALIAN19) 10*82*21';
+var namagroup5 = '(WARTO)';
+var Comment5 = '#(WARUNGTOTO) = (ISEEU50) 20*70*63';
 
-var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (IKONGG90) = 10*82*21';
+var namagroup6 = 'K86';
+var Comment6 = 'K86TOTO ( INJURI45 ) : 40*47*67';
 
-var namagroup7 = 'KIKOTOTO';
-var Comment7 = '#KIKOTOTO (ICANSEE21) = 19*45';
+var namagroup7 = 'RIATOTO';
+var Comment7 = '#RIATOTO ICON888 = 58*05*03';
 
-var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( IGUN900 ) : 19*45*55';
+var namagroup8 = 'MAYAPADA';
+var Comment8 = 'BETT*Mayapada4D(BO)*ISEEU50*11*14*13';
 
-var namagroup9 = 'OPUNG';
-var Comment9 = 'OPUNG4D ( ILHAM88 ) : 98*58*39';
+var namagroup9 = 'UPINSLOT';
+var Comment9 = '#UPINSLOT ( ICANSEE21 ) 57*68*31 BETTING';
 
-var namagroup10 = 'ANGKER';
-var Comment10 = 'ANGKER4D=MASIBAN30=59*03*84';
+var namagroup10 = 'KIKOTOTO';
+var Comment10 = '#KIKOTOTO (ICANSEE21) = 35*37';
 
-var namagroup11 = 'GTO';
-var Comment11 = '(GUDANGTOTO) = (INDAH007) 29*96*86';
+var namagroup11 = 'LING';
+var Comment11 = 'LING77 (MALIAN19) 80*21';
 
-var namagroup12 = 'LOGAMTOTO';
-var Comment12 = '#LOGAMTOTO=INDAH007= 59*03#';
+var namagroup12 = 'OPUNG';
+var Comment12 = 'OPUNG4D ( ILHAM88 ) : 94*01*77';
+
+//BATAS
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL ICECREAM35 34*23*18';
 
-var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (ISEEU50) 34*23*18';
+var namagroup14 = 'SURAMXXX';
+var Comment14 = '#HITOGEL ICECREAM35 34*23*18';
 
-var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( ICANSEE21 ) 63*53*31 BETTING';
+var namagroup15 = 'SEPAHK';
+var Comment15 = '#HITOGEL ICECREAM35 34*23*18';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*IHSARU724*63*53*57';
 
-var namagroup17 = 'LING';
-var Comment17 = 'LING77 (MALIAN19) 31*57';
+var namagroup17 = 'Jawatengah';
+var Comment17 = 'GRUP B3';
 
 var namagroup18 = 'MALAMMMMMM';
 var Comment18 = 'GRUP B3';
