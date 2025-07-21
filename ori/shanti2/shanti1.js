@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI1
 // @namespace    http://tampermonkey.net/
-// @version      2.19
+// @version      2.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti1.js
@@ -22,25 +22,25 @@ var namagroup1 = 'VESPA7093L';
 var Comment1 = 'VESPATOGEL (TONGKOL65) 66*08*20';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( TUNDER18 ) : 21*84*64';
+var Comment2 = 'K86TOTO ( TUNDER18 ) : 52*38*32';
 
 var namagroup3 = 'KIKOTOTO';
 var Comment3 = '#KIKOTOTO (THANKYOU99) = 94*96';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*Mayapada4D(BO)*TORNADO13*40*57*01';
+var Comment4 = 'BETT*Mayapada4D(BO)*TORNADO13*64*44*24';
 
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL TASMANIA2 74*68*19';
 
 var namagroup6 = 'GTO';
-var Comment6 = '(GUDANGTOTO) = (TIRAMISU37) 90*97*78';
+var Comment6 = '(GUDANGTOTO) = (TIRAMISU37) 37*25*47';
 
 var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO TAS999 = 37*25*47';
+var Comment7 = '#RIATOTO TAS999 = 90*97*78';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( TASTY89 ) : 37*25*47';
+var Comment8 = 'Tok99Toto ( TASTY89 ) : 21*84*64';
 
 var namagroup9 = 'LOGAMTOTO';
 var Comment9 = '#LOGAMTOTO=TIRAMISU37= 40*57#';
@@ -52,7 +52,7 @@ var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (TUNAI123) = 02*58*15';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( TERMOS88 ) : 74*68*55';
+var Comment12 = 'OPUNG4D ( TERMOS88 ) : 77*81*33';
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL TRUST898 02*58*15';
@@ -61,13 +61,13 @@ var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (TORNADO13) 94*96*99';
 
 var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( TONGKOL65 ) 21*84*64 BETTING';
+var Comment15 = '#UPINSLOT ( TONGKOL65 ) 66*08*20 BETTING';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*TIGERS387*55*19*20';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (TASMANIA2) 66*08';
+var Comment17 = 'LING77 (TASMANIA2) 52*38';
 
 var namagroup18 = 'Jawatengan';
 var Comment18 = 'Grup D1';
