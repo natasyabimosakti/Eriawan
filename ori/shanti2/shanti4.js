@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI4
 // @namespace    http://tampermonkey.net/
-// @version      2.13
+// @version      2.14
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti4.js
@@ -21,25 +21,25 @@ var namagroup1 = 'VESPA7093L';
 var Comment1 = 'VESPATOGEL (SHINY111) 36*32*39';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( SUNRISE33 ) : 41*67*14';
+var Comment2 = 'K86TOTO ( SUNRISE33 ) : 07*65*50';
 
 var namagroup3 = 'KIKOTOTO';
 var Comment3 = '#KIKOTOTO (SUMMER84) = 62*09';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*Mayapada4D(BO)*SOS999*51*48*16';
+var Comment4 = 'BETT*Mayapada4D(BO)*SOS999*62*37*15';
 
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL SOSWEET87 70*92*38';
 
 var namagroup6 = 'GTO';
-var Comment6 = '(GUDANGTOTO) = (SEALION99) 83*12*80';
+var Comment6 = '(GUDANGTOTO) = (SEALION99) 54*33*13';
 
 var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO SQUASH387 = 54*33*13';
+var Comment7 = '#RIATOTO SQUASH387 = 83*12*80';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( SOMERSET34 ) : 54*33*13';
+var Comment8 = 'Tok99Toto ( SOMERSET34 ) : 41*67*14';
 
 var namagroup9 = 'LOGAMTOTO';
 var Comment9 = '#LOGAMTOTO=SEALION99= 51*48#';
@@ -51,7 +51,7 @@ var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (SEMBILAN8) = 69*07*81';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( SAPPHIR3 ) : 70*92*11';
+var Comment12 = 'OPUNG4D ( SAPPHIR3 ) : 60*59*40';
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL SODA168 69*07*81';
@@ -60,13 +60,13 @@ var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (SOS999) 62*09*56';
 
 var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( SHINY111 ) 41*67*14 BETTING';
+var Comment15 = '#UPINSLOT ( SHINY111 ) 36*32*39 BETTING';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*SOURSALLY77*11*38*39';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (SHINY111) 36*32';
+var Comment17 = 'LING77 (SHINY111) 07*65';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup D4';
