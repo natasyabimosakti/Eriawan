@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA1
 // @namespace    http://tampermonkey.net/
-// @version      2.07
+// @version      2.08
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa1.js
@@ -18,28 +18,28 @@
 // ==/UserScript==
 
 var namagroup1 = 'LOGAMTOTO';
-var Comment1 = '#LOGAMTOTO=ZAMBORE77= 11*61#';
+var Comment1 = '#LOGAMTOTO=ZAMBORE77= 29*41#';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 11*71*27';
+var Comment2 = 'K86TOTO ( ZOOLINE55 ) : 59*56*12';
 
 var namagroup3 = 'GTO';
-var Comment3 = '(GUDANGTOTO) = (ZAMBORE77) 14*50*71';
+var Comment3 = '(GUDANGTOTO) = (ZAMBORE77) 07*49*24';
 
 var namagroup4 = 'RIATOTO';
-var Comment4 = '#RIATOTO ZIGZAG66 = 14*61*50';
+var Comment4 = '#RIATOTO ZIGZAG66 = 86*57*19';
 
 var namagroup5 = 'MAYAPADA';
-var Comment5 = 'BETT*Mayapada4D(BO)*ZEVVA34*26*31*67';
+var Comment5 = 'BETT*Mayapada4D(BO)*ZEVVA34*09*26*77';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (ZAPP313) = 26*31*67';
+var Comment6 = '#DIVA4D (ZAPP313) = 76*96*85';
 
 var namagroup7 = 'TAFSIR';
-var Comment7 = 'SIJITOGEL ZUZUZU88 59*65*75';
+var Comment7 = 'SIJITOGEL ZUZUZU88 43*49*01';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 59*65*75';
+var Comment8 = 'Tok99Toto ( ZOMBIE22 ) : 71*39*75';
 
 var namagroup9 = 'VESPA7093L';
 var Comment9 = 'VESPATOGEL (ZONARED44) 76*45*34';
@@ -51,22 +51,22 @@ var namagroup11 = 'KIKOTOTO';
 var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( ZUMIE22 ) : 78*94*99';
+var Comment12 = 'OPUNG4D ( ZUMIE22 ) : 16*67*72';
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL ZAPP313 49*35*74';
 
 var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 49*35*74';
+var Comment14 = '#(WARUNGTOTO) = (YOUPUB33) 38*62*84';
 
 var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( ZUMBA78 ) 72*68*51 BETTING';
+var Comment15 = '#UPINSLOT ( ZUMBA78 ) 36*42*09 BETTING';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*ZUMMO28*72*68*84';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (ZUKAZUKA01) 84*51';
+var Comment17 = 'LING77 (ZUKAZUKA01) 05*70';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup F1';
