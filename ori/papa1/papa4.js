@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI PAPA4
 // @namespace    http://tampermonkey.net/
-// @version      2.02
+// @version      2.03
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa1/papa4.js
@@ -18,28 +18,28 @@
 // ==/UserScript==
 
 var namagroup1 = 'LOGAMTOTO';
-var Comment1 = '#LOGAMTOTO=WUJONIE56= 53*91#';
+var Comment1 = '#LOGAMTOTO=WUJONIE56= 54*93#';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( WINDI55 ) : 41*54*09';
+var Comment2 = 'K86TOTO ( WINDI55 ) : 27*00*42';
 
 var namagroup3 = 'GTO';
-var Comment3 = '(GUDANGTOTO) = (WUJONIE56) 20*97*33';
+var Comment3 = '(GUDANGTOTO) = (WUJONIE56) 95*30*62';
 
 var namagroup4 = 'RIATOTO';
-var Comment4 = '#RIATOTO WORRIE21 = 95*62*85';
+var Comment4 = '#RIATOTO WORRIE21 = 74*76*05';
 
 var namagroup5 = 'MAYAPADA';
-var Comment5 = 'BETT*Mayapada4D(BO)*WAIVE444*53*91*33';
+var Comment5 = 'BETT*Mayapada4D(BO)*WAIVE444*36*58*88';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (WONDER65) = 41*54*09';
+var Comment6 = '#DIVA4D (WONDER65) = 20*92*18';
  
 var namagroup7 = 'TAFSIR';
-var Comment7 = 'SIJITOGEL WINXXX99 20*97*21';
+var Comment7 = 'SIJITOGEL WINXXX99 60*89*26';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( WEKLOSE09 ) : 95*62*85';
+var Comment8 = 'Tok99Toto ( WEKLOSE09 ) : 37*46*45';
 
 var namagroup9 = 'VESPA7093L';
 var Comment9 = 'VESPATOGEL (WHAWHA24) 73*44*16';
@@ -51,22 +51,22 @@ var namagroup11 = 'KIKOTOTO';
 var Comment11 = '#KIKOTOTO (WINTER360) = 77*28';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( WAOW001 ) : 56*10*00';
+var Comment12 = 'OPUNG4D ( WAOW001 ) : 50*12*52';
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL WULLING234 73*44*92';
 
 var namagroup14 = '(WARTO)';
-var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 77*01*64';
+var Comment14 = '#(WARUNGTOTO) = (WAIVE444) 13*08*30';
 
 var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( WINTER360 ) 56*10*00 BETTING';
+var Comment15 = '#UPINSLOT ( WINTER360 ) 06*74*95 BETTING';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*WIGEN919*88*28*89';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (WDANCE456) 16*92';
+var Comment17 = 'LING77 (WDANCE456) 65*07';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup F4 ';
