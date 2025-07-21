@@ -47,8 +47,8 @@ var Comment9 = '#HATORIBET*TIKTOK2024*52*38*32';
 var namagroup10 = 'ANGKA';
 var Comment10 = '#JNETOTO(TOPIKU777)*14*76*70'; 
 
-var namagroup11 = 'TOYIBSLOT';
-var Comment11 = '#TOYIBSLOT (TRUST898) = 30*13'; 
+var namagroup11 = 'VESPA7093L';
+var Comment11 = 'VESPATOGEL (TONGKOL65) 30*13*87';
 
 var namagroup12 = 'MASTER KUY';
 var Comment12 = 'TOGELKUY TERANG93 77*81*33'; 
