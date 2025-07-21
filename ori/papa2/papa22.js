@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BO1 PAPA22
 // @namespace    http://tampermonkey.net/
-// @version      1.20
+// @version      1.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/papa2/papa22.js
@@ -32,8 +32,8 @@ var Comment4 = 'ASEPTOGEL YUPPIE54 39*33*91';
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (YAMBOH22*09*26*79)'; 
 
-var namagroup6 = 'MELATI188';
-var Comment6 = '*MELATI188 (YAYUK5) : 59*56 *BETTING ';
+var namagroup6 = 'VESPA7093L';
+var Comment6 = 'VESPATOGEL (YUKWIN09) 59*56*12';
 
 var namagroup7 = 'ANGKA';
 var Comment7 = '#JNETOTO(YUKJUM35)*86*57*19';
