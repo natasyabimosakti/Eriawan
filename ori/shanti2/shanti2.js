@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 2 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      2.19
+// @version      2.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti2/shanti2.js
@@ -21,25 +21,25 @@ var namagroup1 = 'VESPA7093L';
 var Comment1 = 'VESPATOGEL (QONCCER88) 59*50*30';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( QQCHERY88 ) : 65*26*24';
+var Comment2 = 'K86TOTO ( QQCHERY88 ) : 67*49*28';
 
 var namagroup3 = 'KIKOTOTO';
 var Comment3 = '#KIKOTOTO (QIBAAT50) = 44*03';
 
 var namagroup4 = 'MAYAPADA';
-var Comment4 = 'BETT*Mayapada4D(BO)*QERJA99*63*34*87';
+var Comment4 = 'BETT*Mayapada4D(BO)*QERJA99*85*31*63';
 
 var namagroup5 = 'TAFSIR';
 var Comment5 = 'SIJITOGEL QUANTUM33 72*05*85';
 
 var namagroup6 = 'GTO';
-var Comment6 = '(GUDANGTOTO) = (QWANDU66) 77*43*93';
+var Comment6 = '(GUDANGTOTO) = (QWANDU66) 31*53*22';
 
 var namagroup7 = 'RIATOTO';
-var Comment7 = '#RIATOTO QUARTZ8 = 31*53*22';
+var Comment7 = '#RIATOTO QUARTZ8 = 77*43*93';
 
 var namagroup8 = 'VIP';
-var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 31*53*22';
+var Comment8 = 'Tok99Toto ( QWERTYY28 ) : 65*26*24';
 
 var namagroup9 = 'LOGAMTOTO';
 var Comment9 = '#LOGAMTOTO=QWANDU66= 63*34#';
@@ -51,7 +51,7 @@ var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (QANWIR77) = 79*89*10';
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( QUICKLY33 ) : 72*05*88';
+var Comment12 = 'OPUNG4D ( QUICKLY33 ) : 82*68*61';
 
 var namagroup13 = 'HITO';
 var Comment13 = '#HITOGEL QERBAU04 79*89*10';
@@ -60,13 +60,13 @@ var namagroup14 = '(WARTO)';
 var Comment14 = '#(WARUNGTOTO) = (QERJA99) 44*03*46';
 
 var namagroup15 = 'UPINSLOT';
-var Comment15 = '#UPINSLOT ( QONCCER88 ) 65*26*24 BETTING';
+var Comment15 = '#UPINSLOT ( QONCCER88 ) 59*50*30 BETTING';
 
 var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*QUEEN710*88*85*30';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (QONCCER88) 59*50';
+var Comment17 = 'LING77 (QONCCER88) 67*49';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup D2';
