@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ORI 1 SHANTI2
 // @namespace    http://tampermonkey.net/
-// @version      2.32
+// @version      2.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Eriawan/main/ori/shanti1/shanti2.js
@@ -48,7 +48,7 @@ var namagroup9 = 'UPINSLOT';
 var Comment9 = '#UPINSLOT ( JONGKOK222 ) 74*42*89 BETTING';
 
 var namagroup10 = 'KIKOTOTO';
-var Comment10 = '#KIKOTOTO (JONGKOK222) = 59*88';
+var Comment10 = '#KIKOTOTO (JONGKOK222) = 41*50';
 
 var namagroup11 = 'LING';
 var Comment11 = 'LING77 (LIAMBA32) 80*21';
@@ -81,12 +81,11 @@ var Comment18 = 'Grup B2';
 
 
 
-
 var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/adminer2.json"
 var keyword = ["ROOM","RUM","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","SINGAPORE","nemo"]
-var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","r3kap","rek4p"]
+var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
 var now = Date.now();
@@ -322,7 +321,7 @@ async function manageGroups() {
 let sedangKlikTextbox = false;
 function CekBacklist(postinganBL) {
     for (const DataBacklist of Backlist) {
-        const kata = normalizeToBasicLatin(DataBacklist.toLowerCase())
+        const kata = DataBacklist.toLowerCase()
         if (postinganBL.toLowerCase().includes(kata)) {
             console.log(`❌ Diblok karena mengandung: "${kata}"`);
             return true;
@@ -334,7 +333,7 @@ function CekBacklist(postinganBL) {
 function CekKeyword(postingan) {
     console.log("🔍 CekKeyword untuk:", postingan);
     for (const DataKeyword of keyword) {
-        const kata = normalizeToBasicLatin(DataKeyword.toLowerCase())
+        const kata = DataKeyword.toLowerCase()
         if (postingan.toLowerCase().includes(kata)) {
             console.log(`✅ Keyword ditemukan: "${kata}"`);
             return true;
