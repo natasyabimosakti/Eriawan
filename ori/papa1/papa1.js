@@ -48,7 +48,7 @@ var namagroup10 = 'ANGKER';
 var Comment10 = 'ANGKER4D=ZOMBIE22=76*45*34';
 
 var namagroup11 = 'KIKOTOTO';
-var Comment11 = '#KIKOTOTO (ZUMBA78) = 78*94';
+var Comment11 = '#KIKOTOTO (ZUMBA78) = 09*26';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( ZUMIE22 ) : 16*67*72';
