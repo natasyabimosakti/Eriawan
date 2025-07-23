@@ -66,7 +66,7 @@ var namagroup16 = 'CITA-4D';
 var Comment16 = 'CITA4D*WIGEN919*88*28*89';
 
 var namagroup17 = 'LING';
-var Comment17 = 'LING77 (WDANCE456) 65*07';
+var Comment17 = 'LING77 (WDANCE456) 63*61';
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'Grup F4 ';
